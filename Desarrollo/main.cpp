@@ -1,9 +1,10 @@
-#include <iostream>
+#include "torneo.h"
 
 using namespace std;
 
-int main()
-{
-    cout << "Listo para empezar a desarrollar" << endl;
-    return 0;
+int main() {
+  torneo t;
+  t.cargarEquipos();
+  t.conformarBombos();
+  return 0;
 }

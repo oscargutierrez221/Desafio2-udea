@@ -35,6 +35,7 @@ public:
     void setApellido(string nuevoApellido);
 
     void actualizarEstadisticasPartido(int goles, int amarillas, int rojas, int faltas, int minutos);
+    void cargarEstadisticas(int goles, int partidos, int minutos, int asistencias, int amarillas, int rojas, int faltas);
 
     int getGoles() const;
 

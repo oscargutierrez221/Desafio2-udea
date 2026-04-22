@@ -1,0 +1,16 @@
+Colombia,David,Vargas,26,0,0,0,0,0,0
+Brasil,Neymar,Da Silva,10,0,0,0,0,0,0
+Argentina,Leo,Messi,30,0,0,0,0,0,0
+Colombia,Juan,Santos,12,0,0,0,0,0,0
+Argentina,Dibu,Martinez,1,0,0,0,0,0,0
+Brasil,David,Silva,14,0,0,0,0,0,0
+Brasil,Vinicius,Junior,7,0,0,0,0,0,0
+Brasil,Thiago,Silva,15,0,0,0,0,0,0
+Brasil,Pele,,10,0,0,0,0,0,0
+Colombia,James,Rodriguez,14,0,0,0,0,0,0
+Croacia,Luka,Modric,10,0,0,0,0,0,0
+Croacia,Ivan,Rakitic,7,0,0,0,0,0,0
+Croacia,Mateo,Kovacic,8,0,0,0,0,0,0
+Alemania,Toni,Kroos,8,0,0,0,0,0,0
+Alemania,Thomas,Mueller,13,0,0,0,0,0,0
+Alemania,Manuel,Neuer,1,0,0,0,0,0,0

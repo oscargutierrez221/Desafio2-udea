@@ -1,5 +1,6 @@
 #ifndef EQUIPO_H
 #define EQUIPO_H
+#include "jugador.h"
 #include "resultados.h"
 #include <string>
 
@@ -13,6 +14,8 @@ private:
     int ranking;
     string directorTecnico;
     resultados estadisticas;
+    jugador* jugadores[26];
+    int numJugadores;
 
 public:
     equipo();
@@ -27,6 +30,11 @@ public:
 
     resultados& getResultados();
     const resultados& getResultados() const;
+
+    void agregarJugador(string nombre, string apellido, int camiseta,
+                        int goles, int amarillas, int rojas, int minutos, int partidos, int asistencias);
+    jugador* getJugador(int i) const;
+    int getNumJugadores() const;
 
     void mostrarEstadisticas() const;
 };
