@@ -20,10 +20,13 @@ equipo::equipo(const equipo &otro)
     confederacion = otro.confederacion;
     ranking = otro.ranking;
     directorTecnico = otro.directorTecnico;
-    estadisticas = otro.estadisticas;
     numJugadores = otro.numJugadores;
-    for (int i = 0; i < numJugadores; i++)
+
+    int i;
+    for (i = 0; i < numJugadores; i = i + 1)
+    {
         jugadores[i] = otro.jugadores[i];
+    }
 }
 
 equipo::equipo(string nombre, string pais, string confederacion, int ranking, string directorTecnico)
@@ -36,14 +39,19 @@ equipo::equipo(string nombre, string pais, string confederacion, int ranking, st
     numJugadores = 0;
 }
 
+equipo::~equipo()
+{
+    int i;
+    for (i = 0; i < numJugadores; i = i + 1)
+    {
+        delete jugadores[i];
+        jugadores[i] = nullptr;
+    }
+}
+
 string equipo::getNombre() const
 {
     return nombre;
-}
-
-string equipo::getPais() const
-{
-    return pais;
 }
 
 string equipo::getConfederacion() const
@@ -56,38 +64,22 @@ int equipo::getRanking() const
     return ranking;
 }
 
-string equipo::getDirectorTecnico() const
-{
-    return directorTecnico;
-}
-
-resultados& equipo::getResultados()
+resultados &equipo::getResultados()
 {
     return estadisticas;
-}
-
-const resultados& equipo::getResultados() const
-{
-    return estadisticas;
-}
-
-void equipo::mostrarEstadisticas() const
-{
-    cout << "=== " << nombre << " ===" << endl;
-    estadisticas.mostrar();
 }
 
 void equipo::agregarJugador(string nombre, string apellido, int camiseta, int goles, int amarillas, int rojas, int minutos, int partidos, int asistencias)
 {
-    if (numJugadores < 26) {
+    if (numJugadores < 26)
+    {
         jugadores[numJugadores] = new jugador(nombre, apellido, camiseta);
         jugadores[numJugadores]->cargarEstadisticas(goles, partidos, minutos, asistencias, amarillas, rojas, 0);
-        jugadores[numJugadores]->mostrarEstadisticas();
-        numJugadores++;
+        numJugadores = numJugadores + 1;
     }
 }
 
-jugador* equipo::getJugador(int i) const
+jugador *equipo::getJugador(int i) const
 {
     return jugadores[i];
 }
@@ -95,4 +87,9 @@ jugador* equipo::getJugador(int i) const
 int equipo::getNumJugadores() const
 {
     return numJugadores;
+}
+
+bool equipo::operator==(const equipo& otro) const
+{
+    return this->nombre == otro.nombre;
 }

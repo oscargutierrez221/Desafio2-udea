@@ -32,26 +32,6 @@ int resultados::getGolesFavor() const
     return golesFavor;
 }
 
-int resultados::getGolesContra() const
-{
-    return golesContra;
-}
-
-int resultados::getPartidosGanados() const
-{
-    return partidosGanados;
-}
-
-int resultados::getPartidosEmpatados() const
-{
-    return partidosEmpatados;
-}
-
-int resultados::getPartidosPerdidos() const
-{
-    return partidosPerdidos;
-}
-
 int resultados::getTarjetasAmarillas() const
 {
     return tarjetasAmarillas;
@@ -67,62 +47,25 @@ int resultados::getFaltasCometidas() const
     return faltasCometidas;
 }
 
-void resultados::setGolesFavor(int golesFavor)
-{
-    this->golesFavor = golesFavor;
-}
-
-void resultados::setGolesContra(int golesContra)
-{
-    this->golesContra = golesContra;
-}
-
-void resultados::setPartidosGanados(int partidosGanados)
-{
-    this->partidosGanados = partidosGanados;
-}
-
-void resultados::setPartidosEmpatados(int partidosEmpatados)
-{
-    this->partidosEmpatados = partidosEmpatados;
-}
-
-void resultados::setPartidosPerdidos(int partidosPerdidos)
-{
-    this->partidosPerdidos = partidosPerdidos;
-}
-
-void resultados::setTarjetasAmarillas(int tarjetasAmarillas)
-{
-    this->tarjetasAmarillas = tarjetasAmarillas;
-}
-
-void resultados::setTarjetasRojas(int tarjetasRojas)
-{
-    this->tarjetasRojas = tarjetasRojas;
-}
-
-void resultados::setFaltasCometidas(int faltasCometidas)
-{
-    this->faltasCometidas = faltasCometidas;
-}
-
 void resultados::actualizarDesdePartido(int golesFavor, int golesContra, int tarjetasAmarillas, int tarjetasRojas, int faltasCometidas)
 {
-    this->golesFavor        += golesFavor;
-    this->golesContra       += golesContra;
-    this->tarjetasAmarillas += tarjetasAmarillas;
-    this->tarjetasRojas     += tarjetasRojas;
-    this->faltasCometidas   += faltasCometidas;
+    this->golesFavor = this->golesFavor + golesFavor;
+    this->golesContra = this->golesContra + golesContra;
+    this->tarjetasAmarillas = this->tarjetasAmarillas + tarjetasAmarillas;
+    this->tarjetasRojas = this->tarjetasRojas + tarjetasRojas;
+    this->faltasCometidas = this->faltasCometidas + faltasCometidas;
 
-    if (golesFavor > golesContra) {
-        this->partidosGanados++;
+    if (golesFavor > golesContra)
+    {
+        this->partidosGanados = this->partidosGanados + 1;
     }
-    else if (golesFavor == golesContra) {
-        this->partidosEmpatados++;
+    else if (golesFavor == golesContra)
+    {
+        this->partidosEmpatados = this->partidosEmpatados + 1;
     }
-    else {
-        this->partidosPerdidos++;
+    else
+    {
+        this->partidosPerdidos = this->partidosPerdidos + 1;
     }
 }
 
@@ -133,27 +76,18 @@ int resultados::calcularDiferenciaGoles() const
 
 int resultados::calcularPuntos() const
 {
-    if (golesFavor > golesContra) {
+    if (golesFavor > golesContra)
+    {
         return 3;
     }
-    else if (golesFavor == golesContra) {
+    else if (golesFavor == golesContra)
+    {
         return 1;
     }
-    else {
+    else
+    {
         return 0;
     }
-}
-
-void resultados::resetear()
-{
-    golesFavor = 0;
-    golesContra = 0;
-    partidosGanados = 0;
-    partidosEmpatados = 0;
-    partidosPerdidos = 0;
-    tarjetasAmarillas = 0;
-    tarjetasRojas = 0;
-    faltasCometidas = 0;
 }
 
 void resultados::mostrar() const
@@ -163,3 +97,4 @@ void resultados::mostrar() const
     cout << "Tarjetas amarillas: " << tarjetasAmarillas << " | Tarjetas rojas: " << tarjetasRojas << endl;
     cout << "Faltas cometidas: " << faltasCometidas << endl;
 }
+

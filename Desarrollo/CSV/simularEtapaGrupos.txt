@@ -1,0 +1,85 @@
+=== PROGRAMACION ETAPA DE GRUPOS ===
+
+--- GRUPO A ---
+  Partido 1: Colombia vs Italia
+  Partido 2: Colombia vs Senegal
+  Partido 3: Colombia vs Nigeria
+  Partido 4: Italia vs Senegal
+  Partido 5: Italia vs Nigeria
+  Partido 6: Senegal vs Nigeria
+
+--- GRUPO B ---
+  Partido 7: Brasil vs Uruguay
+  Partido 8: Brasil vs Paraguay
+  Partido 9: Brasil vs Egipto
+  Partido 10: Uruguay vs Paraguay
+  Partido 11: Uruguay vs Egipto
+  Partido 12: Paraguay vs Egipto
+
+--- GRUPO C ---
+  Partido 13: Argentina vs Mexico
+  Partido 14: Argentina vs Chile
+  Partido 15: Argentina vs Costa de Marfil
+  Partido 16: Mexico vs Chile
+  Partido 17: Mexico vs Costa de Marfil
+  Partido 18: Chile vs Costa de Marfil
+
+--- GRUPO D ---
+  Partido 19: Croacia vs USA
+  Partido 20: Croacia vs Perú
+  Partido 21: Croacia vs Argelia
+  Partido 22: USA vs Perú
+  Partido 23: USA vs Argelia
+  Partido 24: Perú vs Argelia
+
+--- GRUPO E ---
+  Partido 25: Alemania vs Ecuador
+  Partido 26: Alemania vs Suiza
+  Partido 27: Alemania vs Túnez
+  Partido 28: Ecuador vs Suiza
+  Partido 29: Ecuador vs Túnez
+  Partido 30: Suiza vs Túnez
+
+--- GRUPO F ---
+  Partido 31: Francia vs Marruecos
+  Partido 32: Francia vs Austria
+  Partido 33: Francia vs Arabia Saudita
+  Partido 34: Marruecos vs Austria
+  Partido 35: Marruecos vs Arabia Saudita
+  Partido 36: Austria vs Arabia Saudita
+
+--- GRUPO G ---
+  Partido 37: España vs Japón
+  Partido 38: España vs Dinamarca
+  Partido 39: España vs Australia
+  Partido 40: Japón vs Dinamarca
+  Partido 41: Japón vs Australia
+  Partido 42: Dinamarca vs Australia
+
+--- GRUPO H ---
+  Partido 43: Inglaterra vs Canadá
+  Partido 44: Inglaterra vs Serbia
+  Partido 45: Inglaterra vs Irán
+  Partido 46: Canadá vs Serbia
+  Partido 47: Canadá vs Irán
+  Partido 48: Serbia vs Irán
+
+--- GRUPO I ---
+  Partido 49: Portugal vs Bélgica
+  Partido 50: Portugal vs Turquía
+  Partido 51: Portugal vs Qatar
+  Partido 52: Bélgica vs Turquía
+  Partido 53: Bélgica vs Qatar
+  Partido 54: Turquía vs Qatar
+
+--- GRUPO J ---
+  Partido 55: Paises Bajos vs Corea del Sur
+  Partido 56: Paises Bajos vs Ucrania
+  Partido 57: Paises Bajos vs Polonia
+  Partido 58: Corea del Sur vs Ucrania
+  Partido 59: Corea del Sur vs Polonia
+  Partido 60: Ucrania vs Polonia
+
+--- GRUPO K ---
+
+--- GRUPO L ---

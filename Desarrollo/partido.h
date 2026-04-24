@@ -39,29 +39,15 @@ public:
     partido(const partido& otro);
     ~partido();
 
-    string  getFecha() const;
-    string  getHora() const;
-    string  getSede() const;
     equipo* getEquipo1() const;
     equipo* getEquipo2() const;
-    bool    fueJugado() const;
-    bool    resueltoEnProrroga() const;
-    equipo* getGanador() const;
-
     const resultados& getStatsEquipo1() const;
     const resultados& getStatsEquipo2() const;
-    double getPosesionEquipo1() const;
-    double getPosesionEquipo2() const;
-
-    jugador* getConvocadoEquipo1(int indice) const;
-    jugador* getConvocadoEquipo2(int indice) const;
-
-    void setFecha(string fecha);
-    void setHora(string hora);
-    void setSede(string sede);
-    void setArbitros(string arbitro1, string arbitro2, string arbitro3);
-    void setEquipo1(equipo* equipo1);
-    void setEquipo2(equipo* equipo2);
+    equipo* getGanador() const;
+    void setGanador(equipo* g);
+    void setFecha(string f);
+    void setHora(string h);
+    void setSede(string s);
 
     void simular();
     void mostrarResultado() const;

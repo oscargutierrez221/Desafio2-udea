@@ -1,0 +1,65 @@
+=== GRUPOS DEL TORNEO ===
+
+GRUPO 1:
+  - Colombia
+  - Italia
+  - Senegal
+  - Nigeria
+
+GRUPO 2:
+  - Brasil
+  - Uruguay
+  - Paraguay
+  - Egipto
+
+GRUPO 3:
+  - Argentina
+  - Mexico
+  - Chile
+  - Costa de Marfil
+
+GRUPO 4:
+  - Croacia
+  - USA
+  - Perú
+  - Argelia
+
+GRUPO 5:
+  - Alemania
+  - Ecuador
+  - Suiza
+  - Túnez
+
+GRUPO 6:
+  - Francia
+  - Marruecos
+  - Austria
+  - Arabia Saudita
+
+GRUPO 7:
+  - España
+  - Japón
+  - Dinamarca
+  - Australia
+
+GRUPO 8:
+  - Inglaterra
+  - Canadá
+  - Serbia
+  - Irán
+
+GRUPO 9:
+  - Portugal
+  - Bélgica
+  - Turquía
+  - Qatar
+
+GRUPO 10:
+  - Paises Bajos
+  - Corea del Sur
+  - Ucrania
+  - Polonia
+
+GRUPO 11:
+
+GRUPO 12:

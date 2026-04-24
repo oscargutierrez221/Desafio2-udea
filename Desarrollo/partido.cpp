@@ -5,98 +5,91 @@ using namespace std;
 
 partido::partido()
 {
-  fecha = "";
-  hora = "";
-  sede = "";
-  Arbitro1 = "";
-  Arbitro2 = "";
-  Arbitro3 = "";
-  equipo1 = nullptr;
-  equipo2 = nullptr;
-  jugado = false;
-  fueAProrroga = false;
-  ganador = nullptr;
-  posesionEquipo1 = 0.0;
-  posesionEquipo2 = 0.0;
+    fecha = "";
+    hora = "";
+    sede = "";
+    Arbitro1 = "";
+    Arbitro2 = "";
+    Arbitro3 = "";
+    equipo1 = nullptr;
+    equipo2 = nullptr;
+    jugado = false;
+    fueAProrroga = false;
+    ganador = nullptr;
+    posesionEquipo1 = 0.0;
+    posesionEquipo2 = 0.0;
 
-  convocadosEquipo1 = new jugador *[11];
-  convocadosEquipo2 = new jugador *[11];
+    convocadosEquipo1 = new jugador *[11];
+    convocadosEquipo2 = new jugador *[11];
 
-  for (int i = 0; i < 11; i++) {
-    convocadosEquipo1[i] = nullptr;
-    convocadosEquipo2[i] = nullptr;
-  }
+    int i;
+    for (i = 0; i < 11; i = i + 1)
+    {
+        convocadosEquipo1[i] = nullptr;
+        convocadosEquipo2[i] = nullptr;
+    }
 }
 
 partido::partido(string fecha, string hora, string sede, string arbitro1, string arbitro2, string arbitro3, equipo *equipo1, equipo *equipo2)
 {
-  this->fecha = fecha;
-  this->hora = hora;
-  this->sede = sede;
-  this->Arbitro1 = arbitro1;
-  this->Arbitro2 = arbitro2;
-  this->Arbitro3 = arbitro3;
-  this->equipo1 = equipo1;
-  this->equipo2 = equipo2;
-  jugado = false;
-  fueAProrroga = false;
-  ganador = nullptr;
-  posesionEquipo1 = 0.0;
-  posesionEquipo2 = 0.0;
+    this->fecha = fecha;
+    this->hora = hora;
+    this->sede = sede;
+    this->Arbitro1 = arbitro1;
+    this->Arbitro2 = arbitro2;
+    this->Arbitro3 = arbitro3;
+    this->equipo1 = equipo1;
+    this->equipo2 = equipo2;
+    jugado = false;
+    fueAProrroga = false;
+    ganador = nullptr;
+    posesionEquipo1 = 0.0;
+    posesionEquipo2 = 0.0;
 
-  convocadosEquipo1 = new jugador *[11];
-  convocadosEquipo2 = new jugador *[11];
+    convocadosEquipo1 = new jugador *[11];
+    convocadosEquipo2 = new jugador *[11];
 
-  for (int i = 0; i < 11; i++) {
-    convocadosEquipo1[i] = nullptr;
-    convocadosEquipo2[i] = nullptr;
-  }
+    int i;
+    for (i = 0; i < 11; i = i + 1)
+    {
+        convocadosEquipo1[i] = nullptr;
+        convocadosEquipo2[i] = nullptr;
+    }
 }
 
 partido::partido(const partido &otro)
 {
-  fecha = otro.fecha;
-  hora = otro.hora;
-  sede = otro.sede;
-  Arbitro1 = otro.Arbitro1;
-  Arbitro2 = otro.Arbitro2;
-  Arbitro3 = otro.Arbitro3;
-  equipo1 = otro.equipo1;
-  equipo2 = otro.equipo2;
-  jugado = otro.jugado;
-  fueAProrroga = otro.fueAProrroga;
-  ganador = otro.ganador;
-  posesionEquipo2 = otro.posesionEquipo2;
+    fecha = otro.fecha;
+    hora = otro.hora;
+    sede = otro.sede;
+    Arbitro1 = otro.Arbitro1;
+    Arbitro2 = otro.Arbitro2;
+    Arbitro3 = otro.Arbitro3;
+    equipo1 = otro.equipo1;
+    equipo2 = otro.equipo2;
+    jugado = otro.jugado;
+    fueAProrroga = otro.fueAProrroga;
+    ganador = otro.ganador;
+    statsEquipo1 = otro.statsEquipo1;
+    statsEquipo2 = otro.statsEquipo2;
+    posesionEquipo1 = otro.posesionEquipo1;
+    posesionEquipo2 = otro.posesionEquipo2;
 
-  convocadosEquipo1 = new jugador *[11];
-  convocadosEquipo2 = new jugador *[11];
+    convocadosEquipo1 = new jugador *[11];
+    convocadosEquipo2 = new jugador *[11];
 
-  for (int i = 0; i < 11; i++) {
-    convocadosEquipo1[i] = otro.convocadosEquipo1[i];
-    convocadosEquipo2[i] = otro.convocadosEquipo2[i];
-  }
+    int i;
+    for (i = 0; i < 11; i = i + 1)
+    {
+        convocadosEquipo1[i] = otro.convocadosEquipo1[i];
+        convocadosEquipo2[i] = otro.convocadosEquipo2[i];
+    }
 }
 
 partido::~partido()
 {
-  cout << "Destructor llamado para equipos" << endl;
-  delete[] convocadosEquipo1;
-  delete[] convocadosEquipo2;
-}
-
-string partido::getFecha() const
-{
-    return fecha;
-}
-
-string partido::getHora() const
-{
-    return hora;
-}
-
-string partido::getSede() const
-{
-    return sede;
+    delete[] convocadosEquipo1;
+    delete[] convocadosEquipo2;
 }
 
 equipo *partido::getEquipo1() const
@@ -109,21 +102,6 @@ equipo *partido::getEquipo2() const
     return equipo2;
 }
 
-bool partido::fueJugado() const
-{
-    return jugado;
-}
-
-bool partido::resueltoEnProrroga() const
-{
-    return fueAProrroga;
-}
-
-equipo *partido::getGanador() const
-{
-    return ganador;
-}
-
 const resultados &partido::getStatsEquipo1() const
 {
     return statsEquipo1;
@@ -134,64 +112,179 @@ const resultados &partido::getStatsEquipo2() const
     return statsEquipo2;
 }
 
-double partido::getPosesionEquipo1() const
+equipo *partido::getGanador() const
 {
-    return posesionEquipo1;
+    return ganador;
 }
 
-double partido::getPosesionEquipo2() const
+void partido::setGanador(equipo *g)
 {
-    return posesionEquipo2;
+    ganador = g;
 }
 
-jugador *partido::getConvocadoEquipo1(int indice) const
+void partido::setFecha(string f)
 {
-  return convocadosEquipo1[indice];
+    fecha = f;
 }
 
-jugador *partido::getConvocadoEquipo2(int indice) const
+void partido::setHora(string h)
 {
-  return convocadosEquipo2[indice];
+    hora = h;
 }
 
-void partido::setFecha(string fecha)
+void partido::setSede(string s)
 {
-    this->fecha = fecha;
-}
-
-void partido::setHora(string hora)
-{
-    this->hora = hora;
-}
-
-void partido::setSede(string sede)
-{
-    this->sede = sede;
-}
-
-void partido::setArbitros(string arbitro1, string arbitro2, string arbitro3)
-{
-  Arbitro1 = arbitro1;
-  Arbitro2 = arbitro2;
-  Arbitro3 = arbitro3;
-}
-
-void partido::setEquipo1(equipo *equipo1)
-{
-    this->equipo1 = equipo1;
-}
-
-void partido::setEquipo2(equipo *equipo2)
-{
-    this->equipo2 = equipo2;
+    sede = s;
 }
 
 void partido::simular()
 {
-  // Por implementar: lógica de simulación con la ecuación de goles esperados
+    // Numeros aleatorios entre 0 y 3 para goles
+    int golesEq1 = rand() % 4;
+    int golesEq2 = rand() % 4;
+
+    int amarillasEq1 = 0;
+    int rojasEq1 = 0;
+    int faltasEq1 = 0;
+    int amarillasEq2 = 0;
+    int rojasEq2 = 0;
+    int faltasEq2 = 0;
+
+    int i;
+    int golesJug;
+    int amarilla;
+    int roja;
+    int faltas;
+    int minutos;
+    jugador *jug;
+
+    for (i = 0; i < equipo1->getNumJugadores(); i = i + 1)
+    {
+        jug = equipo1->getJugador(i);
+        if (jug != nullptr)
+        {
+            golesJug = 0;
+            if (i < golesEq1)
+            {
+                golesJug = 1;
+            }
+
+            // Amarilla aleatoria (probabilidad 1/7)
+            if ((rand() % 7) == 0)
+            {
+                amarilla = 1;
+            }
+            else
+            {
+                amarilla = 0;
+            }
+
+            // Roja aleatoria (probabilidad 1/25)
+            if ((rand() % 25) == 0)
+            {
+                roja = 1;
+            }
+            else
+            {
+                roja = 0;
+            }
+
+            faltas = rand() % 3;
+            minutos = 90;
+
+            jug->actualizarEstadisticasPartido(golesJug, amarilla, roja, faltas, minutos);
+
+            amarillasEq1 = amarillasEq1 + amarilla;
+            rojasEq1 = rojasEq1 + roja;
+            faltasEq1 = faltasEq1 + faltas;
+        }
+    }
+
+    for (i = 0; i < equipo2->getNumJugadores(); i = i + 1)
+    {
+        jug = equipo2->getJugador(i);
+        if (jug != nullptr)
+        {
+            golesJug = 0;
+            if (i < golesEq2)
+            {
+                golesJug = 1;
+            }
+
+            // Amarilla aleatoria (probabilidad 1/8)
+            if ((rand() % 8) == 0)
+            {
+                amarilla = 1;
+            }
+            else
+            {
+                amarilla = 0;
+            }
+
+            // Roja aleatoria (probabilidad 1/30)
+            if ((rand() % 30) == 0)
+            {
+                roja = 1;
+            }
+            else
+            {
+                roja = 0;
+            }
+
+            faltas = rand() % 4;
+            minutos = 90;
+
+            jug->actualizarEstadisticasPartido(golesJug, amarilla, roja, faltas, minutos);
+
+            amarillasEq2 = amarillasEq2 + amarilla;
+            rojasEq2 = rojasEq2 + roja;
+            faltasEq2 = faltasEq2 + faltas;
+        }
+    }
+
+    statsEquipo1.actualizarDesdePartido(golesEq1, golesEq2, amarillasEq1, rojasEq1, faltasEq1);
+    statsEquipo2.actualizarDesdePartido(golesEq2, golesEq1, amarillasEq2, rojasEq2, faltasEq2);
+
+    equipo1->getResultados().actualizarDesdePartido(golesEq1, golesEq2, amarillasEq1, rojasEq1, faltasEq1);
+    equipo2->getResultados().actualizarDesdePartido(golesEq2, golesEq1, amarillasEq2, rojasEq2, faltasEq2);
+
+    if (golesEq1 > golesEq2)
+    {
+        ganador = equipo1;
+    }
+    else if (golesEq2 > golesEq1)
+    {
+        ganador = equipo2;
+    }
+    else
+    {
+        ganador = nullptr;
+    }
+
+    jugado = true;
 }
 
 void partido::mostrarResultado() const
 {
-  // Por implementar: Para esto debermos tener lista la clase de resultados
+    cout << "---------------------------------" << endl;
+    cout << "Fecha: " << fecha << " | Hora: " << hora << endl;
+    cout << "Sede: " << sede << endl;
+    cout << "" << endl;
+    cout << equipo1->getNombre() << " " << statsEquipo1.getGolesFavor() << " - " << statsEquipo2.getGolesFavor() << " " << equipo2->getNombre() << endl;
+    cout << "" << endl;
+    cout << "Estadisticas del partido:" << endl;
+    cout << "  " << equipo1->getNombre() << ": " << statsEquipo1.getTarjetasAmarillas() << " amarillas, " << statsEquipo1.getTarjetasRojas() << " rojas, " << statsEquipo1.getFaltasCometidas() << " faltas" << endl;
+    cout << "  " << equipo2->getNombre() << ": " << statsEquipo2.getTarjetasAmarillas() << " amarillas, " << statsEquipo2.getTarjetasRojas() << " rojas, " << statsEquipo2.getFaltasCometidas() << " faltas" << endl;
+    cout << "" << endl;
+
+    if (ganador != nullptr)
+    {
+        cout << "Ganador: " << ganador->getNombre() << endl;
+    }
+    else
+    {
+        cout << "Resultado: Empate" << endl;
+    }
+
+    cout << "---------------------------------" << endl;
 }

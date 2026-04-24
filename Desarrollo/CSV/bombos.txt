@@ -1,0 +1,49 @@
+=== BOMBOS DEL SORTEO ===
+
+BOMBO 1:
+  - Colombia
+  - Brasil
+  - Argentina
+  - Croacia
+  - Alemania
+  - Francia
+  - España
+  - Inglaterra
+  - Portugal
+  - Paises Bajos
+
+BOMBO 2:
+  - Italia
+  - Uruguay
+  - Mexico
+  - USA
+  - Ecuador
+  - Marruecos
+  - Japón
+  - Canadá
+  - Bélgica
+  - Corea del Sur
+
+BOMBO 3:
+  - Senegal
+  - Paraguay
+  - Chile
+  - Perú
+  - Suiza
+  - Austria
+  - Dinamarca
+  - Serbia
+  - Turquía
+  - Ucrania
+
+BOMBO 4:
+  - Nigeria
+  - Egipto
+  - Costa de Marfil
+  - Argelia
+  - Túnez
+  - Arabia Saudita
+  - Australia
+  - Irán
+  - Qatar
+  - Polonia

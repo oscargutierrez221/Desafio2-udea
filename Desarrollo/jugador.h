@@ -25,20 +25,12 @@ public:
 
     ~jugador();
 
-    string getNombre() const;
-    string getApellido() const;
-    int getNumeroCamiseta() const;
-    void mostrarEstadisticas() const;
-
-    void setNumeroCamiseta(int numero);
-    void setNombre(string nuevoNombre);
-    void setApellido(string nuevoApellido);
-
     void actualizarEstadisticasPartido(int goles, int amarillas, int rojas, int faltas, int minutos);
     void cargarEstadisticas(int goles, int partidos, int minutos, int asistencias, int amarillas, int rojas, int faltas);
 
+    string getNombre() const;
+    string getApellido() const;
     int getGoles() const;
-
 };
 
 #endif // JUGADOR_H

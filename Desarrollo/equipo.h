@@ -20,23 +20,20 @@ private:
 public:
     equipo();
     equipo(const equipo &otro);
+    ~equipo();
     equipo(string nombre, string pais, string confederacion, int ranking, string directorTecnico);
 
     string getNombre() const;
-    string getPais() const;
     string getConfederacion() const;
     int getRanking() const;
-    string getDirectorTecnico() const;
 
     resultados& getResultados();
-    const resultados& getResultados() const;
 
-    void agregarJugador(string nombre, string apellido, int camiseta,
-                        int goles, int amarillas, int rojas, int minutos, int partidos, int asistencias);
+    void agregarJugador(string nombre, string apellido, int camiseta, int goles, int amarillas, int rojas, int minutos, int partidos, int asistencias);
     jugador* getJugador(int i) const;
     int getNumJugadores() const;
 
-    void mostrarEstadisticas() const;
+    bool operator==(const equipo& otro) const;
 };
 
 #endif // EQUIPO_H
