@@ -1,85 +1,97 @@
 === PROGRAMACION ETAPA DE GRUPOS ===
 
 --- GRUPO A ---
-  Partido 1: Colombia vs Italia
-  Partido 2: Colombia vs Senegal
-  Partido 3: Colombia vs Nigeria
-  Partido 4: Italia vs Senegal
-  Partido 5: Italia vs Nigeria
-  Partido 6: Senegal vs Nigeria
+  Partido 1: Suiza vs Mexico
+  Partido 2: Suiza vs Colombia
+  Partido 3: Suiza vs Australia
+  Partido 4: Mexico vs Colombia
+  Partido 5: Mexico vs Australia
+  Partido 6: Colombia vs Australia
 
 --- GRUPO B ---
-  Partido 7: Brasil vs Uruguay
-  Partido 8: Brasil vs Paraguay
-  Partido 9: Brasil vs Egipto
-  Partido 10: Uruguay vs Paraguay
-  Partido 11: Uruguay vs Egipto
-  Partido 12: Paraguay vs Egipto
+  Partido 7: Brasil vs Austria
+  Partido 8: Brasil vs USA
+  Partido 9: Brasil vs Irán
+  Partido 10: Austria vs USA
+  Partido 11: Austria vs Irán
+  Partido 12: USA vs Irán
 
 --- GRUPO C ---
-  Partido 13: Argentina vs Mexico
-  Partido 14: Argentina vs Chile
-  Partido 15: Argentina vs Costa de Marfil
-  Partido 16: Mexico vs Chile
-  Partido 17: Mexico vs Costa de Marfil
-  Partido 18: Chile vs Costa de Marfil
+  Partido 13: Qatar vs Ecuador
+  Partido 14: Qatar vs Dinamarca
+  Partido 15: Qatar vs Argentina
+  Partido 16: Ecuador vs Dinamarca
+  Partido 17: Ecuador vs Argentina
+  Partido 18: Dinamarca vs Argentina
 
 --- GRUPO D ---
-  Partido 19: Croacia vs USA
-  Partido 20: Croacia vs Perú
-  Partido 21: Croacia vs Argelia
-  Partido 22: USA vs Perú
-  Partido 23: USA vs Argelia
-  Partido 24: Perú vs Argelia
+  Partido 19: Croacia vs Marruecos
+  Partido 20: Croacia vs Serbia
+  Partido 21: Croacia vs Polonia
+  Partido 22: Marruecos vs Serbia
+  Partido 23: Marruecos vs Polonia
+  Partido 24: Serbia vs Polonia
 
 --- GRUPO E ---
-  Partido 25: Alemania vs Ecuador
-  Partido 26: Alemania vs Suiza
-  Partido 27: Alemania vs Túnez
-  Partido 28: Ecuador vs Suiza
-  Partido 29: Ecuador vs Túnez
-  Partido 30: Suiza vs Túnez
+  Partido 25: Panamá vs Japón
+  Partido 26: Panamá vs Alemania
+  Partido 27: Panamá vs Turquía
+  Partido 28: Japón vs Alemania
+  Partido 29: Japón vs Turquía
+  Partido 30: Alemania vs Turquía
 
 --- GRUPO F ---
-  Partido 31: Francia vs Marruecos
-  Partido 32: Francia vs Austria
-  Partido 33: Francia vs Arabia Saudita
-  Partido 34: Marruecos vs Austria
-  Partido 35: Marruecos vs Arabia Saudita
-  Partido 36: Austria vs Arabia Saudita
+  Partido 31: Francia vs Gales
+  Partido 32: Francia vs Ucrania
+  Partido 33: Francia vs Canadá
+  Partido 34: Gales vs Ucrania
+  Partido 35: Gales vs Canadá
+  Partido 36: Ucrania vs Canadá
 
 --- GRUPO G ---
-  Partido 37: España vs Japón
-  Partido 38: España vs Dinamarca
-  Partido 39: España vs Australia
-  Partido 40: Japón vs Dinamarca
-  Partido 41: Japón vs Australia
-  Partido 42: Dinamarca vs Australia
+  Partido 37: Eslovenia vs Bélgica
+  Partido 38: Eslovenia vs Nigeria
+  Partido 39: Eslovenia vs España
+  Partido 40: Bélgica vs Nigeria
+  Partido 41: Bélgica vs España
+  Partido 42: Nigeria vs España
 
 --- GRUPO H ---
-  Partido 43: Inglaterra vs Canadá
-  Partido 44: Inglaterra vs Serbia
-  Partido 45: Inglaterra vs Irán
-  Partido 46: Canadá vs Serbia
-  Partido 47: Canadá vs Irán
-  Partido 48: Serbia vs Irán
+  Partido 43: Eslovaquia vs Corea del Sur
+  Partido 44: Eslovaquia vs Inglaterra
+  Partido 45: Eslovaquia vs Egipto
+  Partido 46: Corea del Sur vs Inglaterra
+  Partido 47: Corea del Sur vs Egipto
+  Partido 48: Inglaterra vs Egipto
 
 --- GRUPO I ---
-  Partido 49: Portugal vs Bélgica
-  Partido 50: Portugal vs Turquía
-  Partido 51: Portugal vs Qatar
-  Partido 52: Bélgica vs Turquía
-  Partido 53: Bélgica vs Qatar
-  Partido 54: Turquía vs Qatar
+  Partido 49: Senegal vs Republica Checa
+  Partido 50: Senegal vs Portugal
+  Partido 51: Senegal vs Costa de Marfil
+  Partido 52: Republica Checa vs Portugal
+  Partido 53: Republica Checa vs Costa de Marfil
+  Partido 54: Portugal vs Costa de Marfil
 
 --- GRUPO J ---
-  Partido 55: Paises Bajos vs Corea del Sur
-  Partido 56: Paises Bajos vs Ucrania
-  Partido 57: Paises Bajos vs Polonia
-  Partido 58: Corea del Sur vs Ucrania
-  Partido 59: Corea del Sur vs Polonia
-  Partido 60: Ucrania vs Polonia
+  Partido 55: Hungria vs Argelia
+  Partido 56: Hungria vs Paraguay
+  Partido 57: Hungria vs Paises Bajos
+  Partido 58: Argelia vs Paraguay
+  Partido 59: Argelia vs Paises Bajos
+  Partido 60: Paraguay vs Paises Bajos
 
 --- GRUPO K ---
+  Partido 61: Rumania vs Túnez
+  Partido 62: Rumania vs Chile
+  Partido 63: Rumania vs Italia
+  Partido 64: Túnez vs Chile
+  Partido 65: Túnez vs Italia
+  Partido 66: Chile vs Italia
 
 --- GRUPO L ---
+  Partido 67: Arabia Saudita vs Uruguay
+  Partido 68: Arabia Saudita vs Perú
+  Partido 69: Arabia Saudita vs Grecia
+  Partido 70: Uruguay vs Perú
+  Partido 71: Uruguay vs Grecia
+  Partido 72: Perú vs Grecia

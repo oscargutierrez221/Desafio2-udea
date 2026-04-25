@@ -110,6 +110,7 @@ void torneo::cargarEquipos()
     string numMinutosCsv[1000];
     string partidosJugadosCsv[1000];
     string asistenciasCsv[1000];
+    string confederacionCsv[1000];
 
     int total = 0;
 
@@ -123,7 +124,8 @@ void torneo::cargarEquipos()
         getline(archivo, numRojasCsv[total], ',');
         getline(archivo, numMinutosCsv[total], ',');
         getline(archivo, partidosJugadosCsv[total], ',');
-        getline(archivo, asistenciasCsv[total]);
+        getline(archivo, asistenciasCsv[total], ',');
+        getline(archivo, confederacionCsv[total]);
         total = total + 1;
     }
 
@@ -151,7 +153,7 @@ void torneo::cargarEquipos()
         // Si el pais es nuevo, creamos el equipo y agregamos sus jugadores
         if (yaExiste == false && numEquiposCargados < numEquipos)
         {
-            equipos[numEquiposCargados] = new equipo(paisCsv[i], paisCsv[i], "", 0, "");
+            equipos[numEquiposCargados] = new equipo(paisCsv[i], paisCsv[i], confederacionCsv[i], 0, "");
             numEquiposCargados = numEquiposCargados + 1;
 
             for (k = 0; k < total; k = k + 1)
@@ -263,6 +265,14 @@ void torneo::conformarGrupos()
     }
 
     archivo.close();
+
+    // Validamos restricciones de confederacion
+    bool valido = organizador::validarRestriccionesGrupos(grupos, numGrupos, equiposPorGrupo);
+    if (valido == false)
+    {
+        cout << "ADVERTENCIA: Algunos grupos no cumplen restricciones de confederacion (max 2 UEFA)" << endl;
+    }
+
     cout << "Grupos conformados. Guardado en conformarGrupos.txt" << endl;
 }
 
@@ -289,7 +299,7 @@ void torneo::simularEtapaGrupos()
             {
                 if (grupos[g][e1] != nullptr && grupos[g][e2] != nullptr)
                 {
-                    partidos[numPartidos] = new partido("", "", "", "", "", "", grupos[g][e1], grupos[g][e2]);
+                    partidos[numPartidos] = new partido("", "", "", grupos[g][e1], grupos[g][e2]);
                     numPartidos = numPartidos + 1;
                     archivo << "  Partido " << numPartidos << ": " << grupos[g][e1]->getNombre() << " vs " << grupos[g][e2]->getNombre() << endl;
                 }
@@ -338,7 +348,7 @@ void torneo::simularR16()
     {
         equipo *equipo1 = clasificados[i * 2];
         equipo *equipo2 = clasificados[i * 2 + 1];
-        partidos[numPartidos] = new partido("", "", "", "", "", "", equipo1, equipo2);
+        partidos[numPartidos] = new partido("", "", "", equipo1, equipo2);
         numPartidos = numPartidos + 1;
         archivo << "  Partido R16-" << (i + 1) << ": " << equipo1->getNombre() << " vs " << equipo2->getNombre() << endl;
     }
@@ -377,7 +387,7 @@ void torneo::simularR8()
     {
         equipo *equipo1 = ganadoresR16[i * 2];
         equipo *equipo2 = ganadoresR16[i * 2 + 1];
-        partidos[numPartidos] = new partido("", "", "", "", "", "", equipo1, equipo2);
+        partidos[numPartidos] = new partido("", "", "", equipo1, equipo2);
         numPartidos = numPartidos + 1;
         archivo << "  Partido R8-" << (i + 1) << ": " << equipo1->getNombre() << " vs " << equipo2->getNombre() << endl;
     }
@@ -416,7 +426,7 @@ void torneo::simularCuartos()
     {
         equipo *equipo1 = clasificados[i * 2];
         equipo *equipo2 = clasificados[i * 2 + 1];
-        partidos[numPartidos] = new partido("", "", "", "", "", "", equipo1, equipo2);
+        partidos[numPartidos] = new partido("", "", "", equipo1, equipo2);
         numPartidos = numPartidos + 1;
         archivo << "  Cuartos-" << (i + 1) << ": " << equipo1->getNombre() << " vs " << equipo2->getNombre() << endl;
     }
@@ -455,7 +465,7 @@ void torneo::simularSemifinal()
     {
         equipo *equipo1 = semifinalistas[i * 2];
         equipo *equipo2 = semifinalistas[i * 2 + 1];
-        partidos[numPartidos] = new partido("", "", "", "", "", "", equipo1, equipo2);
+        partidos[numPartidos] = new partido("", "", "", equipo1, equipo2);
         numPartidos = numPartidos + 1;
         archivo << "  Semifinal " << (i + 1) << ": " << equipo1->getNombre() << " vs " << equipo2->getNombre() << endl;
     }
@@ -493,7 +503,7 @@ void torneo::simularFinal()
         equipo *equipo1 = finalistas[0];
         equipo *equipo2 = finalistas[1];
 
-        partidos[numPartidos] = new partido("", "", "", "", "", "", equipo1, equipo2);
+        partidos[numPartidos] = new partido("", "", "", equipo1, equipo2);
         numPartidos = numPartidos + 1;
 
         archivo << "  FINAL: " << equipo1->getNombre() << " vs " << equipo2->getNombre() << endl;
@@ -552,33 +562,34 @@ void torneo::ordenarGrupos()
 
 void torneo::verificarAvanzeFase(int partidoActual)
 {
+    // Hitos para formato 2026: 72 grupos + 12 R16 + 6 R8 + 3 Cuartos + 2 Semifinal + 1 Final = 94 partidos
     if (partidoActual == 72)
     {
         cout << "\n--- ETAPA DE GRUPOS FINALIZADA ---" << endl;
         ordenarGrupos();
         simularR16();
     }
-    else if (partidoActual == 72 + 16)
+    else if (partidoActual == 84)  // 72 + 12
     {
         cout << "\n--- DIECISEISAVOS FINALIZADOS ---" << endl;
         simularR8();
     }
-    else if (partidoActual == 72 + 16 + 8)
+    else if (partidoActual == 90)  // 84 + 6
     {
         cout << "\n--- OCTAVOS FINALIZADOS ---" << endl;
         simularCuartos();
     }
-    else if (partidoActual == 72 + 16 + 8 + 4)
+    else if (partidoActual == 93)  // 90 + 3
     {
         cout << "\n--- CUARTOS FINALIZADOS ---" << endl;
         simularSemifinal();
     }
-    else if (partidoActual == 72 + 16 + 8 + 4 + 2)
+    else if (partidoActual == 95)  // 93 + 2
     {
         cout << "\n--- SEMIFINALES FINALIZADAS ---" << endl;
         simularFinal();
     }
-    else if (partidoActual == 72 + 16 + 8 + 4 + 2 + 1)
+    else if (partidoActual == 96)  // 95 + 1
     {
         determinarCampeon();
         cout << "\n===================================" << endl;
@@ -607,6 +618,19 @@ void torneo::iniciarTorneo()
     {
         cout << "Conformando grupos automaticamente..." << endl;
         conformarGrupos();
+    }
+
+    // Limpiar partidos
+    if (numPartidos > 0)
+    {
+        int i;
+        for (i = 0; i < numPartidos; i = i + 1)
+        {
+            delete partidos[i];
+            partidos[i] = nullptr;
+        }
+        numPartidos = 0;
+        campeon = nullptr;
     }
 
     cout << "Iniciando torneo y programando fase de grupos..." << endl;

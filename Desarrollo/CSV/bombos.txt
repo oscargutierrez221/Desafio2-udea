@@ -11,10 +11,10 @@ BOMBO 1:
   - Inglaterra
   - Portugal
   - Paises Bajos
-
-BOMBO 2:
   - Italia
   - Uruguay
+
+BOMBO 2:
   - Mexico
   - USA
   - Ecuador
@@ -23,27 +23,35 @@ BOMBO 2:
   - Canadá
   - Bélgica
   - Corea del Sur
-
-BOMBO 3:
   - Senegal
   - Paraguay
   - Chile
   - Perú
+
+BOMBO 3:
   - Suiza
   - Austria
   - Dinamarca
   - Serbia
   - Turquía
   - Ucrania
-
-BOMBO 4:
   - Nigeria
   - Egipto
   - Costa de Marfil
   - Argelia
   - Túnez
   - Arabia Saudita
+
+BOMBO 4:
   - Australia
   - Irán
   - Qatar
   - Polonia
+  - Panamá
+  - Gales
+  - Eslovenia
+  - Eslovaquia
+  - Republica Checa
+  - Hungria
+  - Rumania
+  - Grecia
