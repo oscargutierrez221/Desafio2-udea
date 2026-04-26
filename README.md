@@ -42,6 +42,10 @@ Desafio2-udea/
 │   └── Material/
 │       └── Diagrama de clases documentacion.png
 │
+│
+├──  Momento 4 - Video
+│   ├── Evidencia Video.txt
+├ 
 └── README.md
 ```
 
@@ -72,5 +76,5 @@ Desafio2-udea/
 ## Entregas
 
 - **Momento 1**: Informe inicial → [`Momento 1 - Informe/`](Momento%201%20-%20Informe/)
-- **Momento 3**: Documentación [`Momento 3 - Documentacion/`](Momento%201%20-%20Informe/)
-- **Momento 4**: Video
+- **Momento 3**: Documentación técnica completa → [`Momento 3 - Documentacion/`](Momento%203%20-%20Documentacion/)
+- **Momento 4**: Video de sustentación → [`Momento 4 - Video/`](Momento%204%20-%20Video/)
