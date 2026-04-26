@@ -57,7 +57,7 @@ Desde el inicio tuvimos que trabajar bajo varias restricciones que nos dieron en
 
 Antes de empezar a codear, nos sentamos a diseñar la estructura del programa. No queríamos empezar a escribir código sin saber cómo se iban a relacionar las clases. Usamos el concepto de "divide y vencerás": cada clase tiene una responsabilidad específica.
 
-![alt text](<material/Diagrama de clases documentacion.png>)
+![Diagrama de clases](Material/Diagrama%20de%20clases%20documentacion.png)
 
 El diagrama muestra cómo organizamos todo. Decidimos crear 6 clases principales:
 
