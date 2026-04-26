@@ -76,5 +76,6 @@ Desafio2-udea/
 ## Entregas
 
 - **Momento 1**: Informe inicial → [`Momento 1 - Informe/`](Momento%201%20-%20Informe/)
+- **Momento 2**: Desarrollo del proyecto (código fuente) → [`Momento 2 - Desarrollo/`](Momento%202%20-%20Desarrollo/)
 - **Momento 3**: Documentación técnica completa → [`Momento 3 - Documentacion/`](Momento%203%20-%20Documentacion/)
 - **Momento 4**: Video de sustentación → [`Momento 4 - Video/`](Momento%204%20-%20Video/)
