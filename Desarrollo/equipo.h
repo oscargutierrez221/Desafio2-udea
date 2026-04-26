@@ -32,8 +32,6 @@ public:
     void agregarJugador(string nombre, string apellido, int camiseta, int goles, int amarillas, int rojas, int minutos, int partidos, int asistencias);
     jugador* getJugador(int i) const;
     int getNumJugadores() const;
-
-    bool operator==(const equipo& otro) const;
 };
 
 #endif // EQUIPO_H

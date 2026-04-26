@@ -1,0 +1,6 @@
+=== CUARTOS DE FINAL ===
+
+  Cuartos-1: Dinamarca vs Austria
+  Cuartos-2: Austria vs Brasil
+  Cuartos-3: Australia vs Colombia
+  Cuartos-4: Uruguay vs Rumania

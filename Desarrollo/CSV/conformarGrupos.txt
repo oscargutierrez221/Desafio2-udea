@@ -2,64 +2,72 @@
 
 GRUPO 1:
   - Colombia
-  - Italia
-  - Senegal
-  - Nigeria
+  - Mexico
+  - Suiza
+  - Australia
 
 GRUPO 2:
   - Brasil
-  - Uruguay
-  - Paraguay
-  - Egipto
+  - USA
+  - Austria
+  - Irán
 
 GRUPO 3:
   - Argentina
-  - Mexico
-  - Chile
-  - Costa de Marfil
+  - Ecuador
+  - Dinamarca
+  - Qatar
 
 GRUPO 4:
   - Croacia
-  - USA
-  - Perú
-  - Argelia
+  - Marruecos
+  - Serbia
+  - Polonia
 
 GRUPO 5:
   - Alemania
-  - Ecuador
-  - Suiza
-  - Túnez
+  - Japón
+  - Turquía
+  - Panamá
 
 GRUPO 6:
   - Francia
-  - Marruecos
-  - Austria
-  - Arabia Saudita
+  - Canadá
+  - Ucrania
+  - Gales
 
 GRUPO 7:
   - España
-  - Japón
-  - Dinamarca
-  - Australia
+  - Bélgica
+  - Nigeria
+  - Eslovenia
 
 GRUPO 8:
   - Inglaterra
-  - Canadá
-  - Serbia
-  - Irán
+  - Corea del Sur
+  - Egipto
+  - Eslovaquia
 
 GRUPO 9:
   - Portugal
-  - Bélgica
-  - Turquía
-  - Qatar
+  - Senegal
+  - Costa de Marfil
+  - Republica Checa
 
 GRUPO 10:
   - Paises Bajos
-  - Corea del Sur
-  - Ucrania
-  - Polonia
+  - Paraguay
+  - Argelia
+  - Hungria
 
 GRUPO 11:
+  - Italia
+  - Chile
+  - Túnez
+  - Rumania
 
 GRUPO 12:
+  - Uruguay
+  - Perú
+  - Arabia Saudita
+  - Grecia

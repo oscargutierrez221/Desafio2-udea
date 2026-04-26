@@ -1,5 +1,4 @@
 #include "equipo.h"
-#include <iostream>
 
 using namespace std;
 
@@ -87,9 +86,4 @@ jugador *equipo::getJugador(int i) const
 int equipo::getNumJugadores() const
 {
     return numJugadores;
-}
-
-bool equipo::operator==(const equipo& otro) const
-{
-    return this->nombre == otro.nombre;
 }

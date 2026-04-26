@@ -1,840 +1,854 @@
-Colombia,David,Vargas,26,0,0,0,0,0,0
-Colombia,Juan,Santos,12,0,0,0,0,0,0
-Colombia,James,Rodriguez,14,0,0,0,0,0,0
-Colombia,Camilo,Vargas,1,0,0,0,0,0,0
-Colombia,Luis,Diaz,7,0,0,0,0,0,0
-Colombia,Jefferson,Lerma,16,0,0,0,0,0,0
-Colombia,Daniel,Muñoz,21,0,0,0,0,0,0
-Colombia,Davinson,Sanchez,23,0,0,0,0,0,0
-Colombia,Jhon,Arias,11,0,0,0,0,0,0
-Colombia,Richard,Rios,6,0,0,0,0,0,0
-Colombia,Rafael,Santos Borre,19,0,0,0,0,0,0
-Colombia,Yerry,Mina,13,0,0,0,0,0,0
-Colombia,Johan,Mojica,17,0,0,0,0,0,0
-Colombia,Jhon,Lucumi,3,0,0,0,0,0,0
-Colombia,Mateus,Uribe,15,0,0,0,0,0,0
-Colombia,Jhon,Durán,9,0,0,0,0,0,0
-Colombia,Juan,Cuadrado,4,0,0,0,0,0,0
-Colombia,Kevin,Mier,22,0,0,0,0,0,0
-Colombia,Yerson,Mosquera,2,0,0,0,0,0,0
-Colombia,Jorge,Carrascal,8,0,0,0,0,0,0
-Brasil,Neymar,Da Silva,10,0,0,0,0,0,0
-Brasil,David,Silva,14,0,0,0,0,0,0
-Brasil,Vinicius,Junior,7,0,0,0,0,0,0
-Brasil,Thiago,Silva,15,0,0,0,0,0,0
-Brasil,Pele,,10,0,0,0,0,0,0
-Brasil,Alisson,Becker,1,0,0,0,0,0,0
-Brasil,Marquinhos,Correa,4,0,0,0,0,0,0
-Brasil,Eder,Militao,3,0,0,0,0,0,0
-Brasil,Rodrygo,Goes,11,0,0,0,0,0,0
-Brasil,Bruno,Guimaraes,8,0,0,0,0,0,0
-Brasil,Casemiro,Venancio,5,0,0,0,0,0,0
-Brasil,Lucas,Paqueta,17,0,0,0,0,0,0
-Brasil,Endrick,Felipe,9,0,0,0,0,0,0
-Brasil,Raphinha,Belloli,19,0,0,0,0,0,0
-Brasil,Ederson,Moraes,23,0,0,0,0,0,0
-Brasil,Gabriel,Magalhaes,14,0,0,0,0,0,0
-Brasil,Danilo,Da Silva,2,0,0,0,0,0,0
-Brasil,Savinho,Moreira,20,0,0,0,0,0,0
-Brasil,Douglas,Luiz,18,0,0,0,0,0,0
-Brasil,Lucas,Beraldo,6,0,0,0,0,0,0
-Argentina,Leo,Messi,30,0,0,0,0,0,0
-Argentina,Dibu,Martinez,1,0,0,0,0,0,0
-Argentina,Julian,Alvarez,9,0,0,0,0,0,0
-Argentina,Lautaro,Martinez,22,0,0,0,0,0,0
-Argentina,Rodrigo,De Paul,7,0,0,0,0,0,0
-Argentina,Enzo,Fernandez,24,0,0,0,0,0,0
-Argentina,Alexis,Mac Allister,20,0,0,0,0,0,0
-Argentina,Cristian,Romero,13,0,0,0,0,0,0
-Argentina,Lisandro,Martinez,25,0,0,0,0,0,0
-Argentina,Nicolas,Otamendi,19,0,0,0,0,0,0
-Argentina,Nahuel,Molina,26,0,0,0,0,0,0
-Argentina,Nicolas,Tagliafico,3,0,0,0,0,0,0
-Argentina,Leandro,Paredes,5,0,0,0,0,0,0
-Argentina,Alejandro,Garnacho,17,0,0,0,0,0,0
-Argentina,Thiago,Almada,16,0,0,0,0,0,0
-Argentina,Gonzalo,Montiel,4,0,0,0,0,0,0
-Argentina,Exequiel,Palacios,14,0,0,0,0,0,0
-Argentina,Nicolas,Gonzalez,15,0,0,0,0,0,0
-Argentina,Geronimo,Rulli,12,0,0,0,0,0,0
-Argentina,Marcos,Acuna,8,0,0,0,0,0,0
-Croacia,Luka,Modric,10,0,0,0,0,0,0
-Croacia,Ivan,Rakitic,7,0,0,0,0,0,0
-Croacia,Mateo,Kovacic,8,0,0,0,0,0,0
-Croacia,Dominik,Livakovic,1,0,0,0,0,0,0
-Croacia,Josko,Gvardiol,4,0,0,0,0,0,0
-Croacia,Josip,Sutalo,6,0,0,0,0,0,0
-Croacia,Josip,Stanisic,2,0,0,0,0,0,0
-Croacia,Borna,Sosa,3,0,0,0,0,0,0
-Croacia,Marcelo,Brozovic,11,0,0,0,0,0,0
-Croacia,Mario,Pasalic,15,0,0,0,0,0,0
-Croacia,Lovro,Majer,18,0,0,0,0,0,0
-Croacia,Ivan,Perisic,14,0,0,0,0,0,0
-Croacia,Andrej,Kramaric,9,0,0,0,0,0,0
-Croacia,Ante,Budimir,16,0,0,0,0,0,0
-Croacia,Bruno,Petkovic,17,0,0,0,0,0,0
-Croacia,Martin,Baturina,20,0,0,0,0,0,0
-Croacia,Nikola,Vlasic,13,0,0,0,0,0,0
-Croacia,Josip,Brekalo,21,0,0,0,0,0,0
-Croacia,Marin,Pongracic,5,0,0,0,0,0,0
-Croacia,Luka,Sucic,25,0,0,0,0,0,0
-Alemania,Toni,Kroos,8,0,0,0,0,0,0
-Alemania,Thomas,Mueller,13,0,0,0,0,0,0
-Alemania,Manuel,Neuer,1,0,0,0,0,0,0
-Alemania,Marc,ter Stegen,22,0,0,0,0,0,0
-Alemania,Antonio,Rudiger,2,0,0,0,0,0,0
-Alemania,Joshua,Kimmich,6,0,0,0,0,0,0
-Alemania,Florian,Wirtz,10,0,0,0,0,0,0
-Alemania,Jamal,Musiala,14,0,0,0,0,0,0
-Alemania,Kai,Havertz,7,0,0,0,0,0,0
-Alemania,Leroy,Sane,19,0,0,0,0,0,0
-Alemania,Jonathan,Tah,4,0,0,0,0,0,0
-Alemania,Ilkay,Gundogan,21,0,0,0,0,0,0
-Alemania,Niclas,Fullkrug,9,0,0,0,0,0,0
-Alemania,David,Raum,3,0,0,0,0,0,0
-Alemania,Nico,Schlotterbeck,15,0,0,0,0,0,0
-Alemania,Robert,Andrich,23,0,0,0,0,0,0
-Alemania,Maximilian,Mittelstadt,18,0,0,0,0,0,0
-Alemania,Pascal,Gross,5,0,0,0,0,0,0
-Alemania,Deniz,Undav,26,0,0,0,0,0,0
-Alemania,Chris,Fuhrich,11,0,0,0,0,0,0
-Francia,Kylian,Mbappe,10,0,0,0,0,0,0
-Francia,Antoine,Griezmann,7,0,0,0,0,0,0
-Francia,Mike,Maignan,1,0,0,0,0,0,0
-Francia,Theo,Hernandez,22,0,0,0,0,0,0
-Francia,William,Saliba,4,0,0,0,0,0,0
-Francia,Dayot,Upamecano,13,0,0,0,0,0,0
-Francia,Jules,Kounde,5,0,0,0,0,0,0
-Francia,Eduardo,Camavinga,6,0,0,0,0,0,0
-Francia,Aurelien,Tchouameni,8,0,0,0,0,0,0
-Francia,Ousmane,Dembele,11,0,0,0,0,0,0
-Francia,Marcus,Thuram,15,0,0,0,0,0,0
-Francia,Randal,Kolo Muani,12,0,0,0,0,0,0
-Francia,Warren,Zaire-Emery,18,0,0,0,0,0,0
-Francia,Adrien,Rabiot,14,0,0,0,0,0,0
-Francia,Kingsley,Coman,20,0,0,0,0,0,0
-Francia,Bradley,Barcola,25,0,0,0,0,0,0
-Francia,Ibrahima,Konate,24,0,0,0,0,0,0
-Francia,Ferland,Mendy,3,0,0,0,0,0,0
-Francia,Brice,Samba,16,0,0,0,0,0,0
-Francia,Benjamin,Pavard,2,0,0,0,0,0,0
-España,Rodri,Hernandez,16,0,0,0,0,0,0
-España,Lamine,Yamal,19,0,0,0,0,0,0
-España,Pedri,Gonzalez,20,0,0,0,0,0,0
-España,Alvaro,Morata,7,0,0,0,0,0,0
-España,Nico,Williams,11,0,0,0,0,0,0
-España,Dani,Olmo,10,0,0,0,0,0,0
-España,Fabian,Ruiz,8,0,0,0,0,0,0
-España,Unai,Simon,1,0,0,0,0,0,0
-España,Dani,Carvajal,2,0,0,0,0,0,0
-España,Aymeric,Laporte,5,0,0,0,0,0,0
-España,Robin,Le Normand,3,0,0,0,0,0,0
-España,Alejandro,Grimaldo,12,0,0,0,0,0,0
-España,Pau,Cubarsi,4,0,0,0,0,0,0
-España,Mikel,Merino,6,0,0,0,0,0,0
-España,Alex,Baena,17,0,0,0,0,0,0
-España,Mikel,Oyarzabal,21,0,0,0,0,0,0
-España,David,Raya,13,0,0,0,0,0,0
-España,Martin,Zubimendi,18,0,0,0,0,0,0
-España,Ferran,Torres,11,0,0,0,0,0,0
-España,Marc,Cucurella,24,0,0,0,0,0,0
-Inglaterra,Harry,Kane,9,0,0,0,0,0,0
-Inglaterra,Jude,Bellingham,10,0,0,0,0,0,0
-Inglaterra,Phil,Foden,11,0,0,0,0,0,0
-Inglaterra,Bukayo,Saka,7,0,0,0,0,0,0
-Inglaterra,Declan,Rice,4,0,0,0,0,0,0
-Inglaterra,Jordan,Pickford,1,0,0,0,0,0,0
-Inglaterra,Kyle,Walker,2,0,0,0,0,0,0
-Inglaterra,John,Stones,5,0,0,0,0,0,0
-Inglaterra,Kieran,Trippier,3,0,0,0,0,0,0
-Inglaterra,Trent,Alexander-Arnold,8,0,0,0,0,0,0
-Inglaterra,Ollie,Watkins,19,0,0,0,0,0,0
-Inglaterra,Cole,Palmer,24,0,0,0,0,0,0
-Inglaterra,Kobbie,Mainoo,26,0,0,0,0,0,0
-Inglaterra,Marc,Guehi,6,0,0,0,0,0,0
-Inglaterra,Ezri,Konsa,12,0,0,0,0,0,0
-Inglaterra,Luke,Shaw,23,0,0,0,0,0,0
-Inglaterra,Conor,Gallagher,16,0,0,0,0,0,0
-Inglaterra,Anthony,Gordon,18,0,0,0,0,0,0
-Inglaterra,Eberechi,Eze,21,0,0,0,0,0,0
-Inglaterra,Aaron,Ramsdale,13,0,0,0,0,0,0
-Portugal,Cristiano,Ronaldo,7,0,0,0,0,0,0
-Portugal,Bruno,Fernandes,8,0,0,0,0,0,0
-Portugal,Bernardo,Silva,10,0,0,0,0,0,0
-Portugal,Rafael,Leao,17,0,0,0,0,0,0
-Portugal,Diogo,Costa,1,0,0,0,0,0,0
-Portugal,Joao,Cancelo,2,0,0,0,0,0,0
-Portugal,Ruben,Dias,4,0,0,0,0,0,0
-Portugal,Pepe,,3,0,0,0,0,0,0
-Portugal,Nuno,Mendes,19,0,0,0,0,0,0
-Portugal,Joao,Palhinha,6,0,0,0,0,0,0
-Portugal,Vitinha,,23,0,0,0,0,0,0
-Portugal,Joao,Felix,11,0,0,0,0,0,0
-Portugal,Diogo,Jota,21,0,0,0,0,0,0
-Portugal,Goncalo,Ramos,9,0,0,0,0,0,0
-Portugal,Pedro,Neto,25,0,0,0,0,0,0
-Portugal,Ruben,Neves,18,0,0,0,0,0,0
-Portugal,Diogo,Dalot,5,0,0,0,0,0,0
-Portugal,Danilo,Pereira,13,0,0,0,0,0,0
-Portugal,Matheus,Nunes,16,0,0,0,0,0,0
-Portugal,Rui,Patricio,12,0,0,0,0,0,0
-Paises Bajos,Virgil,van Dijk,4,0,0,0,0,0,0
-Paises Bajos,Xavi,Simons,7,0,0,0,0,0,0
-Paises Bajos,Cody,Gakpo,11,0,0,0,0,0,0
-Paises Bajos,Memphis,Depay,10,0,0,0,0,0,0
-Paises Bajos,Bart,Verbruggen,1,0,0,0,0,0,0
-Paises Bajos,Denzel,Dumfries,22,0,0,0,0,0,0
-Paises Bajos,Nathan,Ake,5,0,0,0,0,0,0
-Paises Bajos,Jeremie,Frimpong,20,0,0,0,0,0,0
-Paises Bajos,Tijjani,Reijnders,14,0,0,0,0,0,0
-Paises Bajos,Jerdy,Schouten,24,0,0,0,0,0,0
-Paises Bajos,Wout,Weghorst,9,0,0,0,0,0,0
-Paises Bajos,Micky,van de Ven,15,0,0,0,0,0,0
-Paises Bajos,Stefan,de Vrij,6,0,0,0,0,0,0
-Paises Bajos,Joey,Veerman,16,0,0,0,0,0,0
-Paises Bajos,Donyell,Malen,18,0,0,0,0,0,0
-Paises Bajos,Brian,Brobbey,19,0,0,0,0,0,0
-Paises Bajos,Georginio,Wijnaldum,8,0,0,0,0,0,0
-Paises Bajos,Lutsharel,Geertruida,2,0,0,0,0,0,0
-Paises Bajos,Mark,Flekken,13,0,0,0,0,0,0
-Paises Bajos,Matthijs,de Ligt,3,0,0,0,0,0,0
-Italia,Gianluigi,Donnarumma,1,0,0,0,0,0,0
-Italia,Federico,Chiesa,14,0,0,0,0,0,0
-Italia,Nicolo,Barella,18,0,0,0,0,0,0
-Italia,Alessandro,Bastoni,23,0,0,0,0,0,0
-Italia,Riccardo,Calafiori,5,0,0,0,0,0,0
-Italia,Giovanni,Di Lorenzo,2,0,0,0,0,0,0
-Italia,Federico,Dimarco,3,0,0,0,0,0,0
-Italia,Jorginho,,8,0,0,0,0,0,0
-Italia,Lorenzo,Pellegrini,10,0,0,0,0,0,0
-Italia,Gianluca,Scamacca,9,0,0,0,0,0,0
-Italia,Davide,Frattesi,16,0,0,0,0,0,0
-Italia,Mateo,Retegui,19,0,0,0,0,0,0
-Italia,Giacomo,Raspadori,11,0,0,0,0,0,0
-Italia,Manuel,Locatelli,5,0,0,0,0,0,0
-Italia,Bryan,Cristante,16,0,0,0,0,0,0
-Italia,Gianluca,Mancini,17,0,0,0,0,0,0
-Italia,Guglielmo,Vicario,12,0,0,0,0,0,0
-Italia,Andrea,Cambiaso,20,0,0,0,0,0,0
-Italia,Mattia,Zaccagni,20,0,0,0,0,0,0
-Italia,Nicolo,Fagioli,21,0,0,0,0,0,0
-Uruguay,Federico,Valverde,15,0,0,0,0,0,0
-Uruguay,Darwin,Nuñez,19,0,0,0,0,0,0
-Uruguay,Luis,Suarez,9,0,0,0,0,0,0
-Uruguay,Sergio,Rochet,1,0,0,0,0,0,0
-Uruguay,Ronald,Araujo,4,0,0,0,0,0,0
-Uruguay,Jose Maria,Gimenez,2,0,0,0,0,0,0
-Uruguay,Mathias,Olivera,16,0,0,0,0,0,0
-Uruguay,Nicolas,de la Cruz,7,0,0,0,0,0,0
-Uruguay,Manuel,Ugarte,5,0,0,0,0,0,0
-Uruguay,Facundo,Pellistri,11,0,0,0,0,0,0
-Uruguay,Maximilian,Araujo,20,0,0,0,0,0,0
-Uruguay,Rodrigo,Bentancur,6,0,0,0,0,0,0
-Uruguay,Giorgian,de Arrascaeta,10,0,0,0,0,0,0
-Uruguay,Nahitan,Nandez,8,0,0,0,0,0,0
-Uruguay,Sebastian,Caceres,3,0,0,0,0,0,0
-Uruguay,Matias,Viña,17,0,0,0,0,0,0
-Uruguay,Cristian,Olivera,25,0,0,0,0,0,0
-Uruguay,Brian,Rodriguez,18,0,0,0,0,0,0
-Uruguay,Santiago,Mele,12,0,0,0,0,0,0
-Uruguay,Guillermo,Varela,13,0,0,0,0,0,0
-Mexico,Santiago,Gimenez,11,0,0,0,0,0,0
-Mexico,Edson,Alvarez,4,0,0,0,0,0,0
-Mexico,Luis,Chavez,24,0,0,0,0,0,0
-Mexico,Julio,Gonzalez,1,0,0,0,0,0,0
-Mexico,Cesar,Montes,3,0,0,0,0,0,0
-Mexico,Johan,Vasquez,5,0,0,0,0,0,0
-Mexico,Gerardo,Arteaga,6,0,0,0,0,0,0
-Mexico,Jorge,Sanchez,19,0,0,0,0,0,0
-Mexico,Luis,Romo,7,0,0,0,0,0,0
-Mexico,Uriel,Antuna,15,0,0,0,0,0,0
-Mexico,Orbelin,Pineda,17,0,0,0,0,0,0
-Mexico,Julian,Quiñones,9,0,0,0,0,0,0
-Mexico,Alexis,Vega,10,0,0,0,0,0,0
-Mexico,Erick,Sanchez,14,0,0,0,0,0,0
-Mexico,Roberto,Alvarado,25,0,0,0,0,0,0
-Mexico,Carlos,Acevedo,12,0,0,0,0,0,0
-Mexico,Israel,Reyes,2,0,0,0,0,0,0
-Mexico,Charly,Rodriguez,8,0,0,0,0,0,0
-Mexico,Guillermo,Martinez,20,0,0,0,0,0,0
-Mexico,Raul,Jimenez,11,0,0,0,0,0,0
-USA,Christian,Pulisic,10,0,0,0,0,0,0
-USA,Weston,McKennie,8,0,0,0,0,0,0
-USA,Timothy,Weah,21,0,0,0,0,0,0
-USA,Matt,Turner,1,0,0,0,0,0,0
-USA,Antonee,Robinson,5,0,0,0,0,0,0
-USA,Chris,Richards,3,0,0,0,0,0,0
-USA,Tim,Ream,13,0,0,0,0,0,0
-USA,Joe,Scally,22,0,0,0,0,0,0
-USA,Tyler,Adams,4,0,0,0,0,0,0
-USA,Yunus,Musah,6,0,0,0,0,0,0
-USA,Giovanni,Reyna,7,0,0,0,0,0,0
-USA,Folarin,Balogun,20,0,0,0,0,0,0
-USA,Ricardo,Pepi,9,0,0,0,0,0,0
-USA,Brenden,Aaronson,11,0,0,0,0,0,0
-USA,Cameron,Carter-Vickers,2,0,0,0,0,0,0
-USA,Johnny,Cardoso,15,0,0,0,0,0,0
-USA,Haji,Wright,19,0,0,0,0,0,0
-USA,Ethan,Horvath,12,0,0,0,0,0,0
-USA,Josh,Sargent,24,0,0,0,0,0,0
-USA,Malik,Tillman,17,0,0,0,0,0,0
-Ecuador,Moises,Caicedo,23,0,0,0,0,0,0
-Ecuador,Enner,Valencia,13,0,0,0,0,0,0
-Ecuador,Piero,Hincapie,3,0,0,0,0,0,0
-Ecuador,Alexander,Dominguez,22,0,0,0,0,0,0
-Ecuador,Félix,Torres,2,0,0,0,0,0,0
-Ecuador,William,Pacho,6,0,0,0,0,0,0
-Ecuador,Angelo,Preciado,17,0,0,0,0,0,0
-Ecuador,Alan,Franco,21,0,0,0,0,0,0
-Ecuador,Jeremy,Sarmiento,16,0,0,0,0,0,0
-Ecuador,Kendry,Paez,10,0,0,0,0,0,0
-Ecuador,Kevin,Rodriguez,11,0,0,0,0,0,0
-Ecuador,Hernan,Galindez,1,0,0,0,0,0,0
-Ecuador,Willian,Pacho,4,0,0,0,0,0,0
-Ecuador,Carlos,Gruezo,8,0,0,0,0,0,0
-Ecuador,Angel,Mena,15,0,0,0,0,0,0
-Ecuador,John,Yeboah,9,0,0,0,0,0,0
-Ecuador,Jordy,Caicedo,19,0,0,0,0,0,0
-Ecuador,Pervis,Estupiñán,7,0,0,0,0,0,0
-Ecuador,Jose,Cifuentes,5,0,0,0,0,0,0
-Ecuador,Jackson,Porozo,25,0,0,0,0,0,0
-Marruecos,Achraf,Hakimi,2,0,0,0,0,0,0
-Marruecos,Brahim,Diaz,10,0,0,0,0,0,0
-Marruecos,Hakim,Ziyech,7,0,0,0,0,0,0
-Marruecos,Yassine,Bounou,1,0,0,0,0,0,0
-Marruecos,Nayef,Aguerd,5,0,0,0,0,0,0
-Marruecos,Romain,Saiss,6,0,0,0,0,0,0
-Marruecos,Noussair,Mazraoui,3,0,0,0,0,0,0
-Marruecos,Sofyan,Amrabat,4,0,0,0,0,0,0
-Marruecos,Azzedine,Ounahi,8,0,0,0,0,0,0
-Marruecos,Youssef,En-Nesyri,19,0,0,0,0,0,0
-Marruecos,Amine,Adli,21,0,0,0,0,0,0
-Marruecos,Munir,Mohamedi,12,0,0,0,0,0,0
-Marruecos,Achraf,Dari,13,0,0,0,0,0,0
-Marruecos,Ismael,Saibari,23,0,0,0,0,0,0
-Marruecos,Eliesse,Ben Seghir,20,0,0,0,0,0,0
-Marruecos,Soufiane,Rahimi,9,0,0,0,0,0,0
-Marruecos,Ayoub,El Kaabi,11,0,0,0,0,0,0
-Marruecos,Yahia,Attiyat Allah,25,0,0,0,0,0,0
-Marruecos,Oussama,El Azzouzi,18,0,0,0,0,0,0
-Marruecos,Chadi,Riad,15,0,0,0,0,0,0
-Japón,Takefusa,Kubo,20,0,0,0,0,0,0
-Japón,Wataru,Endo,6,0,0,0,0,0,0
-Japón,Kaoru,Mitoma,7,0,0,0,0,0,0
-Japón,Zion,Suzuki,1,0,0,0,0,0,0
-Japón,Ko,Itakura,4,0,0,0,0,0,0
-Japón,Takehiro,Tomiyasu,22,0,0,0,0,0,0
-Japón,Hiroki,Ito,21,0,0,0,0,0,0
-Japón,Yukinari,Sugawara,2,0,0,0,0,0,0
-Japón,Hidemasa,Morita,5,0,0,0,0,0,0
-Japón,Reo,Hatate,10,0,0,0,0,0,0
-Japón,Ayase,Ueda,9,0,0,0,0,0,0
-Japón,Ritsu,Doan,8,0,0,0,0,0,0
-Japón,Takumi,Minamino,18,0,0,0,0,0,0
-Japón,Daizen,Maeda,11,0,0,0,0,0,0
-Japón,Keito,Nakamura,13,0,0,0,0,0,0
-Japón,Koki,Ogawa,19,0,0,0,0,0,0
-Japón,Shogo,Taniguchi,3,0,0,0,0,0,0
-Japón,Kosei,Tani,12,0,0,0,0,0,0
-Japón,Koki,Machida,16,0,0,0,0,0,0
-Japón,Ao,Tanaka,17,0,0,0,0,0,0
-Canadá,Alphonso,Davies,19,0,0,0,0,0,0
-Canadá,Jonathan,David,20,0,0,0,0,0,0
-Canadá,Maxime,Crepeau,1,0,0,0,0,0,0
-Canadá,Alistair,Johnston,2,0,0,0,0,0,0
-Canadá,Moïse,Bombito,15,0,0,0,0,0,0
-Canadá,Derek,Cornelius,13,0,0,0,0,0,0
-Canadá,Richie,Laryea,22,0,0,0,0,0,0
-Canadá,Ismael,Kone,8,0,0,0,0,0,0
-Canadá,Stephen,Eustaquio,7,0,0,0,0,0,0
-Canadá,Liam,Millar,23,0,0,0,0,0,0
-Canadá,Jacob,Shaffelburg,14,0,0,0,0,0,0
-Canadá,Cyle,Larin,9,0,0,0,0,0,0
-Canadá,Tajon,Buchanan,11,0,0,0,0,0,0
-Canadá,Dayne,St. Clair,16,0,0,0,0,0,0
-Canadá,Kamal,Miller,4,0,0,0,0,0,0
-Canadá,Jonathan,Osorio,21,0,0,0,0,0,0
-Canadá,Samuel,Piette,6,0,0,0,0,0,0
-Canadá,Theo,Bair,17,0,0,0,0,0,0
-Canadá,Ali,Ahmed,18,0,0,0,0,0,0
-Canadá,Lukas,MacNaughton,5,0,0,0,0,0,0
-Bélgica,Kevin,De Bruyne,7,0,0,0,0,0,0
-Bélgica,Romelu,Lukaku,10,0,0,0,0,0,0
-Bélgica,Jeremy,Doku,22,0,0,0,0,0,0
-Bélgica,Koen,Casteels,1,0,0,0,0,0,0
-Bélgica,Wout,Faes,4,0,0,0,0,0,0
-Bélgica,Jan,Vertonghen,5,0,0,0,0,0,0
-Bélgica,Timothy,Castagne,21,0,0,0,0,0,0
-Bélgica,Amadou,Onana,24,0,0,0,0,0,0
-Bélgica,Youri,Tielemans,8,0,0,0,0,0,0
-Bélgica,Leandro,Trossard,9,0,0,0,0,0,0
-Bélgica,Lois,Openda,20,0,0,0,0,0,0
-Bélgica,Yannick,Carrasco,11,0,0,0,0,0,0
-Bélgica,Charles,De Ketelaere,17,0,0,0,0,0,0
-Bélgica,Johan,Bakayoko,19,0,0,0,0,0,0
-Bélgica,Arthur,Theate,3,0,0,0,0,0,0
-Bélgica,Zeno,Debast,2,0,0,0,0,0,0
-Bélgica,Thomas,Meunier,15,0,0,0,0,0,0
-Bélgica,Orel,Mangala,18,0,0,0,0,0,0
-Bélgica,Dodi,Lukebakio,14,0,0,0,0,0,0
-Bélgica,Matz,Sels,12,0,0,0,0,0,0
-Portugal,Diogo,Costa,1,0,0,0,0,0,0
-Portugal,Ruben,Dias,4,0,0,0,0,0,0
-Portugal,Joao,Cancelo,2,0,0,0,0,0,0
-Portugal,Nuno,Mendes,19,0,0,0,0,0,0
-Portugal,Pepe,,3,0,0,0,0,0,0
-Portugal,Joao,Palhinha,6,0,0,0,0,0,0
-Portugal,Bruno,Fernandes,8,0,0,0,0,0,0
-Portugal,Bernardo,Silva,10,0,0,0,0,0,0
-Portugal,Cristiano,Ronaldo,7,0,0,0,0,0,0
-Portugal,Rafael,Leao,17,0,0,0,0,0,0
-Portugal,Vitinha,,23,0,0,0,0,0,0
-Portugal,Diogo,Jota,21,0,0,0,0,0,0
-Portugal,Joao,Felix,11,0,0,0,0,0,0
-Portugal,Goncalo,Ramos,9,0,0,0,0,0,0
-Portugal,Pedro,Neto,25,0,0,0,0,0,0
-Portugal,Ruben,Neves,18,0,0,0,0,0,0
-Portugal,Danilo,Pereira,13,0,0,0,0,0,0
-Portugal,Antonio,Silva,24,0,0,0,0,0,0
-Portugal,Diogo,Dalot,5,0,0,0,0,0,0
-Portugal,Rui,Patricio,12,0,0,0,0,0,0
-Corea del Sur,Heung-min,Son,7,0,0,0,0,0,0
-Corea del Sur,Min-jae,Kim,4,0,0,0,0,0,0
-Corea del Sur,Kang-in,Lee,18,0,0,0,0,0,0
-Corea del Sur,Hee-chan,Hwang,11,0,0,0,0,0,0
-Corea del Sur,Hyeon-woo,Jo,21,0,0,0,0,0,0
-Corea del Sur,Young-gwon,Kim,19,0,0,0,0,0,0
-Corea del Sur,Jin-su,Kim,3,0,0,0,0,0,0
-Corea del Sur,Seol,Young-woo,22,0,0,0,0,0,0
-Corea del Sur,In-beom,Hwang,6,0,0,0,0,0,0
-Corea del Sur,Jae-sung,Lee,10,0,0,0,0,0,0
-Corea del Sur,Gue-sung,Cho,9,0,0,0,0,0,0
-Corea del Sur,Beom-keun,Song,1,0,0,0,0,0,0
-Corea del Sur,Jung,Seung-hyun,15,0,0,0,0,0,0
-Corea del Sur,Park,Yong-woo,5,0,0,0,0,0,0
-Corea del Sur,Hong,Hyun-seok,8,0,0,0,0,0,0
-Corea del Sur,Jeong,Woo-yeong,17,0,0,0,0,0,0
-Corea del Sur,Oh,Hyeon-gyu,20,0,0,0,0,0,0
-Corea del Sur,Lee,Ki-je,2,0,0,0,0,0,0
-Corea del Sur,Kim,Moon-hwan,23,0,0,0,0,0,0
-Corea del Sur,Paik,Seung-ho,13,0,0,0,0,0,0
-Senegal,Sadio,Mane,10,0,0,0,0,0,0
-Senegal,Nicolas,Jackson,7,0,0,0,0,0,0
-Senegal,Edouard,Mendy,16,0,0,0,0,0,0
-Senegal,Kalidou,Koulibaly,3,0,0,0,0,0,0
-Senegal,Pape,Matar Sarr,17,0,0,0,0,0,0
-Senegal,Idrissa,Gueye,5,0,0,0,0,0,0
-Senegal,Ismaila,Sarr,18,0,0,0,0,0,0
-Senegal,Abdou,Diallo,22,0,0,0,0,0,0
-Senegal,Moussa,Niakhate,19,0,0,0,0,0,0
-Senegal,Ismail,Jakobs,14,0,0,0,0,0,0
-Senegal,Formose,Mendy,2,0,0,0,0,0,0
-Senegal,Lamine,Camara,25,0,0,0,0,0,0
-Senegal,Nampalys,Mendy,6,0,0,0,0,0,0
-Senegal,Iliman,Ndiaye,11,0,0,0,0,0,0
-Senegal,Habib,Diallo,20,0,0,0,0,0,0
-Senegal,Boulaye,Dia,9,0,0,0,0,0,0
-Senegal,Krépin,Diatta,15,0,0,0,0,0,0
-Senegal,Mory,Diaw,1,0,0,0,0,0,0
-Senegal,Mikayil,Faye,4,0,0,0,0,0,0
-Senegal,Cherif,Ndiaye,21,0,0,0,0,0,0
-Paraguay,Miguel,Almiron,10,0,0,0,0,0,0
-Paraguay,Julio,Enciso,19,0,0,0,0,0,0
-Paraguay,Ramon,Sosa,24,0,0,0,0,0,0
-Paraguay,Carlos,Coronel,1,0,0,0,0,0,0
-Paraguay,Gustavo,Gomez,15,0,0,0,0,0,0
-Paraguay,Fabian,Balbuena,4,0,0,0,0,0,0
-Paraguay,Omar,Alderete,3,0,0,0,0,0,0
-Paraguay,Mathias,Villasanti,23,0,0,0,0,0,0
-Paraguay,Andres,Cubas,6,0,0,0,0,0,0
-Paraguay,Diego,Gomez,16,0,0,0,0,0,0
-Paraguay,Adam,Bareiro,9,0,0,0,0,0,0
-Paraguay,Alex,Arce,18,0,0,0,0,0,0
-Paraguay,Damian,Bobadilla,8,0,0,0,0,0,0
-Paraguay,Junior,Alonso,13,0,0,0,0,0,0
-Paraguay,Ivan,Ramirez,2,0,0,0,0,0,0
-Paraguay,Nestor,Gimenez,21,0,0,0,0,0,0
-Paraguay,Alejandro,Romero,17,0,0,0,0,0,0
-Paraguay,Angel,Romero,11,0,0,0,0,0,0
-Paraguay,Santiago,Rojas,12,0,0,0,0,0,0
-Paraguay,Hernesto,Caballero,20,0,0,0,0,0,0
-Chile,Alexis,Sanchez,10,0,0,0,0,0,0
-Chile,Eduardo,Vargas,11,0,0,0,0,0,0
-Chile,Claudio,Bravo,1,0,0,0,0,0,0
-Chile,Gabriel,Suazo,4,0,0,0,0,0,0
-Chile,Paulo,Diaz,5,0,0,0,0,0,0
-Chile,Igor,Lichnovsky,16,0,0,0,0,0,0
-Chile,Mauricio,Isla,2,0,0,0,0,0,0
-Chile,Erick,Pulgar,13,0,0,0,0,0,0
-Chile,Marcelino,Nuñez,7,0,0,0,0,0,0
-Chile,Rodrigo,Echeverria,18,0,0,0,0,0,0
-Chile,Diego,Valdes,15,0,0,0,0,0,0
-Chile,Victor,Davila,9,0,0,0,0,0,0
-Chile,Ben,Brereton,22,0,0,0,0,0,0
-Chile,Dario,Osorio,8,0,0,0,0,0,0
-Chile,Gabriel,Arias,12,0,0,0,0,0,0
-Chile,Guillermo,Maripan,3,0,0,0,0,0,0
-Chile,Thomas,Galdames,6,0,0,0,0,0,0
-Chile,Felipe,Loyola,21,0,0,0,0,0,0
-Chile,Esteban,Pavez,17,0,0,0,0,0,0
-Chile,Maximiliano,Guerrero,19,0,0,0,0,0,0
-Perú,Gianluca,Lapadula,9,0,0,0,0,0,0
-Perú,Paolo,Guerrero,14,0,0,0,0,0,0
-Perú,Pedro,Gallese,1,0,0,0,0,0,0
-Perú,Luis,Advincula,17,0,0,0,0,0,0
-Perú,Alexander,Callens,22,0,0,0,0,0,0
-Perú,Carlos,Zambrano,5,0,0,0,0,0,0
-Perú,Marcos,Lopez,6,0,0,0,0,0,0
-Perú,Wilder,Cartagena,16,0,0,0,0,0,0
-Perú,Renato,Tapia,13,0,0,0,0,0,0
-Perú,Sergio,Peña,8,0,0,0,0,0,0
-Perú,Piero,Quispe,10,0,0,0,0,0,0
-Perú,Bryan,Reyna,11,0,0,0,0,0,0
-Perú,Edison,Flores,20,0,0,0,0,0,0
-Perú,Andre,Carrillo,18,0,0,0,0,0,0
-Perú,Miguel,Araujo,15,0,0,0,0,0,0
-Perú,Anderson,Santamaria,4,0,0,0,0,0,0
-Perú,Oliver,Sonne,2,0,0,0,0,0,0
-Perú,Jesus,Castillo,23,0,0,0,0,0,0
-Perú,Carlos,Caceda,12,0,0,0,0,0,0
-Perú,Joao,Grimaldo,24,0,0,0,0,0,0
-Suiza,Granit,Xhaka,10,0,0,0,0,0,0
-Suiza,Xherdan,Shaqiri,23,0,0,0,0,0,0
-Suiza,Yann,Sommer,1,0,0,0,0,0,0
-Suiza,Manuel,Akanji,5,0,0,0,0,0,0
-Suiza,Fabian,Schar,22,0,0,0,0,0,0
-Suiza,Ricardo,Rodriguez,13,0,0,0,0,0,0
-Suiza,Remo,Freuler,8,0,0,0,0,0,0
-Suiza,Denis,Zakaria,6,0,0,0,0,0,0
-Suiza,Michel,Aebischer,20,0,0,0,0,0,0
-Suiza,Ruben,Vargas,17,0,0,0,0,0,0
-Suiza,Breel,Embolo,7,0,0,0,0,0,0
-Suiza,Dan,Ndoye,19,0,0,0,0,0,0
-Suiza,Kwadwo,Duah,18,0,0,0,0,0,0
-Suiza,Gregor,Kobel,21,0,0,0,0,0,0
-Suiza,Nico,Elvedi,4,0,0,0,0,0,0
-Suiza,Silvan,Widmer,3,0,0,0,0,0,0
-Suiza,Vincent,Sierro,16,0,0,0,0,0,0
-Suiza,Zeki,Amdouni,25,0,0,0,0,0,0
-Suiza,Noah,Okafor,9,0,0,0,0,0,0
-Suiza,Yvon,Mvogo,12,0,0,0,0,0,0
-Austria,Marcel,Sabitzer,9,0,0,0,0,0,0
-Austria,Konrad,Laimer,20,0,0,0,0,0,0
-Austria,Christoph,Baumgartner,19,0,0,0,0,0,0
-Austria,Patrick,Pentz,1,0,0,0,0,0,0
-Austria,Kevin,Danso,4,0,0,0,0,0,0
-Austria,Philipp,Lienhart,15,0,0,0,0,0,0
-Austria,Stefan,Posch,5,0,0,0,0,0,0
-Austria,Phillipp,Mwene,16,0,0,0,0,0,0
-Austria,Nicolas,Seiwald,6,0,0,0,0,0,0
-Austria,Florian,Grillitsch,10,0,0,0,0,0,0
-Austria,Romano,Schmid,18,0,0,0,0,0,0
-Austria,Michael,Gregoritsch,11,0,0,0,0,0,0
-Austria,Marko,Arnautovic,7,0,0,0,0,0,0
-Austria,Patrick,Wimmer,23,0,0,0,0,0,0
-Austria,Gernot,Trauner,3,0,0,0,0,0,0
-Austria,Maximilian,Wober,2,0,0,0,0,0,0
-Austria,Alexander,Prass,8,0,0,0,0,0,0
-Austria,Heinz,Lindner,13,0,0,0,0,0,0
-Austria,Leopold,Querfeld,14,0,0,0,0,0,0
-Austria,Junior,Adamu,21,0,0,0,0,0,0
-Dinamarca,Christian,Eriksen,10,0,0,0,0,0,0
-Dinamarca,Rasmus,Hojlund,9,0,0,0,0,0,0
-Dinamarca,Kasper,Schmeichel,1,0,0,0,0,0,0
-Dinamarca,Andreas,Christensen,6,0,0,0,0,0,0
-Dinamarca,Jannik,Vestergaard,3,0,0,0,0,0,0
-Dinamarca,Joachim,Andersen,2,0,0,0,0,0,0
-Dinamarca,Alexander,Bah,18,0,0,0,0,0,0
-Dinamarca,Pierre-Emile,Hojbjerg,23,0,0,0,0,0,0
-Dinamarca,Morten,Hjulmand,21,0,0,0,0,0,0
-Dinamarca,Jonas,Wind,19,0,0,0,0,0,0
-Dinamarca,Mikkel,Damsgaard,14,0,0,0,0,0,0
-Dinamarca,Yussuf,Poulsen,20,0,0,0,0,0,0
-Dinamarca,Victor,Kristiansen,17,0,0,0,0,0,0
-Dinamarca,Joakim,Maehle,5,0,0,0,0,0,0
-Dinamarca,Christian,Norgaard,15,0,0,0,0,0,0
-Dinamarca,Thomas,Delaney,8,0,0,0,0,0,0
-Dinamarca,Kasper,Dolberg,12,0,0,0,0,0,0
-Dinamarca,Andreas,Skov Olsen,11,0,0,0,0,0,0
-Dinamarca,Mads,Hermansen,22,0,0,0,0,0,0
-Dinamarca,Victor,Nelsson,4,0,0,0,0,0,0
-Serbia,Aleksandar,Mitrovic,9,0,0,0,0,0,0
-Serbia,Dusan,Vlahovic,7,0,0,0,0,0,0
-Serbia,Dusan,Tadic,10,0,0,0,0,0,0
-Serbia,Vanja,Milinkovic-Savic,23,0,0,0,0,0,0
-Serbia,Nikola,Milenkovic,4,0,0,0,0,0,0
-Serbia,Strahinja,Pavlovic,2,0,0,0,0,0,0
-Serbia,Milos,Veljkovic,13,0,0,0,0,0,0
-Serbia,Andrija,Zivkovic,14,0,0,0,0,0,0
-Serbia,Filip,Kostic,17,0,0,0,0,0,0
-Serbia,Nemanja,Gudelj,6,0,0,0,0,0,0
-Serbia,Sergej,Milinkovic-Savic,20,0,0,0,0,0,0
-Serbia,Sasa,Lukic,22,0,0,0,0,0,0
-Serbia,Lazar,Samardzic,19,0,0,0,0,0,0
-Serbia,Luka,Jovic,8,0,0,0,0,0,0
-Serbia,Predrag,Rajkovic,1,0,0,0,0,0,0
-Serbia,Nemanja,Maksimovic,5,0,0,0,0,0,0
-Serbia,Mijat,Gacinovic,11,0,0,0,0,0,0
-Serbia,Srdjan,Babic,15,0,0,0,0,0,0
-Serbia,Veljko,Birmancevic,21,0,0,0,0,0,0
-Serbia,Filip,Mladenovic,25,0,0,0,0,0,0
-Turquía,Arda,Güler,8,0,0,0,0,0,0
-Turquía,Hakan,Calhanoglu,10,0,0,0,0,0,0
-Turquía,Kenan,Yildiz,19,0,0,0,0,0,0
-Turquía,Mert,Günok,1,0,0,0,0,0,0
-Turquía,Merih,Demiral,3,0,0,0,0,0,0
-Turquía,Samet,Akaydin,4,0,0,0,0,0,0
-Turquía,Ferdi,Kadioglu,20,0,0,0,0,0,0
-Turquía,Mert,Müldür,18,0,0,0,0,0,0
-Turquía,Kaan,Ayhan,22,0,0,0,0,0,0
-Turquía,Salih,Özcan,15,0,0,0,0,0,0
-Turquía,Orkun,Kökçü,6,0,0,0,0,0,0
-Turquía,Baris,Alper Yilmaz,21,0,0,0,0,0,0
-Turquía,Kerem,Aktürkoglu,7,0,0,0,0,0,0
-Turquía,Cenk,Tosun,9,0,0,0,0,0,0
-Turquía,Yusuf,Yazici,11,0,0,0,0,0,0
-Turquía,İrfan,Can Kahveci,17,0,0,0,0,0,0
-Turquía,Ugurcan,Cakir,12,0,0,0,0,0,0
-Turquía,Zeki,Celik,2,0,0,0,0,0,0
-Turquía,Okay,Yokuslu,5,0,0,0,0,0,0
-Turquía,Semih,Kiliçsoy,24,0,0,0,0,0,0
-Ucrania,Andriy,Lunin,13,0,0,0,0,0,0
-Ucrania,Artem,Dovbyk,11,0,0,0,0,0,0
-Ucrania,Mykhailo,Mudryk,10,0,0,0,0,0,0
-Ucrania,Oleksandr,Zinchenko,17,0,0,0,0,0,0
-Ucrania,Illya,Zabarnyi,13,0,0,0,0,0,0
-Ucrania,Mykola,Matviyenko,22,0,0,0,0,0,0
-Ucrania,Vitaliy,Mykolenko,16,0,0,0,0,0,0
-Ucrania,Yukhym,Konoplya,2,0,0,0,0,0,0
-Ucrania,Taras,Stepanenko,6,0,0,0,0,0,0
-Ucrania,Heorhiy,Sudakov,14,0,0,0,0,0,0
-Ucrania,Mykola,Shaparenko,19,0,0,0,0,0,0
-Ucrania,Viktor,Tsyhankov,15,0,0,0,0,0,0
-Ucrania,Roman,Yaremchuk,9,0,0,0,0,0,0
-Ucrania,Anatoliy,Trubin,12,0,0,0,0,0,0
-Ucrania,Oleksandr,Svatok,3,0,0,0,0,0,0
-Ucrania,Valeriy,Bondar,4,0,0,0,0,0,0
-Ucrania,Volodymyr,Brazhko,18,0,0,0,0,0,0
-Ucrania,Ruslan,Malinovskyi,8,0,0,0,0,0,0
-Ucrania,Vladyslav,Vanat,25,0,0,0,0,0,0
-Ucrania,Oleksandr,Zubkov,20,0,0,0,0,0,0
-Nigeria,Victor,Osimhen,9,0,0,0,0,0,0
-Nigeria,Ademola,Lookman,18,0,0,0,0,0,0
-Nigeria,Alex,Iwobi,17,0,0,0,0,0,0
-Nigeria,Stanley,Nwabali,23,0,0,0,0,0,0
-Nigeria,William,Troost-Ekong,5,0,0,0,0,0,0
-Nigeria,Calvin,Bassey,21,0,0,0,0,0,0
-Nigeria,Ola,Aina,2,0,0,0,0,0,0
-Nigeria,Wilfred,Ndidi,4,0,0,0,0,0,0
-Nigeria,Frank,Onyeka,8,0,0,0,0,0,0
-Nigeria,Samuel,Chukwueze,11,0,0,0,0,0,0
-Nigeria,Moses,Simon,15,0,0,0,0,0,0
-Nigeria,Victor,Boniface,24,0,0,0,0,0,0
-Nigeria,Kelechi,Iheanacho,14,0,0,0,0,0,0
-Nigeria,Semi,Ajayi,6,0,0,0,0,0,0
-Nigeria,Bright,Osayi-Samuel,12,0,0,0,0,0,0
-Nigeria,Zaidu,Sanusi,3,0,0,0,0,0,0
-Nigeria,Raphael,Onyedika,25,0,0,0,0,0,0
-Nigeria,Terem,Moffi,19,0,0,0,0,0,0
-Nigeria,Taiwo,Awoniyi,20,0,0,0,0,0,0
-Nigeria,Maduka,Okoye,1,0,0,0,0,0,0
-Egipto,Mohamed,Salah,10,0,0,0,0,0,0
-Egipto,Mostafa,Mohamed,19,0,0,0,0,0,0
-Egipto,Omar,Marmoush,22,0,0,0,0,0,0
-Egipto,Mohamed,El Shenawy,1,0,0,0,0,0,0
-Egipto,Mohamed,Abdelmonem,24,0,0,0,0,0,0
-Egipto,Ahmed,Hegazy,6,0,0,0,0,0,0
-Egipto,Mohamed,Hany,3,0,0,0,0,0,0
-Egipto,Hamdi,Fathi,5,0,0,0,0,0,0
-Egipto,Marwan,Attia,8,0,0,0,0,0,0
-Egipto,Trézéguet,,7,0,0,0,0,0,0
-Egipto,Zizo,,21,0,0,0,0,0,0
-Egipto,Mohamed,Sherif,9,0,0,0,0,0,0
-Egipto,Emam,Ashour,14,0,0,0,0,0,0
-Egipto,Ramy,Rabia,4,0,0,0,0,0,0
-Egipto,Mohamed,Hamdy,13,0,0,0,0,0,0
-Egipto,Mostafa,Fathi,11,0,0,0,0,0,0
-Egipto,Mohamed,Awad,16,0,0,0,0,0,0
-Egipto,Ibrahim,Adel,20,0,0,0,0,0,0
-Egipto,Ahmed,Nabil Koka,15,0,0,0,0,0,0
-Egipto,Yasser,Ibrahim,2,0,0,0,0,0,0
-Costa de Marfil,Sebastien,Haller,22,0,0,0,0,0,0
-Costa de Marfil,Simon,Adingra,24,0,0,0,0,0,0
-Costa de Marfil,Franck,Kessie,8,0,0,0,0,0,0
-Costa de Marfil,Yahia,Fofana,1,0,0,0,0,0,0
-Costa de Marfil,Evan,Ndicka,21,0,0,0,0,0,0
-Costa de Marfil,Odilon,Kossounou,7,0,0,0,0,0,0
-Costa de Marfil,Wilfried,Singo,5,0,0,0,0,0,0
-Costa de Marfil,Seko,Fofana,6,0,0,0,0,0,0
-Costa de Marfil,Ibrahim,Sangare,18,0,0,0,0,0,0
-Costa de Marfil,Max,Gradel,15,0,0,0,0,0,0
-Costa de Marfil,Nicolas,Pepe,19,0,0,0,0,0,0
-Costa de Marfil,Oumar,Diakite,14,0,0,0,0,0,0
-Costa de Marfil,Jeremie,Boga,10,0,0,0,0,0,0
-Costa de Marfil,Willy,Boly,12,0,0,0,0,0,0
-Costa de Marfil,Ghislain,Konan,3,0,0,0,0,0,0
-Costa de Marfil,Serge,Aurier,17,0,0,0,0,0,0
-Costa de Marfil,Jean-Michael,Seri,4,0,0,0,0,0,0
-Costa de Marfil,Christian,Kouame,20,0,0,0,0,0,0
-Costa de Marfil,Karim,Konate,11,0,0,0,0,0,0
-Costa de Marfil,Badra,Ali Sangare,16,0,0,0,0,0,0
-Argelia,Riyad,Mahrez,7,0,0,0,0,0,0
-Argelia,Ismael,Bennacer,4,0,0,0,0,0,0
-Argelia,Said,Benrahma,10,0,0,0,0,0,0
-Argelia,Anthony,Mandrea,1,0,0,0,0,0,0
-Argelia,Aissa,Mandi,2,0,0,0,0,0,0
-Argelia,Ramy,Bensebaini,21,0,0,0,0,0,0
-Argelia,Rayan,Ait-Nouri,15,0,0,0,0,0,0
-Argelia,Nabil,Bentaleb,6,0,0,0,0,0,0
-Argelia,Houssem,Aouar,8,0,0,0,0,0,0
-Argelia,Amine,Gouiri,11,0,0,0,0,0,0
-Argelia,Baghdad,Bounedjah,9,0,0,0,0,0,0
-Argelia,Farès,Chaïbi,18,0,0,0,0,0,0
-Argelia,Mohamed,Amoura,17,0,0,0,0,0,0
-Argelia,Youcef,Atal,20,0,0,0,0,0,0
-Argelia,Ahmed,Tuba,3,0,0,0,0,0,0
-Argelia,Ramiz,Zerrouki,19,0,0,0,0,0,0
-Argelia,Islam,Slimani,13,0,0,0,0,0,0
-Argelia,Oussama,Benbot,16,0,0,0,0,0,0
-Argelia,Kevin,Guitoun,22,0,0,0,0,0,0
-Argelia,Hichem,Boudaoui,14,0,0,0,0,0,0
-Túnez,Elias,Achouri,11,0,0,0,0,0,0
-Túnez,Ellyes,Skhiri,17,0,0,0,0,0,0
-Túnez,Aissa,Laidouni,14,0,0,0,0,0,0
-Túnez,Bechir,Ben Said,1,0,0,0,0,0,0
-Túnez,Montassar,Talbi,4,0,0,0,0,0,0
-Túnez,Yassine,Meriah,3,0,0,0,0,0,0
-Túnez,Ali,Abdi,2,0,0,0,0,0,0
-Túnez,Yan,Valery,20,0,0,0,0,0,0
-Túnez,Hamza,Rafia,8,0,0,0,0,0,0
-Túnez,Mohamed,Ali Ben Romdhane,15,0,0,0,0,0,0
-Túnez,Youssef,Msakni,7,0,0,0,0,0,0
-Túnez,Seifeddine,Jaziri,19,0,0,0,0,0,0
-Túnez,Sayfallah,Ltaief,13,0,0,0,0,0,0
-Túnez,Wajdi,Kechrida,21,0,0,0,0,0,0
-Túnez,Dylan,Bronn,5,0,0,0,0,0,0
-Túnez,Nader,Ghandri,6,0,0,0,0,0,0
-Túnez,Haithem,Jouini,9,0,0,0,0,0,0
-Túnez,Mouez,Hassen,16,0,0,0,0,0,0
-Túnez,Mortadha,Ben Ouanes,12,0,0,0,0,0,0
-Túnez,Anis,Ben Slimane,25,0,0,0,0,0,0
-Arabia Saudita,Salem,Al-Dawsari,10,0,0,0,0,0,0
-Arabia Saudita,Firas,Al-Buraikan,9,0,0,0,0,0,0
-Arabia Saudita,Mohammed,Al-Owais,21,0,0,0,0,0,0
-Arabia Saudita,Ali,Al-Bulaihi,5,0,0,0,0,0,0
-Arabia Saudita,Hassan,Tambahti,17,0,0,0,0,0,0
-Arabia Saudita,Saud,Abdulhamid,12,0,0,0,0,0,0
-Arabia Saudita,Yasser,Al-Shahrani,13,0,0,0,0,0,0
-Arabia Saudita,Mohamed,Kanno,23,0,0,0,0,0,0
-Arabia Saudita,Abdullah,Al-Khaibari,15,0,0,0,0,0,0
-Arabia Saudita,Faisal,Al-Ghamdi,6,0,0,0,0,0,0
-Arabia Saudita,Abdulrahman,Ghareeb,18,0,0,0,0,0,0
-Arabia Saudita,Saleh,Al-Shehri,11,0,0,0,0,0,0
-Arabia Saudita,Nasser,Al-Dawsari,24,0,0,0,0,0,0
-Arabia Saudita,Sultan,Al-Ghannam,2,0,0,0,0,0,0
-Arabia Saudita,Awn,Al-Saluli,4,0,0,0,0,0,0
-Arabia Saudita,Ali,Lajami,3,0,0,0,0,0,0
-Arabia Saudita,Musab,Al-Juwayr,8,0,0,0,0,0,0
-Arabia Saudita,Ahmed,Al-Kassar,1,0,0,0,0,0,0
-Arabia Saudita,Hassan,Kadesh,14,0,0,0,0,0,0
-Arabia Saudita,Abdullah,Radif,20,0,0,0,0,0,0
-Australia,Mathew,Ryan,1,0,0,0,0,0,0
-Australia,Harry,Souttar,19,0,0,0,0,0,0
-Australia,Jackson,Irvine,22,0,0,0,0,0,0
-Australia,Craig,Goodwin,23,0,0,0,0,0,0
-Australia,Kye,Rowles,4,0,0,0,0,0,0
-Australia,Cameron,Burgess,21,0,0,0,0,0,0
-Australia,Aziz,Behich,16,0,0,0,0,0,0
-Australia,Gethin,Jones,2,0,0,0,0,0,0
-Australia,Keanu,Baccus,8,0,0,0,0,0,0
-Australia,Connor,Metcalfe,17,0,0,0,0,0,0
-Australia,Mitchell,Duke,15,0,0,0,0,0,0
-Australia,Martin,Boyle,6,0,0,0,0,0,0
-Australia,Kusini,Yengi,9,0,0,0,0,0,0
-Australia,Nestory,Irankunda,11,0,0,0,0,0,0
-Australia,Jordan,Bos,3,0,0,0,0,0,0
-Australia,Aiden,O'Neill,13,0,0,0,0,0,0
-Australia,Riley,McGree,14,0,0,0,0,0,0
-Australia,Joe,Gauci,12,0,0,0,0,0,0
-Australia,Alessandro,Circati,5,0,0,0,0,0,0
-Australia,Adam,Taggart,7,0,0,0,0,0,0
-Irán,Sardar,Azmoun,20,0,0,0,0,0,0
-Irán,Mehdi,Taremi,9,0,0,0,0,0,0
-Irán,Alireza,Beiranvand,1,0,0,0,0,0,0
-Irán,Shoja,Khalilzadeh,4,0,0,0,0,0,0
-Irán,Hossein,Kanaani,13,0,0,0,0,0,0
-Irán,Milad,Mohammadi,5,0,0,0,0,0,0
-Irán,Ramin,Rezaeian,23,0,0,0,0,0,0
-Irán,Saeid,Ezatolahi,6,0,0,0,0,0,0
-Irán,Saman,Ghoddos,14,0,0,0,0,0,0
-Irán,Alireza,Jahanbakhsh,7,0,0,0,0,0,0
-Irán,Mohammad,Mohebi,8,0,0,0,0,0,0
-Irán,Omid,Noorafkan,21,0,0,0,0,0,0
-Irán,Mehdi,Ghayedi,10,0,0,0,0,0,0
-Irán,Shahriyar,Moghanlou,11,0,0,0,0,0,0
-Irán,Payam,Niazmand,12,0,0,0,0,0,0
-Irán,Ehsan,Hajsafi,3,0,0,0,0,0,0
-Irán,Ali,Gholizadeh,17,0,0,0,0,0,0
-Irán,Sadegh,Moharrami,2,0,0,0,0,0,0
-Irán,Allahyar,Sayyadmanesh,19,0,0,0,0,0,0
-Irán,Amin,Hazbavi,15,0,0,0,0,0,0
-Qatar,Akram,Afif,11,0,0,0,0,0,0
-Qatar,Almoez,Ali,19,0,0,0,0,0,0
-Qatar,Meshaal,Barsham,22,0,0,0,0,0,0
-Qatar,Lucas,Mendes,12,0,0,0,0,0,0
-Qatar,Boualem,Khoukhi,16,0,0,0,0,0,0
-Qatar,Pedro,Miguel,2,0,0,0,0,0,0
-Qatar,Mohammed,Waad,4,0,0,0,0,0,0
-Qatar,Ahmed,Fathy,6,0,0,0,0,0,0
-Qatar,Jassem,Gaber,20,0,0,0,0,0,0
-Qatar,Hassan,Al-Haydos,10,0,0,0,0,0,0
-Qatar,Yusuf,Abdurisag,17,0,0,0,0,0,0
-Qatar,Bassam,Al-Rawi,15,0,0,0,0,0,0
-Qatar,Tarek,Salman,5,0,0,0,0,0,0
-Qatar,Homam,Ahmed,3,0,0,0,0,0,0
-Qatar,Abdulaziz,Hatem,8,0,0,0,0,0,0
-Qatar,Ismaeel,Mohammad,13,0,0,0,0,0,0
-Qatar,Saad,Al-Sheeb,1,0,0,0,0,0,0
-Qatar,Mustafa,Tariq,23,0,0,0,0,0,0
-Qatar,Ahmed,Alaaeldin,7,0,0,0,0,0,0
-Qatar,Al-Mahdi,Ali,25,0,0,0,0,0,0
-Polonia,Robert,Lewandowski,9,0,0,0,0,0,0
-Polonia,Piotr,Zielinski,10,0,0,0,0,0,0
-Polonia,Wojciech,Szczesny,1,0,0,0,0,0,0
-Polonia,Jakub,Kiwior,14,0,0,0,0,0,0
-Polonia,Jan,Bednarek,5,0,0,0,0,0,0
-Polonia,Przemyslaw,Frankowski,19,0,0,0,0,0,0
-Polonia,Nicola,Zalewski,21,0,0,0,0,0,0
-Polonia,Jakub,Moder,16,0,0,0,0,0,0
-Polonia,Sebastian,Szymanski,20,0,0,0,0,0,0
-Polonia,Kacper,Urbanski,26,0,0,0,0,0,0
-Polonia,Adam,Buksa,7,0,0,0,0,0,0
-Polonia,Karol,Swiderski,11,0,0,0,0,0,0
-Polonia,Krzysztof,Piatek,23,0,0,0,0,0,0
-Polonia,Bartosz,Bereszynski,18,0,0,0,0,0,0
-Polonia,Tymoteusz,Puchacz,15,0,0,0,0,0,0
-Polonia,Pawel,Dawidowicz,3,0,0,0,0,0,0
-Polonia,Bartosz,Slisz,24,0,0,0,0,0,0
-Polonia,Lukasz,Skorupski,12,0,0,0,0,0,0
-Polonia,Sebastian,Walukiewicz,4,0,0,0,0,0,0
-Polonia,Damian,Szymanski,6,0,0,0,0,0,0
-Panamá,Adalberto,Carrasquilla,8,0,0,0,0,0,0
-Panamá,Ismael,Diaz,11,0,0,0,0,0,0
-Panamá,Orlando,Mosquera,22,0,0,0,0,0,0
-Panamá,Jose,Cordoba,3,0,0,0,0,0,0
-Panamá,Edgardo,Fariña,24,0,0,0,0,0,0
-Panamá,Eric,Davis,15,0,0,0,0,0,0
-Panamá,Michael,Murillo,23,0,0,0,0,0,0
-Panamá,Cristian,Martinez,6,0,0,0,0,0,0
-Panamá,Anibal,Godoy,20,0,0,0,0,0,0
-Panamá,Jose,Rodriguez,7,0,0,0,0,0,0
-Panamá,Jose,Fajardo,17,0,0,0,0,0,0
-Panamá,Eduardo,Guerrero,9,0,0,0,0,0,0
-Panamá,Cesar,Blackman,2,0,0,0,0,0,0
-Panamá,Roderick,Miller,4,0,0,0,0,0,0
-Panamá,Abdel,Ayarza,13,0,0,0,0,0,0
-Panamá,Jovani,Welch,16,0,0,0,0,0,0
-Panamá,Freddy,Gondola,10,0,0,0,0,0,0
-Panamá,Luis,Mejia,1,0,0,0,0,0,0
-Panamá,Kahiser,Lenis,21,0,0,0,0,0,0
-Panamá,Ivan,Anderson,19,0,0,0,0,0,0
+Colombia,David,Vargas,26,0,0,0,0,0,0,CONMEBOL
+Colombia,Juan,Santos,12,0,0,0,0,0,0,CONMEBOL
+Colombia,James,Rodriguez,14,0,0,0,0,0,0,CONMEBOL
+Colombia,Camilo,Vargas,1,0,0,0,0,0,0,CONMEBOL
+Colombia,Luis,Diaz,7,0,0,0,0,0,0,CONMEBOL
+Colombia,Jefferson,Lerma,16,0,0,0,0,0,0,CONMEBOL
+Colombia,Daniel,Muñoz,21,0,0,0,0,0,0,CONMEBOL
+Colombia,Davinson,Sanchez,23,0,0,0,0,0,0,CONMEBOL
+Colombia,Jhon,Arias,11,0,0,0,0,0,0,CONMEBOL
+Colombia,Richard,Rios,6,0,0,0,0,0,0,CONMEBOL
+Colombia,Rafael,Santos Borre,19,0,0,0,0,0,0,CONMEBOL
+Colombia,Yerry,Mina,13,0,0,0,0,0,0,CONMEBOL
+Colombia,Johan,Mojica,17,0,0,0,0,0,0,CONMEBOL
+Colombia,Jhon,Lucumi,3,0,0,0,0,0,0,CONMEBOL
+Colombia,Mateus,Uribe,15,0,0,0,0,0,0,CONMEBOL
+Colombia,Jhon,Durán,9,0,0,0,0,0,0,CONMEBOL
+Colombia,Juan,Cuadrado,4,0,0,0,0,0,0,CONMEBOL
+Colombia,Kevin,Mier,22,0,0,0,0,0,0,CONMEBOL
+Colombia,Yerson,Mosquera,2,0,0,0,0,0,0,CONMEBOL
+Colombia,Jorge,Carrascal,8,0,0,0,0,0,0,CONMEBOL
+Brasil,Neymar,Da Silva,10,0,0,0,0,0,0,CONMEBOL
+Brasil,David,Silva,14,0,0,0,0,0,0,CONMEBOL
+Brasil,Vinicius,Junior,7,0,0,0,0,0,0,CONMEBOL
+Brasil,Thiago,Silva,15,0,0,0,0,0,0,CONMEBOL
+Brasil,Pele,,10,0,0,0,0,0,0,CONMEBOL
+Brasil,Alisson,Becker,1,0,0,0,0,0,0,CONMEBOL
+Brasil,Marquinhos,Correa,4,0,0,0,0,0,0,CONMEBOL
+Brasil,Eder,Militao,3,0,0,0,0,0,0,CONMEBOL
+Brasil,Rodrygo,Goes,11,0,0,0,0,0,0,CONMEBOL
+Brasil,Bruno,Guimaraes,8,0,0,0,0,0,0,CONMEBOL
+Brasil,Casemiro,Venancio,5,0,0,0,0,0,0,CONMEBOL
+Brasil,Lucas,Paqueta,17,0,0,0,0,0,0,CONMEBOL
+Brasil,Endrick,Felipe,9,0,0,0,0,0,0,CONMEBOL
+Brasil,Raphinha,Belloli,19,0,0,0,0,0,0,CONMEBOL
+Brasil,Ederson,Moraes,23,0,0,0,0,0,0,CONMEBOL
+Brasil,Gabriel,Magalhaes,14,0,0,0,0,0,0,CONMEBOL
+Brasil,Danilo,Da Silva,2,0,0,0,0,0,0,CONMEBOL
+Brasil,Savinho,Moreira,20,0,0,0,0,0,0,CONMEBOL
+Brasil,Douglas,Luiz,18,0,0,0,0,0,0,CONMEBOL
+Brasil,Lucas,Beraldo,6,0,0,0,0,0,0,CONMEBOL
+Argentina,Leo,Messi,30,0,0,0,0,0,0,CONMEBOL
+Argentina,Dibu,Martinez,1,0,0,0,0,0,0,CONMEBOL
+Argentina,Julian,Alvarez,9,0,0,0,0,0,0,CONMEBOL
+Argentina,Lautaro,Martinez,22,0,0,0,0,0,0,CONMEBOL
+Argentina,Rodrigo,De Paul,7,0,0,0,0,0,0,CONMEBOL
+Argentina,Enzo,Fernandez,24,0,0,0,0,0,0,CONMEBOL
+Argentina,Alexis,Mac Allister,20,0,0,0,0,0,0,CONMEBOL
+Argentina,Cristian,Romero,13,0,0,0,0,0,0,CONMEBOL
+Argentina,Lisandro,Martinez,25,0,0,0,0,0,0,CONMEBOL
+Argentina,Nicolas,Otamendi,19,0,0,0,0,0,0,CONMEBOL
+Argentina,Nahuel,Molina,26,0,0,0,0,0,0,CONMEBOL
+Argentina,Nicolas,Tagliafico,3,0,0,0,0,0,0,CONMEBOL
+Argentina,Leandro,Paredes,5,0,0,0,0,0,0,CONMEBOL
+Argentina,Alejandro,Garnacho,17,0,0,0,0,0,0,CONMEBOL
+Argentina,Thiago,Almada,16,0,0,0,0,0,0,CONMEBOL
+Argentina,Gonzalo,Montiel,4,0,0,0,0,0,0,CONMEBOL
+Argentina,Exequiel,Palacios,14,0,0,0,0,0,0,CONMEBOL
+Argentina,Nicolas,Gonzalez,15,0,0,0,0,0,0,CONMEBOL
+Argentina,Geronimo,Rulli,12,0,0,0,0,0,0,CONMEBOL
+Argentina,Marcos,Acuna,8,0,0,0,0,0,0,CONMEBOL
+Croacia,Luka,Modric,10,0,0,0,0,0,0,UEFA
+Croacia,Ivan,Rakitic,7,0,0,0,0,0,0,UEFA
+Croacia,Mateo,Kovacic,8,0,0,0,0,0,0,UEFA
+Croacia,Dominik,Livakovic,1,0,0,0,0,0,0,UEFA
+Croacia,Josko,Gvardiol,4,0,0,0,0,0,0,UEFA
+Croacia,Josip,Sutalo,6,0,0,0,0,0,0,UEFA
+Croacia,Josip,Stanisic,2,0,0,0,0,0,0,UEFA
+Croacia,Borna,Sosa,3,0,0,0,0,0,0,UEFA
+Croacia,Marcelo,Brozovic,11,0,0,0,0,0,0,UEFA
+Croacia,Mario,Pasalic,15,0,0,0,0,0,0,UEFA
+Croacia,Lovro,Majer,18,0,0,0,0,0,0,UEFA
+Croacia,Ivan,Perisic,14,0,0,0,0,0,0,UEFA
+Croacia,Andrej,Kramaric,9,0,0,0,0,0,0,UEFA
+Croacia,Ante,Budimir,16,0,0,0,0,0,0,UEFA
+Croacia,Bruno,Petkovic,17,0,0,0,0,0,0,UEFA
+Croacia,Martin,Baturina,20,0,0,0,0,0,0,UEFA
+Croacia,Nikola,Vlasic,13,0,0,0,0,0,0,UEFA
+Croacia,Josip,Brekalo,21,0,0,0,0,0,0,UEFA
+Croacia,Marin,Pongracic,5,0,0,0,0,0,0,UEFA
+Croacia,Luka,Sucic,25,0,0,0,0,0,0,UEFA
+Alemania,Toni,Kroos,8,0,0,0,0,0,0,UEFA
+Alemania,Thomas,Mueller,13,0,0,0,0,0,0,UEFA
+Alemania,Manuel,Neuer,1,0,0,0,0,0,0,UEFA
+Alemania,Marc,ter Stegen,22,0,0,0,0,0,0,UEFA
+Alemania,Antonio,Rudiger,2,0,0,0,0,0,0,UEFA
+Alemania,Joshua,Kimmich,6,0,0,0,0,0,0,UEFA
+Alemania,Florian,Wirtz,10,0,0,0,0,0,0,UEFA
+Alemania,Jamal,Musiala,14,0,0,0,0,0,0,UEFA
+Alemania,Kai,Havertz,7,0,0,0,0,0,0,UEFA
+Alemania,Leroy,Sane,19,0,0,0,0,0,0,UEFA
+Alemania,Jonathan,Tah,4,0,0,0,0,0,0,UEFA
+Alemania,Ilkay,Gundogan,21,0,0,0,0,0,0,UEFA
+Alemania,Niclas,Fullkrug,9,0,0,0,0,0,0,UEFA
+Alemania,David,Raum,3,0,0,0,0,0,0,UEFA
+Alemania,Nico,Schlotterbeck,15,0,0,0,0,0,0,UEFA
+Alemania,Robert,Andrich,23,0,0,0,0,0,0,UEFA
+Alemania,Maximilian,Mittelstadt,18,0,0,0,0,0,0,UEFA
+Alemania,Pascal,Gross,5,0,0,0,0,0,0,UEFA
+Alemania,Deniz,Undav,26,0,0,0,0,0,0,UEFA
+Alemania,Chris,Fuhrich,11,0,0,0,0,0,0,UEFA
+Francia,Kylian,Mbappe,10,0,0,0,0,0,0,UEFA
+Francia,Antoine,Griezmann,7,0,0,0,0,0,0,UEFA
+Francia,Mike,Maignan,1,0,0,0,0,0,0,UEFA
+Francia,Theo,Hernandez,22,0,0,0,0,0,0,UEFA
+Francia,William,Saliba,4,0,0,0,0,0,0,UEFA
+Francia,Dayot,Upamecano,13,0,0,0,0,0,0,UEFA
+Francia,Jules,Kounde,5,0,0,0,0,0,0,UEFA
+Francia,Eduardo,Camavinga,6,0,0,0,0,0,0,UEFA
+Francia,Aurelien,Tchouameni,8,0,0,0,0,0,0,UEFA
+Francia,Ousmane,Dembele,11,0,0,0,0,0,0,UEFA
+Francia,Marcus,Thuram,15,0,0,0,0,0,0,UEFA
+Francia,Randal,Kolo Muani,12,0,0,0,0,0,0,UEFA
+Francia,Warren,Zaire-Emery,18,0,0,0,0,0,0,UEFA
+Francia,Adrien,Rabiot,14,0,0,0,0,0,0,UEFA
+Francia,Kingsley,Coman,20,0,0,0,0,0,0,UEFA
+Francia,Bradley,Barcola,25,0,0,0,0,0,0,UEFA
+Francia,Ibrahima,Konate,24,0,0,0,0,0,0,UEFA
+Francia,Ferland,Mendy,3,0,0,0,0,0,0,UEFA
+Francia,Brice,Samba,16,0,0,0,0,0,0,UEFA
+Francia,Benjamin,Pavard,2,0,0,0,0,0,0,UEFA
+España,Rodri,Hernandez,16,0,0,0,0,0,0,UEFA
+España,Lamine,Yamal,19,0,0,0,0,0,0,UEFA
+España,Pedri,Gonzalez,20,0,0,0,0,0,0,UEFA
+España,Alvaro,Morata,7,0,0,0,0,0,0,UEFA
+España,Nico,Williams,11,0,0,0,0,0,0,UEFA
+España,Dani,Olmo,10,0,0,0,0,0,0,UEFA
+España,Fabian,Ruiz,8,0,0,0,0,0,0,UEFA
+España,Unai,Simon,1,0,0,0,0,0,0,UEFA
+España,Dani,Carvajal,2,0,0,0,0,0,0,UEFA
+España,Aymeric,Laporte,5,0,0,0,0,0,0,UEFA
+España,Robin,Le Normand,3,0,0,0,0,0,0,UEFA
+España,Alejandro,Grimaldo,12,0,0,0,0,0,0,UEFA
+España,Pau,Cubarsi,4,0,0,0,0,0,0,UEFA
+España,Mikel,Merino,6,0,0,0,0,0,0,UEFA
+España,Alex,Baena,17,0,0,0,0,0,0,UEFA
+España,Mikel,Oyarzabal,21,0,0,0,0,0,0,UEFA
+España,David,Raya,13,0,0,0,0,0,0,UEFA
+España,Martin,Zubimendi,18,0,0,0,0,0,0,UEFA
+España,Ferran,Torres,11,0,0,0,0,0,0,UEFA
+España,Marc,Cucurella,24,0,0,0,0,0,0,UEFA
+Inglaterra,Harry,Kane,9,0,0,0,0,0,0,UEFA
+Inglaterra,Jude,Bellingham,10,0,0,0,0,0,0,UEFA
+Inglaterra,Phil,Foden,11,0,0,0,0,0,0,UEFA
+Inglaterra,Bukayo,Saka,7,0,0,0,0,0,0,UEFA
+Inglaterra,Declan,Rice,4,0,0,0,0,0,0,UEFA
+Inglaterra,Jordan,Pickford,1,0,0,0,0,0,0,UEFA
+Inglaterra,Kyle,Walker,2,0,0,0,0,0,0,UEFA
+Inglaterra,John,Stones,5,0,0,0,0,0,0,UEFA
+Inglaterra,Kieran,Trippier,3,0,0,0,0,0,0,UEFA
+Inglaterra,Trent,Alexander-Arnold,8,0,0,0,0,0,0,UEFA
+Inglaterra,Ollie,Watkins,19,0,0,0,0,0,0,UEFA
+Inglaterra,Cole,Palmer,24,0,0,0,0,0,0,UEFA
+Inglaterra,Kobbie,Mainoo,26,0,0,0,0,0,0,UEFA
+Inglaterra,Marc,Guehi,6,0,0,0,0,0,0,UEFA
+Inglaterra,Ezri,Konsa,12,0,0,0,0,0,0,UEFA
+Inglaterra,Luke,Shaw,23,0,0,0,0,0,0,UEFA
+Inglaterra,Conor,Gallagher,16,0,0,0,0,0,0,UEFA
+Inglaterra,Anthony,Gordon,18,0,0,0,0,0,0,UEFA
+Inglaterra,Eberechi,Eze,21,0,0,0,0,0,0,UEFA
+Inglaterra,Aaron,Ramsdale,13,0,0,0,0,0,0,UEFA
+Portugal,Cristiano,Ronaldo,7,0,0,0,0,0,0,UEFA
+Portugal,Bruno,Fernandes,8,0,0,0,0,0,0,UEFA
+Portugal,Bernardo,Silva,10,0,0,0,0,0,0,UEFA
+Portugal,Rafael,Leao,17,0,0,0,0,0,0,UEFA
+Portugal,Diogo,Costa,1,0,0,0,0,0,0,UEFA
+Portugal,Joao,Cancelo,2,0,0,0,0,0,0,UEFA
+Portugal,Ruben,Dias,4,0,0,0,0,0,0,UEFA
+Portugal,Pepe,,3,0,0,0,0,0,0,UEFA
+Portugal,Nuno,Mendes,19,0,0,0,0,0,0,UEFA
+Portugal,Joao,Palhinha,6,0,0,0,0,0,0,UEFA
+Portugal,Vitinha,,23,0,0,0,0,0,0,UEFA
+Portugal,Joao,Felix,11,0,0,0,0,0,0,UEFA
+Portugal,Diogo,Jota,21,0,0,0,0,0,0,UEFA
+Portugal,Goncalo,Ramos,9,0,0,0,0,0,0,UEFA
+Portugal,Pedro,Neto,25,0,0,0,0,0,0,UEFA
+Portugal,Ruben,Neves,18,0,0,0,0,0,0,UEFA
+Portugal,Diogo,Dalot,5,0,0,0,0,0,0,UEFA
+Portugal,Danilo,Pereira,13,0,0,0,0,0,0,UEFA
+Portugal,Matheus,Nunes,16,0,0,0,0,0,0,UEFA
+Portugal,Rui,Patricio,12,0,0,0,0,0,0,UEFA
+Paises Bajos,Virgil,van Dijk,4,0,0,0,0,0,0,UEFA
+Paises Bajos,Xavi,Simons,7,0,0,0,0,0,0,UEFA
+Paises Bajos,Cody,Gakpo,11,0,0,0,0,0,0,UEFA
+Paises Bajos,Memphis,Depay,10,0,0,0,0,0,0,UEFA
+Paises Bajos,Bart,Verbruggen,1,0,0,0,0,0,0,UEFA
+Paises Bajos,Denzel,Dumfries,22,0,0,0,0,0,0,UEFA
+Paises Bajos,Nathan,Ake,5,0,0,0,0,0,0,UEFA
+Paises Bajos,Jeremie,Frimpong,20,0,0,0,0,0,0,UEFA
+Paises Bajos,Tijjani,Reijnders,14,0,0,0,0,0,0,UEFA
+Paises Bajos,Jerdy,Schouten,24,0,0,0,0,0,0,UEFA
+Paises Bajos,Wout,Weghorst,9,0,0,0,0,0,0,UEFA
+Paises Bajos,Micky,van de Ven,15,0,0,0,0,0,0,UEFA
+Paises Bajos,Stefan,de Vrij,6,0,0,0,0,0,0,UEFA
+Paises Bajos,Joey,Veerman,16,0,0,0,0,0,0,UEFA
+Paises Bajos,Donyell,Malen,18,0,0,0,0,0,0,UEFA
+Paises Bajos,Brian,Brobbey,19,0,0,0,0,0,0,UEFA
+Paises Bajos,Georginio,Wijnaldum,8,0,0,0,0,0,0,UEFA
+Paises Bajos,Lutsharel,Geertruida,2,0,0,0,0,0,0,UEFA
+Paises Bajos,Mark,Flekken,13,0,0,0,0,0,0,UEFA
+Paises Bajos,Matthijs,de Ligt,3,0,0,0,0,0,0,UEFA
+Italia,Gianluigi,Donnarumma,1,0,0,0,0,0,0,UEFA
+Italia,Federico,Chiesa,14,0,0,0,0,0,0,UEFA
+Italia,Nicolo,Barella,18,0,0,0,0,0,0,UEFA
+Italia,Alessandro,Bastoni,23,0,0,0,0,0,0,UEFA
+Italia,Riccardo,Calafiori,5,0,0,0,0,0,0,UEFA
+Italia,Giovanni,Di Lorenzo,2,0,0,0,0,0,0,UEFA
+Italia,Federico,Dimarco,3,0,0,0,0,0,0,UEFA
+Italia,Jorginho,,8,0,0,0,0,0,0,UEFA
+Italia,Lorenzo,Pellegrini,10,0,0,0,0,0,0,UEFA
+Italia,Gianluca,Scamacca,9,0,0,0,0,0,0,UEFA
+Italia,Davide,Frattesi,16,0,0,0,0,0,0,UEFA
+Italia,Mateo,Retegui,19,0,0,0,0,0,0,UEFA
+Italia,Giacomo,Raspadori,11,0,0,0,0,0,0,UEFA
+Italia,Manuel,Locatelli,5,0,0,0,0,0,0,UEFA
+Italia,Bryan,Cristante,16,0,0,0,0,0,0,UEFA
+Italia,Gianluca,Mancini,17,0,0,0,0,0,0,UEFA
+Italia,Guglielmo,Vicario,12,0,0,0,0,0,0,UEFA
+Italia,Andrea,Cambiaso,20,0,0,0,0,0,0,UEFA
+Italia,Mattia,Zaccagni,20,0,0,0,0,0,0,UEFA
+Italia,Nicolo,Fagioli,21,0,0,0,0,0,0,UEFA
+Uruguay,Federico,Valverde,15,0,0,0,0,0,0,CONMEBOL
+Uruguay,Darwin,Nuñez,19,0,0,0,0,0,0,CONMEBOL
+Uruguay,Luis,Suarez,9,0,0,0,0,0,0,CONMEBOL
+Uruguay,Sergio,Rochet,1,0,0,0,0,0,0,CONMEBOL
+Uruguay,Ronald,Araujo,4,0,0,0,0,0,0,CONMEBOL
+Uruguay,Jose Maria,Gimenez,2,0,0,0,0,0,0,CONMEBOL
+Uruguay,Mathias,Olivera,16,0,0,0,0,0,0,CONMEBOL
+Uruguay,Nicolas,de la Cruz,7,0,0,0,0,0,0,CONMEBOL
+Uruguay,Manuel,Ugarte,5,0,0,0,0,0,0,CONMEBOL
+Uruguay,Facundo,Pellistri,11,0,0,0,0,0,0,CONMEBOL
+Uruguay,Maximilian,Araujo,20,0,0,0,0,0,0,CONMEBOL
+Uruguay,Rodrigo,Bentancur,6,0,0,0,0,0,0,CONMEBOL
+Uruguay,Giorgian,de Arrascaeta,10,0,0,0,0,0,0,CONMEBOL
+Uruguay,Nahitan,Nandez,8,0,0,0,0,0,0,CONMEBOL
+Uruguay,Sebastian,Caceres,3,0,0,0,0,0,0,CONMEBOL
+Uruguay,Matias,Viña,17,0,0,0,0,0,0,CONMEBOL
+Uruguay,Cristian,Olivera,25,0,0,0,0,0,0,CONMEBOL
+Uruguay,Brian,Rodriguez,18,0,0,0,0,0,0,CONMEBOL
+Uruguay,Santiago,Mele,12,0,0,0,0,0,0,CONMEBOL
+Uruguay,Guillermo,Varela,13,0,0,0,0,0,0,CONMEBOL
+Mexico,Santiago,Gimenez,11,0,0,0,0,0,0,CONCACAF
+Mexico,Edson,Alvarez,4,0,0,0,0,0,0,CONCACAF
+Mexico,Luis,Chavez,24,0,0,0,0,0,0,CONCACAF
+Mexico,Julio,Gonzalez,1,0,0,0,0,0,0,CONCACAF
+Mexico,Cesar,Montes,3,0,0,0,0,0,0,CONCACAF
+Mexico,Johan,Vasquez,5,0,0,0,0,0,0,CONCACAF
+Mexico,Gerardo,Arteaga,6,0,0,0,0,0,0,CONCACAF
+Mexico,Jorge,Sanchez,19,0,0,0,0,0,0,CONCACAF
+Mexico,Luis,Romo,7,0,0,0,0,0,0,CONCACAF
+Mexico,Uriel,Antuna,15,0,0,0,0,0,0,CONCACAF
+Mexico,Orbelin,Pineda,17,0,0,0,0,0,0,CONCACAF
+Mexico,Julian,Quiñones,9,0,0,0,0,0,0,CONCACAF
+Mexico,Alexis,Vega,10,0,0,0,0,0,0,CONCACAF
+Mexico,Erick,Sanchez,14,0,0,0,0,0,0,CONCACAF
+Mexico,Roberto,Alvarado,25,0,0,0,0,0,0,CONCACAF
+Mexico,Carlos,Acevedo,12,0,0,0,0,0,0,CONCACAF
+Mexico,Israel,Reyes,2,0,0,0,0,0,0,CONCACAF
+Mexico,Charly,Rodriguez,8,0,0,0,0,0,0,CONCACAF
+Mexico,Guillermo,Martinez,20,0,0,0,0,0,0,CONCACAF
+Mexico,Raul,Jimenez,11,0,0,0,0,0,0,CONCACAF
+USA,Christian,Pulisic,10,0,0,0,0,0,0,CONCACAF
+USA,Weston,McKennie,8,0,0,0,0,0,0,CONCACAF
+USA,Timothy,Weah,21,0,0,0,0,0,0,CONCACAF
+USA,Matt,Turner,1,0,0,0,0,0,0,CONCACAF
+USA,Antonee,Robinson,5,0,0,0,0,0,0,CONCACAF
+USA,Chris,Richards,3,0,0,0,0,0,0,CONCACAF
+USA,Tim,Ream,13,0,0,0,0,0,0,CONCACAF
+USA,Joe,Scally,22,0,0,0,0,0,0,CONCACAF
+USA,Tyler,Adams,4,0,0,0,0,0,0,CONCACAF
+USA,Yunus,Musah,6,0,0,0,0,0,0,CONCACAF
+USA,Giovanni,Reyna,7,0,0,0,0,0,0,CONCACAF
+USA,Folarin,Balogun,20,0,0,0,0,0,0,CONCACAF
+USA,Ricardo,Pepi,9,0,0,0,0,0,0,CONCACAF
+USA,Brenden,Aaronson,11,0,0,0,0,0,0,CONCACAF
+USA,Cameron,Carter-Vickers,2,0,0,0,0,0,0,CONCACAF
+USA,Johnny,Cardoso,15,0,0,0,0,0,0,CONCACAF
+USA,Haji,Wright,19,0,0,0,0,0,0,CONCACAF
+USA,Ethan,Horvath,12,0,0,0,0,0,0,CONCACAF
+USA,Josh,Sargent,24,0,0,0,0,0,0,CONCACAF
+USA,Malik,Tillman,17,0,0,0,0,0,0,CONCACAF
+Ecuador,Moises,Caicedo,23,0,0,0,0,0,0,CONMEBOL
+Ecuador,Enner,Valencia,13,0,0,0,0,0,0,CONMEBOL
+Ecuador,Piero,Hincapie,3,0,0,0,0,0,0,CONMEBOL
+Ecuador,Alexander,Dominguez,22,0,0,0,0,0,0,CONMEBOL
+Ecuador,Félix,Torres,2,0,0,0,0,0,0,CONMEBOL
+Ecuador,William,Pacho,6,0,0,0,0,0,0,CONMEBOL
+Ecuador,Angelo,Preciado,17,0,0,0,0,0,0,CONMEBOL
+Ecuador,Alan,Franco,21,0,0,0,0,0,0,CONMEBOL
+Ecuador,Jeremy,Sarmiento,16,0,0,0,0,0,0,CONMEBOL
+Ecuador,Kendry,Paez,10,0,0,0,0,0,0,CONMEBOL
+Ecuador,Kevin,Rodriguez,11,0,0,0,0,0,0,CONMEBOL
+Ecuador,Hernan,Galindez,1,0,0,0,0,0,0,CONMEBOL
+Ecuador,Willian,Pacho,4,0,0,0,0,0,0,CONMEBOL
+Ecuador,Carlos,Gruezo,8,0,0,0,0,0,0,CONMEBOL
+Ecuador,Angel,Mena,15,0,0,0,0,0,0,CONMEBOL
+Ecuador,John,Yeboah,9,0,0,0,0,0,0,CONMEBOL
+Ecuador,Jordy,Caicedo,19,0,0,0,0,0,0,CONMEBOL
+Ecuador,Pervis,Estupiñán,7,0,0,0,0,0,0,CONMEBOL
+Ecuador,Jose,Cifuentes,5,0,0,0,0,0,0,CONMEBOL
+Ecuador,Jackson,Porozo,25,0,0,0,0,0,0,CONMEBOL
+Marruecos,Achraf,Hakimi,2,0,0,0,0,0,0,CAF
+Marruecos,Brahim,Diaz,10,0,0,0,0,0,0,CAF
+Marruecos,Hakim,Ziyech,7,0,0,0,0,0,0,CAF
+Marruecos,Yassine,Bounou,1,0,0,0,0,0,0,CAF
+Marruecos,Nayef,Aguerd,5,0,0,0,0,0,0,CAF
+Marruecos,Romain,Saiss,6,0,0,0,0,0,0,CAF
+Marruecos,Noussair,Mazraoui,3,0,0,0,0,0,0,CAF
+Marruecos,Sofyan,Amrabat,4,0,0,0,0,0,0,CAF
+Marruecos,Azzedine,Ounahi,8,0,0,0,0,0,0,CAF
+Marruecos,Youssef,En-Nesyri,19,0,0,0,0,0,0,CAF
+Marruecos,Amine,Adli,21,0,0,0,0,0,0,CAF
+Marruecos,Munir,Mohamedi,12,0,0,0,0,0,0,CAF
+Marruecos,Achraf,Dari,13,0,0,0,0,0,0,CAF
+Marruecos,Ismael,Saibari,23,0,0,0,0,0,0,CAF
+Marruecos,Eliesse,Ben Seghir,20,0,0,0,0,0,0,CAF
+Marruecos,Soufiane,Rahimi,9,0,0,0,0,0,0,CAF
+Marruecos,Ayoub,El Kaabi,11,0,0,0,0,0,0,CAF
+Marruecos,Yahia,Attiyat Allah,25,0,0,0,0,0,0,CAF
+Marruecos,Oussama,El Azzouzi,18,0,0,0,0,0,0,CAF
+Marruecos,Chadi,Riad,15,0,0,0,0,0,0,CAF
+Japón,Takefusa,Kubo,20,0,0,0,0,0,0,AFC
+Japón,Wataru,Endo,6,0,0,0,0,0,0,AFC
+Japón,Kaoru,Mitoma,7,0,0,0,0,0,0,AFC
+Japón,Zion,Suzuki,1,0,0,0,0,0,0,AFC
+Japón,Ko,Itakura,4,0,0,0,0,0,0,AFC
+Japón,Takehiro,Tomiyasu,22,0,0,0,0,0,0,AFC
+Japón,Hiroki,Ito,21,0,0,0,0,0,0,AFC
+Japón,Yukinari,Sugawara,2,0,0,0,0,0,0,AFC
+Japón,Hidemasa,Morita,5,0,0,0,0,0,0,AFC
+Japón,Reo,Hatate,10,0,0,0,0,0,0,AFC
+Japón,Ayase,Ueda,9,0,0,0,0,0,0,AFC
+Japón,Ritsu,Doan,8,0,0,0,0,0,0,AFC
+Japón,Takumi,Minamino,18,0,0,0,0,0,0,AFC
+Japón,Daizen,Maeda,11,0,0,0,0,0,0,AFC
+Japón,Keito,Nakamura,13,0,0,0,0,0,0,AFC
+Japón,Koki,Ogawa,19,0,0,0,0,0,0,AFC
+Japón,Shogo,Taniguchi,3,0,0,0,0,0,0,AFC
+Japón,Kosei,Tani,12,0,0,0,0,0,0,AFC
+Japón,Koki,Machida,16,0,0,0,0,0,0,AFC
+Japón,Ao,Tanaka,17,0,0,0,0,0,0,AFC
+Canadá,Alphonso,Davies,19,0,0,0,0,0,0,CONCACAF
+Canadá,Jonathan,David,20,0,0,0,0,0,0,CONCACAF
+Canadá,Maxime,Crepeau,1,0,0,0,0,0,0,CONCACAF
+Canadá,Alistair,Johnston,2,0,0,0,0,0,0,CONCACAF
+Canadá,Moïse,Bombito,15,0,0,0,0,0,0,CONCACAF
+Canadá,Derek,Cornelius,13,0,0,0,0,0,0,CONCACAF
+Canadá,Richie,Laryea,22,0,0,0,0,0,0,CONCACAF
+Canadá,Ismael,Kone,8,0,0,0,0,0,0,CONCACAF
+Canadá,Stephen,Eustaquio,7,0,0,0,0,0,0,CONCACAF
+Canadá,Liam,Millar,23,0,0,0,0,0,0,CONCACAF
+Canadá,Jacob,Shaffelburg,14,0,0,0,0,0,0,CONCACAF
+Canadá,Cyle,Larin,9,0,0,0,0,0,0,CONCACAF
+Canadá,Tajon,Buchanan,11,0,0,0,0,0,0,CONCACAF
+Canadá,Dayne,St. Clair,16,0,0,0,0,0,0,CONCACAF
+Canadá,Kamal,Miller,4,0,0,0,0,0,0,CONCACAF
+Canadá,Jonathan,Osorio,21,0,0,0,0,0,0,CONCACAF
+Canadá,Samuel,Piette,6,0,0,0,0,0,0,CONCACAF
+Canadá,Theo,Bair,17,0,0,0,0,0,0,CONCACAF
+Canadá,Ali,Ahmed,18,0,0,0,0,0,0,CONCACAF
+Canadá,Lukas,MacNaughton,5,0,0,0,0,0,0,CONCACAF
+Bélgica,Kevin,De Bruyne,7,0,0,0,0,0,0,UEFA
+Bélgica,Romelu,Lukaku,10,0,0,0,0,0,0,UEFA
+Bélgica,Jeremy,Doku,22,0,0,0,0,0,0,UEFA
+Bélgica,Koen,Casteels,1,0,0,0,0,0,0,UEFA
+Bélgica,Wout,Faes,4,0,0,0,0,0,0,UEFA
+Bélgica,Jan,Vertonghen,5,0,0,0,0,0,0,UEFA
+Bélgica,Timothy,Castagne,21,0,0,0,0,0,0,UEFA
+Bélgica,Amadou,Onana,24,0,0,0,0,0,0,UEFA
+Bélgica,Youri,Tielemans,8,0,0,0,0,0,0,UEFA
+Bélgica,Leandro,Trossard,9,0,0,0,0,0,0,UEFA
+Bélgica,Lois,Openda,20,0,0,0,0,0,0,UEFA
+Bélgica,Yannick,Carrasco,11,0,0,0,0,0,0,UEFA
+Bélgica,Charles,De Ketelaere,17,0,0,0,0,0,0,UEFA
+Bélgica,Johan,Bakayoko,19,0,0,0,0,0,0,UEFA
+Bélgica,Arthur,Theate,3,0,0,0,0,0,0,UEFA
+Bélgica,Zeno,Debast,2,0,0,0,0,0,0,UEFA
+Bélgica,Thomas,Meunier,15,0,0,0,0,0,0,UEFA
+Bélgica,Orel,Mangala,18,0,0,0,0,0,0,UEFA
+Bélgica,Dodi,Lukebakio,14,0,0,0,0,0,0,UEFA
+Bélgica,Matz,Sels,12,0,0,0,0,0,0,UEFA
+Portugal,Diogo,Costa,1,0,0,0,0,0,0,UEFA
+Portugal,Ruben,Dias,4,0,0,0,0,0,0,UEFA
+Portugal,Joao,Cancelo,2,0,0,0,0,0,0,UEFA
+Portugal,Nuno,Mendes,19,0,0,0,0,0,0,UEFA
+Portugal,Pepe,,3,0,0,0,0,0,0,UEFA
+Portugal,Joao,Palhinha,6,0,0,0,0,0,0,UEFA
+Portugal,Bruno,Fernandes,8,0,0,0,0,0,0,UEFA
+Portugal,Bernardo,Silva,10,0,0,0,0,0,0,UEFA
+Portugal,Cristiano,Ronaldo,7,0,0,0,0,0,0,UEFA
+Portugal,Rafael,Leao,17,0,0,0,0,0,0,UEFA
+Portugal,Vitinha,,23,0,0,0,0,0,0,UEFA
+Portugal,Diogo,Jota,21,0,0,0,0,0,0,UEFA
+Portugal,Joao,Felix,11,0,0,0,0,0,0,UEFA
+Portugal,Goncalo,Ramos,9,0,0,0,0,0,0,UEFA
+Portugal,Pedro,Neto,25,0,0,0,0,0,0,UEFA
+Portugal,Ruben,Neves,18,0,0,0,0,0,0,UEFA
+Portugal,Danilo,Pereira,13,0,0,0,0,0,0,UEFA
+Portugal,Antonio,Silva,24,0,0,0,0,0,0,UEFA
+Portugal,Diogo,Dalot,5,0,0,0,0,0,0,UEFA
+Portugal,Rui,Patricio,12,0,0,0,0,0,0,UEFA
+Corea del Sur,Heung-min,Son,7,0,0,0,0,0,0,AFC
+Corea del Sur,Min-jae,Kim,4,0,0,0,0,0,0,AFC
+Corea del Sur,Kang-in,Lee,18,0,0,0,0,0,0,AFC
+Corea del Sur,Hee-chan,Hwang,11,0,0,0,0,0,0,AFC
+Corea del Sur,Hyeon-woo,Jo,21,0,0,0,0,0,0,AFC
+Corea del Sur,Young-gwon,Kim,19,0,0,0,0,0,0,AFC
+Corea del Sur,Jin-su,Kim,3,0,0,0,0,0,0,AFC
+Corea del Sur,Seol,Young-woo,22,0,0,0,0,0,0,AFC
+Corea del Sur,In-beom,Hwang,6,0,0,0,0,0,0,AFC
+Corea del Sur,Jae-sung,Lee,10,0,0,0,0,0,0,AFC
+Corea del Sur,Gue-sung,Cho,9,0,0,0,0,0,0,AFC
+Corea del Sur,Beom-keun,Song,1,0,0,0,0,0,0,AFC
+Corea del Sur,Jung,Seung-hyun,15,0,0,0,0,0,0,AFC
+Corea del Sur,Park,Yong-woo,5,0,0,0,0,0,0,AFC
+Corea del Sur,Hong,Hyun-seok,8,0,0,0,0,0,0,AFC
+Corea del Sur,Jeong,Woo-yeong,17,0,0,0,0,0,0,AFC
+Corea del Sur,Oh,Hyeon-gyu,20,0,0,0,0,0,0,AFC
+Corea del Sur,Lee,Ki-je,2,0,0,0,0,0,0,AFC
+Corea del Sur,Kim,Moon-hwan,23,0,0,0,0,0,0,AFC
+Corea del Sur,Paik,Seung-ho,13,0,0,0,0,0,0,AFC
+Senegal,Sadio,Mane,10,0,0,0,0,0,0,CAF
+Senegal,Nicolas,Jackson,7,0,0,0,0,0,0,CAF
+Senegal,Edouard,Mendy,16,0,0,0,0,0,0,CAF
+Senegal,Kalidou,Koulibaly,3,0,0,0,0,0,0,CAF
+Senegal,Pape,Matar Sarr,17,0,0,0,0,0,0,CAF
+Senegal,Idrissa,Gueye,5,0,0,0,0,0,0,CAF
+Senegal,Ismaila,Sarr,18,0,0,0,0,0,0,CAF
+Senegal,Abdou,Diallo,22,0,0,0,0,0,0,CAF
+Senegal,Moussa,Niakhate,19,0,0,0,0,0,0,CAF
+Senegal,Ismail,Jakobs,14,0,0,0,0,0,0,CAF
+Senegal,Formose,Mendy,2,0,0,0,0,0,0,CAF
+Senegal,Lamine,Camara,25,0,0,0,0,0,0,CAF
+Senegal,Nampalys,Mendy,6,0,0,0,0,0,0,CAF
+Senegal,Iliman,Ndiaye,11,0,0,0,0,0,0,CAF
+Senegal,Habib,Diallo,20,0,0,0,0,0,0,CAF
+Senegal,Boulaye,Dia,9,0,0,0,0,0,0,CAF
+Senegal,Krépin,Diatta,15,0,0,0,0,0,0,CAF
+Senegal,Mory,Diaw,1,0,0,0,0,0,0,CAF
+Senegal,Mikayil,Faye,4,0,0,0,0,0,0,CAF
+Senegal,Cherif,Ndiaye,21,0,0,0,0,0,0,CAF
+Paraguay,Miguel,Almiron,10,0,0,0,0,0,0,CONMEBOL
+Paraguay,Julio,Enciso,19,0,0,0,0,0,0,CONMEBOL
+Paraguay,Ramon,Sosa,24,0,0,0,0,0,0,CONMEBOL
+Paraguay,Carlos,Coronel,1,0,0,0,0,0,0,CONMEBOL
+Paraguay,Gustavo,Gomez,15,0,0,0,0,0,0,CONMEBOL
+Paraguay,Fabian,Balbuena,4,0,0,0,0,0,0,CONMEBOL
+Paraguay,Omar,Alderete,3,0,0,0,0,0,0,CONMEBOL
+Paraguay,Mathias,Villasanti,23,0,0,0,0,0,0,CONMEBOL
+Paraguay,Andres,Cubas,6,0,0,0,0,0,0,CONMEBOL
+Paraguay,Diego,Gomez,16,0,0,0,0,0,0,CONMEBOL
+Paraguay,Adam,Bareiro,9,0,0,0,0,0,0,CONMEBOL
+Paraguay,Alex,Arce,18,0,0,0,0,0,0,CONMEBOL
+Paraguay,Damian,Bobadilla,8,0,0,0,0,0,0,CONMEBOL
+Paraguay,Junior,Alonso,13,0,0,0,0,0,0,CONMEBOL
+Paraguay,Ivan,Ramirez,2,0,0,0,0,0,0,CONMEBOL
+Paraguay,Nestor,Gimenez,21,0,0,0,0,0,0,CONMEBOL
+Paraguay,Alejandro,Romero,17,0,0,0,0,0,0,CONMEBOL
+Paraguay,Angel,Romero,11,0,0,0,0,0,0,CONMEBOL
+Paraguay,Santiago,Rojas,12,0,0,0,0,0,0,CONMEBOL
+Paraguay,Hernesto,Caballero,20,0,0,0,0,0,0,CONMEBOL
+Chile,Alexis,Sanchez,10,0,0,0,0,0,0,CONMEBOL
+Chile,Eduardo,Vargas,11,0,0,0,0,0,0,CONMEBOL
+Chile,Claudio,Bravo,1,0,0,0,0,0,0,CONMEBOL
+Chile,Gabriel,Suazo,4,0,0,0,0,0,0,CONMEBOL
+Chile,Paulo,Diaz,5,0,0,0,0,0,0,CONMEBOL
+Chile,Igor,Lichnovsky,16,0,0,0,0,0,0,CONMEBOL
+Chile,Mauricio,Isla,2,0,0,0,0,0,0,CONMEBOL
+Chile,Erick,Pulgar,13,0,0,0,0,0,0,CONMEBOL
+Chile,Marcelino,Nuñez,7,0,0,0,0,0,0,CONMEBOL
+Chile,Rodrigo,Echeverria,18,0,0,0,0,0,0,CONMEBOL
+Chile,Diego,Valdes,15,0,0,0,0,0,0,CONMEBOL
+Chile,Victor,Davila,9,0,0,0,0,0,0,CONMEBOL
+Chile,Ben,Brereton,22,0,0,0,0,0,0,CONMEBOL
+Chile,Dario,Osorio,8,0,0,0,0,0,0,CONMEBOL
+Chile,Gabriel,Arias,12,0,0,0,0,0,0,CONMEBOL
+Chile,Guillermo,Maripan,3,0,0,0,0,0,0,CONMEBOL
+Chile,Thomas,Galdames,6,0,0,0,0,0,0,CONMEBOL
+Chile,Felipe,Loyola,21,0,0,0,0,0,0,CONMEBOL
+Chile,Esteban,Pavez,17,0,0,0,0,0,0,CONMEBOL
+Chile,Maximiliano,Guerrero,19,0,0,0,0,0,0,CONMEBOL
+Perú,Gianluca,Lapadula,9,0,0,0,0,0,0,CONMEBOL
+Perú,Paolo,Guerrero,14,0,0,0,0,0,0,CONMEBOL
+Perú,Pedro,Gallese,1,0,0,0,0,0,0,CONMEBOL
+Perú,Luis,Advincula,17,0,0,0,0,0,0,CONMEBOL
+Perú,Alexander,Callens,22,0,0,0,0,0,0,CONMEBOL
+Perú,Carlos,Zambrano,5,0,0,0,0,0,0,CONMEBOL
+Perú,Marcos,Lopez,6,0,0,0,0,0,0,CONMEBOL
+Perú,Wilder,Cartagena,16,0,0,0,0,0,0,CONMEBOL
+Perú,Renato,Tapia,13,0,0,0,0,0,0,CONMEBOL
+Perú,Sergio,Peña,8,0,0,0,0,0,0,CONMEBOL
+Perú,Piero,Quispe,10,0,0,0,0,0,0,CONMEBOL
+Perú,Bryan,Reyna,11,0,0,0,0,0,0,CONMEBOL
+Perú,Edison,Flores,20,0,0,0,0,0,0,CONMEBOL
+Perú,Andre,Carrillo,18,0,0,0,0,0,0,CONMEBOL
+Perú,Miguel,Araujo,15,0,0,0,0,0,0,CONMEBOL
+Perú,Anderson,Santamaria,4,0,0,0,0,0,0,CONMEBOL
+Perú,Oliver,Sonne,2,0,0,0,0,0,0,CONMEBOL
+Perú,Jesus,Castillo,23,0,0,0,0,0,0,CONMEBOL
+Perú,Carlos,Caceda,12,0,0,0,0,0,0,CONMEBOL
+Perú,Joao,Grimaldo,24,0,0,0,0,0,0,CONMEBOL
+Suiza,Granit,Xhaka,10,0,0,0,0,0,0,UEFA
+Suiza,Xherdan,Shaqiri,23,0,0,0,0,0,0,UEFA
+Suiza,Yann,Sommer,1,0,0,0,0,0,0,UEFA
+Suiza,Manuel,Akanji,5,0,0,0,0,0,0,UEFA
+Suiza,Fabian,Schar,22,0,0,0,0,0,0,UEFA
+Suiza,Ricardo,Rodriguez,13,0,0,0,0,0,0,UEFA
+Suiza,Remo,Freuler,8,0,0,0,0,0,0,UEFA
+Suiza,Denis,Zakaria,6,0,0,0,0,0,0,UEFA
+Suiza,Michel,Aebischer,20,0,0,0,0,0,0,UEFA
+Suiza,Ruben,Vargas,17,0,0,0,0,0,0,UEFA
+Suiza,Breel,Embolo,7,0,0,0,0,0,0,UEFA
+Suiza,Dan,Ndoye,19,0,0,0,0,0,0,UEFA
+Suiza,Kwadwo,Duah,18,0,0,0,0,0,0,UEFA
+Suiza,Gregor,Kobel,21,0,0,0,0,0,0,UEFA
+Suiza,Nico,Elvedi,4,0,0,0,0,0,0,UEFA
+Suiza,Silvan,Widmer,3,0,0,0,0,0,0,UEFA
+Suiza,Vincent,Sierro,16,0,0,0,0,0,0,UEFA
+Suiza,Zeki,Amdouni,25,0,0,0,0,0,0,UEFA
+Suiza,Noah,Okafor,9,0,0,0,0,0,0,UEFA
+Suiza,Yvon,Mvogo,12,0,0,0,0,0,0,UEFA
+Austria,Marcel,Sabitzer,9,0,0,0,0,0,0,UEFA
+Austria,Konrad,Laimer,20,0,0,0,0,0,0,UEFA
+Austria,Christoph,Baumgartner,19,0,0,0,0,0,0,UEFA
+Austria,Patrick,Pentz,1,0,0,0,0,0,0,UEFA
+Austria,Kevin,Danso,4,0,0,0,0,0,0,UEFA
+Austria,Philipp,Lienhart,15,0,0,0,0,0,0,UEFA
+Austria,Stefan,Posch,5,0,0,0,0,0,0,UEFA
+Austria,Phillipp,Mwene,16,0,0,0,0,0,0,UEFA
+Austria,Nicolas,Seiwald,6,0,0,0,0,0,0,UEFA
+Austria,Florian,Grillitsch,10,0,0,0,0,0,0,UEFA
+Austria,Romano,Schmid,18,0,0,0,0,0,0,UEFA
+Austria,Michael,Gregoritsch,11,0,0,0,0,0,0,UEFA
+Austria,Marko,Arnautovic,7,0,0,0,0,0,0,UEFA
+Austria,Patrick,Wimmer,23,0,0,0,0,0,0,UEFA
+Austria,Gernot,Trauner,3,0,0,0,0,0,0,UEFA
+Austria,Maximilian,Wober,2,0,0,0,0,0,0,UEFA
+Austria,Alexander,Prass,8,0,0,0,0,0,0,UEFA
+Austria,Heinz,Lindner,13,0,0,0,0,0,0,UEFA
+Austria,Leopold,Querfeld,14,0,0,0,0,0,0,UEFA
+Austria,Junior,Adamu,21,0,0,0,0,0,0,UEFA
+Dinamarca,Christian,Eriksen,10,0,0,0,0,0,0,UEFA
+Dinamarca,Rasmus,Hojlund,9,0,0,0,0,0,0,UEFA
+Dinamarca,Kasper,Schmeichel,1,0,0,0,0,0,0,UEFA
+Dinamarca,Andreas,Christensen,6,0,0,0,0,0,0,UEFA
+Dinamarca,Jannik,Vestergaard,3,0,0,0,0,0,0,UEFA
+Dinamarca,Joachim,Andersen,2,0,0,0,0,0,0,UEFA
+Dinamarca,Alexander,Bah,18,0,0,0,0,0,0,UEFA
+Dinamarca,Pierre-Emile,Hojbjerg,23,0,0,0,0,0,0,UEFA
+Dinamarca,Morten,Hjulmand,21,0,0,0,0,0,0,UEFA
+Dinamarca,Jonas,Wind,19,0,0,0,0,0,0,UEFA
+Dinamarca,Mikkel,Damsgaard,14,0,0,0,0,0,0,UEFA
+Dinamarca,Yussuf,Poulsen,20,0,0,0,0,0,0,UEFA
+Dinamarca,Victor,Kristiansen,17,0,0,0,0,0,0,UEFA
+Dinamarca,Joakim,Maehle,5,0,0,0,0,0,0,UEFA
+Dinamarca,Christian,Norgaard,15,0,0,0,0,0,0,UEFA
+Dinamarca,Thomas,Delaney,8,0,0,0,0,0,0,UEFA
+Dinamarca,Kasper,Dolberg,12,0,0,0,0,0,0,UEFA
+Dinamarca,Andreas,Skov Olsen,11,0,0,0,0,0,0,UEFA
+Dinamarca,Mads,Hermansen,22,0,0,0,0,0,0,UEFA
+Dinamarca,Victor,Nelsson,4,0,0,0,0,0,0,UEFA
+Serbia,Aleksandar,Mitrovic,9,0,0,0,0,0,0,UEFA
+Serbia,Dusan,Vlahovic,7,0,0,0,0,0,0,UEFA
+Serbia,Dusan,Tadic,10,0,0,0,0,0,0,UEFA
+Serbia,Vanja,Milinkovic-Savic,23,0,0,0,0,0,0,UEFA
+Serbia,Nikola,Milenkovic,4,0,0,0,0,0,0,UEFA
+Serbia,Strahinja,Pavlovic,2,0,0,0,0,0,0,UEFA
+Serbia,Milos,Veljkovic,13,0,0,0,0,0,0,UEFA
+Serbia,Andrija,Zivkovic,14,0,0,0,0,0,0,UEFA
+Serbia,Filip,Kostic,17,0,0,0,0,0,0,UEFA
+Serbia,Nemanja,Gudelj,6,0,0,0,0,0,0,UEFA
+Serbia,Sergej,Milinkovic-Savic,20,0,0,0,0,0,0,UEFA
+Serbia,Sasa,Lukic,22,0,0,0,0,0,0,UEFA
+Serbia,Lazar,Samardzic,19,0,0,0,0,0,0,UEFA
+Serbia,Luka,Jovic,8,0,0,0,0,0,0,UEFA
+Serbia,Predrag,Rajkovic,1,0,0,0,0,0,0,UEFA
+Serbia,Nemanja,Maksimovic,5,0,0,0,0,0,0,UEFA
+Serbia,Mijat,Gacinovic,11,0,0,0,0,0,0,UEFA
+Serbia,Srdjan,Babic,15,0,0,0,0,0,0,UEFA
+Serbia,Veljko,Birmancevic,21,0,0,0,0,0,0,UEFA
+Serbia,Filip,Mladenovic,25,0,0,0,0,0,0,UEFA
+Turquía,Arda,Güler,8,0,0,0,0,0,0,UEFA
+Turquía,Hakan,Calhanoglu,10,0,0,0,0,0,0,UEFA
+Turquía,Kenan,Yildiz,19,0,0,0,0,0,0,UEFA
+Turquía,Mert,Günok,1,0,0,0,0,0,0,UEFA
+Turquía,Merih,Demiral,3,0,0,0,0,0,0,UEFA
+Turquía,Samet,Akaydin,4,0,0,0,0,0,0,UEFA
+Turquía,Ferdi,Kadioglu,20,0,0,0,0,0,0,UEFA
+Turquía,Mert,Müldür,18,0,0,0,0,0,0,UEFA
+Turquía,Kaan,Ayhan,22,0,0,0,0,0,0,UEFA
+Turquía,Salih,Özcan,15,0,0,0,0,0,0,UEFA
+Turquía,Orkun,Kökçü,6,0,0,0,0,0,0,UEFA
+Turquía,Baris,Alper Yilmaz,21,0,0,0,0,0,0,UEFA
+Turquía,Kerem,Aktürkoglu,7,0,0,0,0,0,0,UEFA
+Turquía,Cenk,Tosun,9,0,0,0,0,0,0,UEFA
+Turquía,Yusuf,Yazici,11,0,0,0,0,0,0,UEFA
+Turquía,İrfan,Can Kahveci,17,0,0,0,0,0,0,UEFA
+Turquía,Ugurcan,Cakir,12,0,0,0,0,0,0,UEFA
+Turquía,Zeki,Celik,2,0,0,0,0,0,0,UEFA
+Turquía,Okay,Yokuslu,5,0,0,0,0,0,0,UEFA
+Turquía,Semih,Kiliçsoy,24,0,0,0,0,0,0,UEFA
+Ucrania,Andriy,Lunin,13,0,0,0,0,0,0,UEFA
+Ucrania,Artem,Dovbyk,11,0,0,0,0,0,0,UEFA
+Ucrania,Mykhailo,Mudryk,10,0,0,0,0,0,0,UEFA
+Ucrania,Oleksandr,Zinchenko,17,0,0,0,0,0,0,UEFA
+Ucrania,Illya,Zabarnyi,13,0,0,0,0,0,0,UEFA
+Ucrania,Mykola,Matviyenko,22,0,0,0,0,0,0,UEFA
+Ucrania,Vitaliy,Mykolenko,16,0,0,0,0,0,0,UEFA
+Ucrania,Yukhym,Konoplya,2,0,0,0,0,0,0,UEFA
+Ucrania,Taras,Stepanenko,6,0,0,0,0,0,0,UEFA
+Ucrania,Heorhiy,Sudakov,14,0,0,0,0,0,0,UEFA
+Ucrania,Mykola,Shaparenko,19,0,0,0,0,0,0,UEFA
+Ucrania,Viktor,Tsyhankov,15,0,0,0,0,0,0,UEFA
+Ucrania,Roman,Yaremchuk,9,0,0,0,0,0,0,UEFA
+Ucrania,Anatoliy,Trubin,12,0,0,0,0,0,0,UEFA
+Ucrania,Oleksandr,Svatok,3,0,0,0,0,0,0,UEFA
+Ucrania,Valeriy,Bondar,4,0,0,0,0,0,0,UEFA
+Ucrania,Volodymyr,Brazhko,18,0,0,0,0,0,0,UEFA
+Ucrania,Ruslan,Malinovskyi,8,0,0,0,0,0,0,UEFA
+Ucrania,Vladyslav,Vanat,25,0,0,0,0,0,0,UEFA
+Ucrania,Oleksandr,Zubkov,20,0,0,0,0,0,0,UEFA
+Nigeria,Victor,Osimhen,9,0,0,0,0,0,0,CAF
+Nigeria,Ademola,Lookman,18,0,0,0,0,0,0,CAF
+Nigeria,Alex,Iwobi,17,0,0,0,0,0,0,CAF
+Nigeria,Stanley,Nwabali,23,0,0,0,0,0,0,CAF
+Nigeria,William,Troost-Ekong,5,0,0,0,0,0,0,CAF
+Nigeria,Calvin,Bassey,21,0,0,0,0,0,0,CAF
+Nigeria,Ola,Aina,2,0,0,0,0,0,0,CAF
+Nigeria,Wilfred,Ndidi,4,0,0,0,0,0,0,CAF
+Nigeria,Frank,Onyeka,8,0,0,0,0,0,0,CAF
+Nigeria,Samuel,Chukwueze,11,0,0,0,0,0,0,CAF
+Nigeria,Moses,Simon,15,0,0,0,0,0,0,CAF
+Nigeria,Victor,Boniface,24,0,0,0,0,0,0,CAF
+Nigeria,Kelechi,Iheanacho,14,0,0,0,0,0,0,CAF
+Nigeria,Semi,Ajayi,6,0,0,0,0,0,0,CAF
+Nigeria,Bright,Osayi-Samuel,12,0,0,0,0,0,0,CAF
+Nigeria,Zaidu,Sanusi,3,0,0,0,0,0,0,CAF
+Nigeria,Raphael,Onyedika,25,0,0,0,0,0,0,CAF
+Nigeria,Terem,Moffi,19,0,0,0,0,0,0,CAF
+Nigeria,Taiwo,Awoniyi,20,0,0,0,0,0,0,CAF
+Nigeria,Maduka,Okoye,1,0,0,0,0,0,0,CAF
+Egipto,Mohamed,Salah,10,0,0,0,0,0,0,CAF
+Egipto,Mostafa,Mohamed,19,0,0,0,0,0,0,CAF
+Egipto,Omar,Marmoush,22,0,0,0,0,0,0,CAF
+Egipto,Mohamed,El Shenawy,1,0,0,0,0,0,0,CAF
+Egipto,Mohamed,Abdelmonem,24,0,0,0,0,0,0,CAF
+Egipto,Ahmed,Hegazy,6,0,0,0,0,0,0,CAF
+Egipto,Mohamed,Hany,3,0,0,0,0,0,0,CAF
+Egipto,Hamdi,Fathi,5,0,0,0,0,0,0,CAF
+Egipto,Marwan,Attia,8,0,0,0,0,0,0,CAF
+Egipto,Trézéguet,,7,0,0,0,0,0,0,CAF
+Egipto,Zizo,,21,0,0,0,0,0,0,CAF
+Egipto,Mohamed,Sherif,9,0,0,0,0,0,0,CAF
+Egipto,Emam,Ashour,14,0,0,0,0,0,0,CAF
+Egipto,Ramy,Rabia,4,0,0,0,0,0,0,CAF
+Egipto,Mohamed,Hamdy,13,0,0,0,0,0,0,CAF
+Egipto,Mostafa,Fathi,11,0,0,0,0,0,0,CAF
+Egipto,Mohamed,Awad,16,0,0,0,0,0,0,CAF
+Egipto,Ibrahim,Adel,20,0,0,0,0,0,0,CAF
+Egipto,Ahmed,Nabil Koka,15,0,0,0,0,0,0,CAF
+Egipto,Yasser,Ibrahim,2,0,0,0,0,0,0,CAF
+Costa de Marfil,Sebastien,Haller,22,0,0,0,0,0,0,CAF
+Costa de Marfil,Simon,Adingra,24,0,0,0,0,0,0,CAF
+Costa de Marfil,Franck,Kessie,8,0,0,0,0,0,0,CAF
+Costa de Marfil,Yahia,Fofana,1,0,0,0,0,0,0,CAF
+Costa de Marfil,Evan,Ndicka,21,0,0,0,0,0,0,CAF
+Costa de Marfil,Odilon,Kossounou,7,0,0,0,0,0,0,CAF
+Costa de Marfil,Wilfried,Singo,5,0,0,0,0,0,0,CAF
+Costa de Marfil,Seko,Fofana,6,0,0,0,0,0,0,CAF
+Costa de Marfil,Ibrahim,Sangare,18,0,0,0,0,0,0,CAF
+Costa de Marfil,Max,Gradel,15,0,0,0,0,0,0,CAF
+Costa de Marfil,Nicolas,Pepe,19,0,0,0,0,0,0,CAF
+Costa de Marfil,Oumar,Diakite,14,0,0,0,0,0,0,CAF
+Costa de Marfil,Jeremie,Boga,10,0,0,0,0,0,0,CAF
+Costa de Marfil,Willy,Boly,12,0,0,0,0,0,0,CAF
+Costa de Marfil,Ghislain,Konan,3,0,0,0,0,0,0,CAF
+Costa de Marfil,Serge,Aurier,17,0,0,0,0,0,0,CAF
+Costa de Marfil,Jean-Michael,Seri,4,0,0,0,0,0,0,CAF
+Costa de Marfil,Christian,Kouame,20,0,0,0,0,0,0,CAF
+Costa de Marfil,Karim,Konate,11,0,0,0,0,0,0,CAF
+Costa de Marfil,Badra,Ali Sangare,16,0,0,0,0,0,0,CAF
+Argelia,Riyad,Mahrez,7,0,0,0,0,0,0,CAF
+Argelia,Ismael,Bennacer,4,0,0,0,0,0,0,CAF
+Argelia,Said,Benrahma,10,0,0,0,0,0,0,CAF
+Argelia,Anthony,Mandrea,1,0,0,0,0,0,0,CAF
+Argelia,Aissa,Mandi,2,0,0,0,0,0,0,CAF
+Argelia,Ramy,Bensebaini,21,0,0,0,0,0,0,CAF
+Argelia,Rayan,Ait-Nouri,15,0,0,0,0,0,0,CAF
+Argelia,Nabil,Bentaleb,6,0,0,0,0,0,0,CAF
+Argelia,Houssem,Aouar,8,0,0,0,0,0,0,CAF
+Argelia,Amine,Gouiri,11,0,0,0,0,0,0,CAF
+Argelia,Baghdad,Bounedjah,9,0,0,0,0,0,0,CAF
+Argelia,Farès,Chaïbi,18,0,0,0,0,0,0,CAF
+Argelia,Mohamed,Amoura,17,0,0,0,0,0,0,CAF
+Argelia,Youcef,Atal,20,0,0,0,0,0,0,CAF
+Argelia,Ahmed,Tuba,3,0,0,0,0,0,0,CAF
+Argelia,Ramiz,Zerrouki,19,0,0,0,0,0,0,CAF
+Argelia,Islam,Slimani,13,0,0,0,0,0,0,CAF
+Argelia,Oussama,Benbot,16,0,0,0,0,0,0,CAF
+Argelia,Kevin,Guitoun,22,0,0,0,0,0,0,CAF
+Argelia,Hichem,Boudaoui,14,0,0,0,0,0,0,CAF
+Túnez,Elias,Achouri,11,0,0,0,0,0,0,CAF
+Túnez,Ellyes,Skhiri,17,0,0,0,0,0,0,CAF
+Túnez,Aissa,Laidouni,14,0,0,0,0,0,0,CAF
+Túnez,Bechir,Ben Said,1,0,0,0,0,0,0,CAF
+Túnez,Montassar,Talbi,4,0,0,0,0,0,0,CAF
+Túnez,Yassine,Meriah,3,0,0,0,0,0,0,CAF
+Túnez,Ali,Abdi,2,0,0,0,0,0,0,CAF
+Túnez,Yan,Valery,20,0,0,0,0,0,0,CAF
+Túnez,Hamza,Rafia,8,0,0,0,0,0,0,CAF
+Túnez,Mohamed,Ali Ben Romdhane,15,0,0,0,0,0,0,CAF
+Túnez,Youssef,Msakni,7,0,0,0,0,0,0,CAF
+Túnez,Seifeddine,Jaziri,19,0,0,0,0,0,0,CAF
+Túnez,Sayfallah,Ltaief,13,0,0,0,0,0,0,CAF
+Túnez,Wajdi,Kechrida,21,0,0,0,0,0,0,CAF
+Túnez,Dylan,Bronn,5,0,0,0,0,0,0,CAF
+Túnez,Nader,Ghandri,6,0,0,0,0,0,0,CAF
+Túnez,Haithem,Jouini,9,0,0,0,0,0,0,CAF
+Túnez,Mouez,Hassen,16,0,0,0,0,0,0,CAF
+Túnez,Mortadha,Ben Ouanes,12,0,0,0,0,0,0,CAF
+Túnez,Anis,Ben Slimane,25,0,0,0,0,0,0,CAF
+Arabia Saudita,Salem,Al-Dawsari,10,0,0,0,0,0,0,AFC
+Arabia Saudita,Firas,Al-Buraikan,9,0,0,0,0,0,0,AFC
+Arabia Saudita,Mohammed,Al-Owais,21,0,0,0,0,0,0,AFC
+Arabia Saudita,Ali,Al-Bulaihi,5,0,0,0,0,0,0,AFC
+Arabia Saudita,Hassan,Tambahti,17,0,0,0,0,0,0,AFC
+Arabia Saudita,Saud,Abdulhamid,12,0,0,0,0,0,0,AFC
+Arabia Saudita,Yasser,Al-Shahrani,13,0,0,0,0,0,0,AFC
+Arabia Saudita,Mohamed,Kanno,23,0,0,0,0,0,0,AFC
+Arabia Saudita,Abdullah,Al-Khaibari,15,0,0,0,0,0,0,AFC
+Arabia Saudita,Faisal,Al-Ghamdi,6,0,0,0,0,0,0,AFC
+Arabia Saudita,Abdulrahman,Ghareeb,18,0,0,0,0,0,0,AFC
+Arabia Saudita,Saleh,Al-Shehri,11,0,0,0,0,0,0,AFC
+Arabia Saudita,Nasser,Al-Dawsari,24,0,0,0,0,0,0,AFC
+Arabia Saudita,Sultan,Al-Ghannam,2,0,0,0,0,0,0,AFC
+Arabia Saudita,Awn,Al-Saluli,4,0,0,0,0,0,0,AFC
+Arabia Saudita,Ali,Lajami,3,0,0,0,0,0,0,AFC
+Arabia Saudita,Musab,Al-Juwayr,8,0,0,0,0,0,0,AFC
+Arabia Saudita,Ahmed,Al-Kassar,1,0,0,0,0,0,0,AFC
+Arabia Saudita,Hassan,Kadesh,14,0,0,0,0,0,0,AFC
+Arabia Saudita,Abdullah,Radif,20,0,0,0,0,0,0,AFC
+Australia,Mathew,Ryan,1,0,0,0,0,0,0,AFC
+Australia,Harry,Souttar,19,0,0,0,0,0,0,AFC
+Australia,Jackson,Irvine,22,0,0,0,0,0,0,AFC
+Australia,Craig,Goodwin,23,0,0,0,0,0,0,AFC
+Australia,Kye,Rowles,4,0,0,0,0,0,0,AFC
+Australia,Cameron,Burgess,21,0,0,0,0,0,0,AFC
+Australia,Aziz,Behich,16,0,0,0,0,0,0,AFC
+Australia,Gethin,Jones,2,0,0,0,0,0,0,AFC
+Australia,Keanu,Baccus,8,0,0,0,0,0,0,AFC
+Australia,Connor,Metcalfe,17,0,0,0,0,0,0,AFC
+Australia,Mitchell,Duke,15,0,0,0,0,0,0,AFC
+Australia,Martin,Boyle,6,0,0,0,0,0,0,AFC
+Australia,Kusini,Yengi,9,0,0,0,0,0,0,AFC
+Australia,Nestory,Irankunda,11,0,0,0,0,0,0,AFC
+Australia,Jordan,Bos,3,0,0,0,0,0,0,AFC
+Australia,Aiden,O'Neill,13,0,0,0,0,0,0,AFC
+Australia,Riley,McGree,14,0,0,0,0,0,0,AFC
+Australia,Joe,Gauci,12,0,0,0,0,0,0,AFC
+Australia,Alessandro,Circati,5,0,0,0,0,0,0,AFC
+Australia,Adam,Taggart,7,0,0,0,0,0,0,AFC
+Irán,Sardar,Azmoun,20,0,0,0,0,0,0,AFC
+Irán,Mehdi,Taremi,9,0,0,0,0,0,0,AFC
+Irán,Alireza,Beiranvand,1,0,0,0,0,0,0,AFC
+Irán,Shoja,Khalilzadeh,4,0,0,0,0,0,0,AFC
+Irán,Hossein,Kanaani,13,0,0,0,0,0,0,AFC
+Irán,Milad,Mohammadi,5,0,0,0,0,0,0,AFC
+Irán,Ramin,Rezaeian,23,0,0,0,0,0,0,AFC
+Irán,Saeid,Ezatolahi,6,0,0,0,0,0,0,AFC
+Irán,Saman,Ghoddos,14,0,0,0,0,0,0,AFC
+Irán,Alireza,Jahanbakhsh,7,0,0,0,0,0,0,AFC
+Irán,Mohammad,Mohebi,8,0,0,0,0,0,0,AFC
+Irán,Omid,Noorafkan,21,0,0,0,0,0,0,AFC
+Irán,Mehdi,Ghayedi,10,0,0,0,0,0,0,AFC
+Irán,Shahriyar,Moghanlou,11,0,0,0,0,0,0,AFC
+Irán,Payam,Niazmand,12,0,0,0,0,0,0,AFC
+Irán,Ehsan,Hajsafi,3,0,0,0,0,0,0,AFC
+Irán,Ali,Gholizadeh,17,0,0,0,0,0,0,AFC
+Irán,Sadegh,Moharrami,2,0,0,0,0,0,0,AFC
+Irán,Allahyar,Sayyadmanesh,19,0,0,0,0,0,0,AFC
+Irán,Amin,Hazbavi,15,0,0,0,0,0,0,AFC
+Qatar,Akram,Afif,11,0,0,0,0,0,0,AFC
+Qatar,Almoez,Ali,19,0,0,0,0,0,0,AFC
+Qatar,Meshaal,Barsham,22,0,0,0,0,0,0,AFC
+Qatar,Lucas,Mendes,12,0,0,0,0,0,0,AFC
+Qatar,Boualem,Khoukhi,16,0,0,0,0,0,0,AFC
+Qatar,Pedro,Miguel,2,0,0,0,0,0,0,AFC
+Qatar,Mohammed,Waad,4,0,0,0,0,0,0,AFC
+Qatar,Ahmed,Fathy,6,0,0,0,0,0,0,AFC
+Qatar,Jassem,Gaber,20,0,0,0,0,0,0,AFC
+Qatar,Hassan,Al-Haydos,10,0,0,0,0,0,0,AFC
+Qatar,Yusuf,Abdurisag,17,0,0,0,0,0,0,AFC
+Qatar,Bassam,Al-Rawi,15,0,0,0,0,0,0,AFC
+Qatar,Tarek,Salman,5,0,0,0,0,0,0,AFC
+Qatar,Homam,Ahmed,3,0,0,0,0,0,0,AFC
+Qatar,Abdulaziz,Hatem,8,0,0,0,0,0,0,AFC
+Qatar,Ismaeel,Mohammad,13,0,0,0,0,0,0,AFC
+Qatar,Saad,Al-Sheeb,1,0,0,0,0,0,0,AFC
+Qatar,Mustafa,Tariq,23,0,0,0,0,0,0,AFC
+Qatar,Ahmed,Alaaeldin,7,0,0,0,0,0,0,AFC
+Qatar,Al-Mahdi,Ali,25,0,0,0,0,0,0,AFC
+Polonia,Robert,Lewandowski,9,0,0,0,0,0,0,UEFA
+Polonia,Piotr,Zielinski,10,0,0,0,0,0,0,UEFA
+Polonia,Wojciech,Szczesny,1,0,0,0,0,0,0,UEFA
+Polonia,Jakub,Kiwior,14,0,0,0,0,0,0,UEFA
+Polonia,Jan,Bednarek,5,0,0,0,0,0,0,UEFA
+Polonia,Przemyslaw,Frankowski,19,0,0,0,0,0,0,UEFA
+Polonia,Nicola,Zalewski,21,0,0,0,0,0,0,UEFA
+Polonia,Jakub,Moder,16,0,0,0,0,0,0,UEFA
+Polonia,Sebastian,Szymanski,20,0,0,0,0,0,0,UEFA
+Polonia,Kacper,Urbanski,26,0,0,0,0,0,0,UEFA
+Polonia,Adam,Buksa,7,0,0,0,0,0,0,UEFA
+Polonia,Karol,Swiderski,11,0,0,0,0,0,0,UEFA
+Polonia,Krzysztof,Piatek,23,0,0,0,0,0,0,UEFA
+Polonia,Bartosz,Bereszynski,18,0,0,0,0,0,0,UEFA
+Polonia,Tymoteusz,Puchacz,15,0,0,0,0,0,0,UEFA
+Polonia,Pawel,Dawidowicz,3,0,0,0,0,0,0,UEFA
+Polonia,Bartosz,Slisz,24,0,0,0,0,0,0,UEFA
+Polonia,Lukasz,Skorupski,12,0,0,0,0,0,0,UEFA
+Polonia,Sebastian,Walukiewicz,4,0,0,0,0,0,0,UEFA
+Polonia,Damian,Szymanski,6,0,0,0,0,0,0,UEFA
+Panamá,Adalberto,Carrasquilla,8,0,0,0,0,0,0,CONCACAF
+Panamá,Ismael,Diaz,11,0,0,0,0,0,0,CONCACAF
+Panamá,Orlando,Mosquera,22,0,0,0,0,0,0,CONCACAF
+Panamá,Jose,Cordoba,3,0,0,0,0,0,0,CONCACAF
+Panamá,Edgardo,Fariña,24,0,0,0,0,0,0,CONCACAF
+Panamá,Eric,Davis,15,0,0,0,0,0,0,CONCACAF
+Panamá,Michael,Murillo,23,0,0,0,0,0,0,CONCACAF
+Panamá,Cristian,Martinez,6,0,0,0,0,0,0,CONCACAF
+Panamá,Anibal,Godoy,20,0,0,0,0,0,0,CONCACAF
+Panamá,Jose,Rodriguez,7,0,0,0,0,0,0,CONCACAF
+Panamá,Jose,Fajardo,17,0,0,0,0,0,0,CONCACAF
+Panamá,Eduardo,Guerrero,9,0,0,0,0,0,0,CONCACAF
+Panamá,Cesar,Blackman,2,0,0,0,0,0,0,CONCACAF
+Panamá,Roderick,Miller,4,0,0,0,0,0,0,CONCACAF
+Panamá,Abdel,Ayarza,13,0,0,0,0,0,0,CONCACAF
+Panamá,Jovani,Welch,16,0,0,0,0,0,0,CONCACAF
+Panamá,Freddy,Gondola,10,0,0,0,0,0,0,CONCACAF
+Panamá,Luis,Mejia,1,0,0,0,0,0,0,CONCACAF
+Panamá,Kahiser,Lenis,21,0,0,0,0,0,0,CONCACAF
+Panamá,Ivan,Anderson,19,0,0,0,0,0,0,CONCACAF
+Gales,Jugador1,Apellido1,1,0,0,0,0,0,0,UEFA
+Gales,Jugador2,Apellido2,2,0,0,0,0,0,0,UEFA
+Eslovenia,Jugador1,Apellido1,1,0,0,0,0,0,0,UEFA
+Eslovenia,Jugador2,Apellido2,2,0,0,0,0,0,0,UEFA
+Eslovaquia,Jugador1,Apellido1,1,0,0,0,0,0,0,UEFA
+Eslovaquia,Jugador2,Apellido2,2,0,0,0,0,0,0,UEFA
+Republica Checa,Jugador1,Apellido1,1,0,0,0,0,0,0,UEFA
+Republica Checa,Jugador2,Apellido2,2,0,0,0,0,0,0,UEFA
+Hungria,Jugador1,Apellido1,1,0,0,0,0,0,0,UEFA
+Hungria,Jugador2,Apellido2,2,0,0,0,0,0,0,UEFA
+Rumania,Jugador1,Apellido1,1,0,0,0,0,0,0,UEFA
+Rumania,Jugador2,Apellido2,2,0,0,0,0,0,0,UEFA
+Grecia,Jugador1,Apellido1,1,0,0,0,0,0,0,UEFA
+Grecia,Jugador2,Apellido2,2,0,0,0,0,0,0,UEFA

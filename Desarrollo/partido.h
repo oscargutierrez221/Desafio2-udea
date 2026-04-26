@@ -13,30 +13,19 @@ private:
     string fecha;
     string hora;
     string sede;
-    string Arbitro1;
-    string Arbitro2;
-    string Arbitro3;
 
     equipo* equipo1;
     equipo* equipo2;
 
     bool    jugado;
-    bool    fueAProrroga;
     equipo* ganador;
 
     resultados statsEquipo1;
     resultados statsEquipo2;
 
-    double posesionEquipo1;
-    double posesionEquipo2;
-
-    jugador** convocadosEquipo1;
-    jugador** convocadosEquipo2;
-
 public:
     partido();
-    partido(string fecha, string hora, string sede, string arbitro1, string arbitro2, string arbitro3, equipo* equipo1, equipo* equipo2);
-    partido(const partido& otro);
+    partido(string fecha, string hora, string sede, equipo* equipo1, equipo* equipo2);
     ~partido();
 
     equipo* getEquipo1() const;
