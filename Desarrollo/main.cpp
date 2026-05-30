@@ -4,8 +4,6 @@
 #include <cstdlib>
 #include <ctime>
 
-using namespace std;
-
 int main()
 {
     // Inicializar semilla aleatoria
@@ -16,11 +14,11 @@ int main()
 
     do
     {
-        cout << "\n=== Copa Mundial de la FIFA 2026 ===\n";
-        cout << "1. Simular torneo completo\n";
-        cout << "2. Mostrar resultados\n";
-        cout << "3. Salir\n";
-        cout << "Opcion: ";
+        std::cout << "\n=== Copa Mundial de la FIFA 2026 ===\n";
+        std::cout << "1. Simular torneo completo\n";
+        std::cout << "2. Mostrar resultados\n";
+        std::cout << "3. Salir\n";
+        std::cout << "Opcion: ";
         cin >> opcion;
 
         switch (opcion)
@@ -33,10 +31,10 @@ int main()
             organizador::medirRecursos(0, 48, CopaMundial2026.getNumPartidos(), 1248);
             break;
         case 0:
-            cout << "Saliendo...\n";
+            std::cout << "Saliendo...\n";
             break;
         default:
-            cout << "Opcion invalida. Intente de nuevo.\n";
+            std::cout << "Opcion invalida. Intente de nuevo.\n";
             break;
         }
     } while (opcion != 0);

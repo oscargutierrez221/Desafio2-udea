@@ -1,7 +1,5 @@
 #include "equipo.h"
 
-using namespace std;
-
 equipo::equipo()
 {
     nombre = "";
@@ -28,7 +26,7 @@ equipo::equipo(const equipo &otro)
     }
 }
 
-equipo::equipo(string nombre, string pais, string confederacion, int ranking, string directorTecnico)
+equipo::equipo(std::string nombre, std::string pais, std::string confederacion, int ranking, std::string directorTecnico)
 {
     this->nombre = nombre;
     this->pais = pais;
@@ -48,12 +46,12 @@ equipo::~equipo()
     }
 }
 
-string equipo::getNombre() const
+std::string equipo::getNombre() const
 {
     return nombre;
 }
 
-string equipo::getConfederacion() const
+std::string equipo::getConfederacion() const
 {
     return confederacion;
 }
@@ -68,7 +66,7 @@ resultados &equipo::getResultados()
     return estadisticas;
 }
 
-void equipo::agregarJugador(string nombre, string apellido, int camiseta, int goles, int amarillas, int rojas, int minutos, int partidos, int asistencias)
+void equipo::agregarJugador(std::string nombre, std::string apellido, int camiseta, int goles, int amarillas, int rojas, int minutos, int partidos, int asistencias)
 {
     if (numJugadores < 26)
     {

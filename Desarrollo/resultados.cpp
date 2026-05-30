@@ -1,8 +1,6 @@
 #include "resultados.h"
 #include <iostream>
 
-using namespace std;
-
 resultados::resultados()
 {
     golesFavor = 0;
@@ -92,9 +90,9 @@ int resultados::calcularPuntos() const
 
 void resultados::mostrar() const
 {
-    cout << "Partidos: " << partidosGanados << "G / " << partidosEmpatados << "E / " << partidosPerdidos << "P" << endl;
-    cout << "Goles a favor: " << golesFavor << " | Goles en contra: " << golesContra << " | Diferencia: " << calcularDiferenciaGoles() << endl;
-    cout << "Tarjetas amarillas: " << tarjetasAmarillas << " | Tarjetas rojas: " << tarjetasRojas << endl;
-    cout << "Faltas cometidas: " << faltasCometidas << endl;
+    std::cout << "Partidos: " << partidosGanados << "G / " << partidosEmpatados << "E / " << partidosPerdidos << "P" << std::endl;
+    std::cout << "Goles a favor: " << golesFavor << " | Goles en contra: " << golesContra << " | Diferencia: " << calcularDiferenciaGoles() << std::endl;
+    std::cout << "Tarjetas amarillas: " << tarjetasAmarillas << " | Tarjetas rojas: " << tarjetasRojas << std::endl;
+    std::cout << "Faltas cometidas: " << faltasCometidas << std::endl;
 }
 

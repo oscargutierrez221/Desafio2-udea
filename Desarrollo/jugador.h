@@ -6,8 +6,8 @@ using namespace std;
 
 class jugador {
 private:
-    string nombre;
-    string apellido;
+    std::string nombre;
+    std::string apellido;
     int numeroCamiseta;
 
     int partidosJugados;
@@ -19,7 +19,7 @@ private:
     int minutosJugados;
 
 public:
-    jugador(string nombre, string apellido, int numeroCamiseta);
+    jugador(std::string nombre, std::string apellido, int numeroCamiseta);
 
     jugador(const jugador &otro);
 
@@ -28,8 +28,8 @@ public:
     void actualizarEstadisticasPartido(int goles, int amarillas, int rojas, int faltas, int minutos);
     void cargarEstadisticas(int goles, int partidos, int minutos, int asistencias, int amarillas, int rojas, int faltas);
 
-    string getNombre() const;
-    string getApellido() const;
+    std::string getNombre() const;
+    std::string getApellido() const;
     int getGoles() const;
 };
 

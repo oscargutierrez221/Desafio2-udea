@@ -1,0 +1,97 @@
+=== PROGRAMACION ETAPA DE GRUPOS ===
+
+--- GRUPO A ---
+  Partido 1: Colombia vs Mexico
+  Partido 2: Colombia vs Suiza
+  Partido 3: Colombia vs Australia
+  Partido 4: Mexico vs Suiza
+  Partido 5: Mexico vs Australia
+  Partido 6: Suiza vs Australia
+
+--- GRUPO B ---
+  Partido 7: Brasil vs USA
+  Partido 8: Brasil vs Austria
+  Partido 9: Brasil vs Irán
+  Partido 10: USA vs Austria
+  Partido 11: USA vs Irán
+  Partido 12: Austria vs Irán
+
+--- GRUPO C ---
+  Partido 13: Argentina vs Ecuador
+  Partido 14: Argentina vs Dinamarca
+  Partido 15: Argentina vs Qatar
+  Partido 16: Ecuador vs Dinamarca
+  Partido 17: Ecuador vs Qatar
+  Partido 18: Dinamarca vs Qatar
+
+--- GRUPO D ---
+  Partido 19: Croacia vs Marruecos
+  Partido 20: Croacia vs Serbia
+  Partido 21: Croacia vs Polonia
+  Partido 22: Marruecos vs Serbia
+  Partido 23: Marruecos vs Polonia
+  Partido 24: Serbia vs Polonia
+
+--- GRUPO E ---
+  Partido 25: Alemania vs Japón
+  Partido 26: Alemania vs Turquía
+  Partido 27: Alemania vs Panamá
+  Partido 28: Japón vs Turquía
+  Partido 29: Japón vs Panamá
+  Partido 30: Turquía vs Panamá
+
+--- GRUPO F ---
+  Partido 31: Francia vs Canadá
+  Partido 32: Francia vs Ucrania
+  Partido 33: Francia vs Gales
+  Partido 34: Canadá vs Ucrania
+  Partido 35: Canadá vs Gales
+  Partido 36: Ucrania vs Gales
+
+--- GRUPO G ---
+  Partido 37: España vs Bélgica
+  Partido 38: España vs Nigeria
+  Partido 39: España vs Eslovenia
+  Partido 40: Bélgica vs Nigeria
+  Partido 41: Bélgica vs Eslovenia
+  Partido 42: Nigeria vs Eslovenia
+
+--- GRUPO H ---
+  Partido 43: Inglaterra vs Corea del Sur
+  Partido 44: Inglaterra vs Egipto
+  Partido 45: Inglaterra vs Eslovaquia
+  Partido 46: Corea del Sur vs Egipto
+  Partido 47: Corea del Sur vs Eslovaquia
+  Partido 48: Egipto vs Eslovaquia
+
+--- GRUPO I ---
+  Partido 49: Portugal vs Senegal
+  Partido 50: Portugal vs Costa de Marfil
+  Partido 51: Portugal vs Republica Checa
+  Partido 52: Senegal vs Costa de Marfil
+  Partido 53: Senegal vs Republica Checa
+  Partido 54: Costa de Marfil vs Republica Checa
+
+--- GRUPO J ---
+  Partido 55: Paises Bajos vs Paraguay
+  Partido 56: Paises Bajos vs Argelia
+  Partido 57: Paises Bajos vs Hungria
+  Partido 58: Paraguay vs Argelia
+  Partido 59: Paraguay vs Hungria
+  Partido 60: Argelia vs Hungria
+
+--- GRUPO K ---
+  Partido 61: Italia vs Chile
+  Partido 62: Italia vs Túnez
+  Partido 63: Italia vs Rumania
+  Partido 64: Chile vs Túnez
+  Partido 65: Chile vs Rumania
+  Partido 66: Túnez vs Rumania
+
+--- GRUPO L ---
+  Partido 67: Uruguay vs Perú
+  Partido 68: Uruguay vs Arabia Saudita
+  Partido 69: Uruguay vs Grecia
+  Partido 70: Perú vs Arabia Saudita
+  Partido 71: Perú vs Grecia
+  Partido 72: Arabia Saudita vs Grecia

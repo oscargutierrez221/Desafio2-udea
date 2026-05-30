@@ -5,14 +5,12 @@
 #include "resultados.h"
 #include <string>
 
-using namespace std;
-
 class partido
 {
 private:
-    string fecha;
-    string hora;
-    string sede;
+    std::string fecha;
+    std::string hora;
+    std::string sede;
 
     equipo* equipo1;
     equipo* equipo2;
@@ -25,7 +23,7 @@ private:
 
 public:
     partido();
-    partido(string fecha, string hora, string sede, equipo* equipo1, equipo* equipo2);
+    partido(std::string fecha, std::string hora, std::string sede, equipo* equipo1, equipo* equipo2);
     ~partido();
 
     equipo* getEquipo1() const;
@@ -34,9 +32,9 @@ public:
     const resultados& getStatsEquipo2() const;
     equipo* getGanador() const;
     void setGanador(equipo* g);
-    void setFecha(string f);
-    void setHora(string h);
-    void setSede(string s);
+    void setFecha(std::string f);
+    void setHora(std::string h);
+    void setSede(std::string s);
 
     void simular();
     void mostrarResultado() const;

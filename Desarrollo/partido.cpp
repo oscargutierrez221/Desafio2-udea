@@ -1,8 +1,6 @@
 #include "partido.h"
 #include <iostream>
 
-using namespace std;
-
 partido::partido()
 {
     fecha = "";
@@ -14,7 +12,7 @@ partido::partido()
     ganador = nullptr;
 }
 
-partido::partido(string fecha, string hora, string sede, equipo *equipo1, equipo *equipo2)
+partido::partido(std::string fecha, std::string hora, std::string sede, equipo *equipo1, equipo *equipo2)
 {
     this->fecha = fecha;
     this->hora = hora;
@@ -59,17 +57,17 @@ void partido::setGanador(equipo *g)
     ganador = g;
 }
 
-void partido::setFecha(string f)
+void partido::setFecha(std::string f)
 {
     fecha = f;
 }
 
-void partido::setHora(string h)
+void partido::setHora(std::string h)
 {
     hora = h;
 }
 
-void partido::setSede(string s)
+void partido::setSede(std::string s)
 {
     sede = s;
 }
@@ -203,25 +201,25 @@ void partido::simular()
 
 void partido::mostrarResultado() const
 {
-    cout << "---------------------------------" << endl;
-    cout << "Fecha: " << fecha << " | Hora: " << hora << endl;
-    cout << "Sede: " << sede << endl;
-    cout << "" << endl;
-    cout << equipo1->getNombre() << " " << statsEquipo1.getGolesFavor() << " - " << statsEquipo2.getGolesFavor() << " " << equipo2->getNombre() << endl;
-    cout << "" << endl;
-    cout << "Estadisticas del partido:" << endl;
-    cout << "  " << equipo1->getNombre() << ": " << statsEquipo1.getTarjetasAmarillas() << " amarillas, " << statsEquipo1.getTarjetasRojas() << " rojas, " << statsEquipo1.getFaltasCometidas() << " faltas" << endl;
-    cout << "  " << equipo2->getNombre() << ": " << statsEquipo2.getTarjetasAmarillas() << " amarillas, " << statsEquipo2.getTarjetasRojas() << " rojas, " << statsEquipo2.getFaltasCometidas() << " faltas" << endl;
-    cout << "" << endl;
+    std::cout << "---------------------------------" << std::endl;
+    std::cout << "Fecha: " << fecha << " | Hora: " << hora << std::endl;
+    std::cout << "Sede: " << sede << std::endl;
+    std::cout << "" << std::endl;
+    std::cout << equipo1->getNombre() << " " << statsEquipo1.getGolesFavor() << " - " << statsEquipo2.getGolesFavor() << " " << equipo2->getNombre() << std::endl;
+    std::cout << "" << std::endl;
+    std::cout << "Estadisticas del partido:" << std::endl;
+    std::cout << "  " << equipo1->getNombre() << ": " << statsEquipo1.getTarjetasAmarillas() << " amarillas, " << statsEquipo1.getTarjetasRojas() << " rojas, " << statsEquipo1.getFaltasCometidas() << " faltas" << std::endl;
+    std::cout << "  " << equipo2->getNombre() << ": " << statsEquipo2.getTarjetasAmarillas() << " amarillas, " << statsEquipo2.getTarjetasRojas() << " rojas, " << statsEquipo2.getFaltasCometidas() << " faltas" << std::endl;
+    std::cout << "" << std::endl;
 
     if (ganador != nullptr)
     {
-        cout << "Ganador: " << ganador->getNombre() << endl;
+        std::cout << "Ganador: " << ganador->getNombre() << std::endl;
     }
     else
     {
-        cout << "Resultado: Empate" << endl;
+        std::cout << "Resultado: Empate" << std::endl;
     }
 
-    cout << "---------------------------------" << endl;
+    std::cout << "---------------------------------" << std::endl;
 }

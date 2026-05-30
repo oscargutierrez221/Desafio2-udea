@@ -1,9 +1,8 @@
 #include "torneo.h"
 #include "organizador.h"
-#include <fstream>
 #include <iostream>
+#include <fstream>
 
-using namespace std;
 
 torneo::torneo()
 {
@@ -81,10 +80,10 @@ torneo::~torneo()
 }
 
 // Funcion auxiliar para convertir texto a numero
-int convertirAEntero(string texto)
+int convertirAEntero(std::string texto)
 {
     int numero = 0;
-    int i;
+    float i;
     for (i = 0; i < texto.length(); i = i + 1)
     {
         char digito = texto[i];
@@ -100,17 +99,17 @@ void torneo::cargarEquipos()
 {
     ifstream archivo("/home/david/Documentos/Desafio2-udea/Desarrollo/CSV/equipos.txt");
 
-    string paisCsv[1000];
-    string nombreCsv[1000];
-    string apellidoCsv[1000];
-    string numeroCamisetaCsv[1000];
-    string golesCsv[1000];
-    string numAmarillasCsv[1000];
-    string numRojasCsv[1000];
-    string numMinutosCsv[1000];
-    string partidosJugadosCsv[1000];
-    string asistenciasCsv[1000];
-    string confederacionCsv[1000];
+    std::string paisCsv[1000];
+    std::string nombreCsv[1000];
+    std::string apellidoCsv[1000];
+    std::string numeroCamisetaCsv[1000];
+    std::string golesCsv[1000];
+    std::string numAmarillasCsv[1000];
+    std::string numRojasCsv[1000];
+    std::string numMinutosCsv[1000];
+    std::string partidosJugadosCsv[1000];
+    std::string asistenciasCsv[1000];
+    std::string confederacionCsv[1000];
 
     int total = 0;
 
@@ -210,24 +209,24 @@ void torneo::conformarBombos()
 
     // Guardamos en archivo
     ofstream archivo("/home/david/Documentos/Desafio2-udea/Desarrollo/CSV/bombos.txt");
-    archivo << "=== BOMBOS DEL SORTEO ===" << endl;
+    archivo << "=== BOMBOS DEL SORTEO ===" << std::endl;
 
     for (b = 0; b < 4; b = b + 1)
     {
-        archivo << endl;
-        archivo << "BOMBO " << (b + 1) << ":" << endl;
+        archivo << std::endl;
+        archivo << "BOMBO " << (b + 1) << ":" << std::endl;
 
         for (e = 0; e < porBombo; e = e + 1)
         {
             if (bombos[b][e] != nullptr)
             {
-                archivo << "  - " << bombos[b][e]->getNombre() << endl;
+                archivo << "  - " << bombos[b][e]->getNombre() << std::endl;
             }
         }
     }
 
     archivo.close();
-    cout << "Bombos conformados. Guardado en bombos.txt" << endl;
+    std::cout << "Bombos conformados. Guardado en bombos.txt" << std::endl;
 }
 
 void torneo::conformarGrupos()
@@ -246,20 +245,20 @@ void torneo::conformarGrupos()
 
     // Guardamos en archivo
     ofstream archivo("/home/david/Documentos/Desafio2-udea/Desarrollo/CSV/conformarGrupos.txt");
-    archivo << "=== GRUPOS DEL TORNEO ===" << endl;
+    archivo << "=== GRUPOS DEL TORNEO ===" << std::endl;
 
     int g;
     int e;
 
     for (g = 0; g < numGrupos; g = g + 1)
     {
-        archivo << endl << "GRUPO " << (g + 1) << ":" << endl;
+        archivo << std::endl << "GRUPO " << (g + 1) << ":" << std::endl;
 
         for (e = 0; e < equiposPorGrupo; e = e + 1)
         {
             if (grupos[g][e] != nullptr)
             {
-                archivo << "  - " << grupos[g][e]->getNombre() << endl;
+                archivo << "  - " << grupos[g][e]->getNombre() << std::endl;
             }
         }
     }
@@ -270,18 +269,18 @@ void torneo::conformarGrupos()
     bool valido = organizador::validarRestriccionesGrupos(grupos, numGrupos, equiposPorGrupo);
     if (valido == false)
     {
-        cout << "ADVERTENCIA: Algunos grupos no cumplen restricciones de confederacion (max 2 UEFA)" << endl;
+        std::cout << "ADVERTENCIA: Algunos grupos no cumplen restricciones de confederacion (max 2 UEFA)" << std::endl;
     }
 
-    cout << "Grupos conformados. Guardado en conformarGrupos.txt" << endl;
+    std::cout << "Grupos conformados. Guardado en conformarGrupos.txt" << std::endl;
 }
 
 void torneo::simularEtapaGrupos()
 {
     ofstream archivo("/home/david/Documentos/Desafio2-udea/Desarrollo/CSV/simularEtapaGrupos.txt");
-    archivo << "=== PROGRAMACION ETAPA DE GRUPOS ===" << endl;
+    archivo << "=== PROGRAMACION ETAPA DE GRUPOS ===" << std::endl;
 
-    string letras = "ABCDEFGHIJKL";
+    std::string letras = "ABCDEFGHIJKL";
 
     // Por cada grupo creamos los 6 partidos (todos contra todos)
     int g;
@@ -290,8 +289,8 @@ void torneo::simularEtapaGrupos()
 
     for (g = 0; g < numGrupos; g = g + 1)
     {
-        archivo << endl;
-        archivo << "--- GRUPO " << letras[g] << " ---" << endl;
+        archivo << std::endl;
+        archivo << "--- GRUPO " << letras[g] << " ---" << std::endl;
 
         for (e1 = 0; e1 < equiposPorGrupo; e1 = e1 + 1)
         {
@@ -301,7 +300,7 @@ void torneo::simularEtapaGrupos()
                 {
                     partidos[numPartidos] = new partido("", "", "", grupos[g][e1], grupos[g][e2]);
                     numPartidos = numPartidos + 1;
-                    archivo << "  Partido " << numPartidos << ": " << grupos[g][e1]->getNombre() << " vs " << grupos[g][e2]->getNombre() << endl;
+                    archivo << "  Partido " << numPartidos << ": " << grupos[g][e1]->getNombre() << " vs " << grupos[g][e2]->getNombre() << std::endl;
                 }
             }
         }
@@ -312,7 +311,7 @@ void torneo::simularEtapaGrupos()
     // Asignamos fechas y sedes
     organizador::asignarFechasYSedes(partidos, numPartidos);
 
-    cout << "Etapa de grupos programada. Guardado en simularEtapaGrupos.txt" << endl;
+    std::cout << "Etapa de grupos programada. Guardado en simularEtapaGrupos.txt" << std::endl;
 }
 
 void torneo::simularR16()
@@ -338,8 +337,8 @@ void torneo::simularR16()
 
     // Armamos los partidos de a pares
     ofstream archivo("/home/david/Documentos/Desafio2-udea/Desarrollo/CSV/R16.txt");
-    archivo << "=== DIECISEISAVOS DE FINAL ===" << endl;
-    archivo << endl;
+    archivo << "=== DIECISEISAVOS DE FINAL ===" << std::endl;
+    archivo << std::endl;
 
     int numPartidosR16 = numClasificados / 2;
     int i;
@@ -350,11 +349,11 @@ void torneo::simularR16()
         equipo *equipo2 = clasificados[i * 2 + 1];
         partidos[numPartidos] = new partido("", "", "", equipo1, equipo2);
         numPartidos = numPartidos + 1;
-        archivo << "  Partido R16-" << (i + 1) << ": " << equipo1->getNombre() << " vs " << equipo2->getNombre() << endl;
+        archivo << "  Partido R16-" << (i + 1) << ": " << equipo1->getNombre() << " vs " << equipo2->getNombre() << std::endl;
     }
 
     archivo.close();
-    cout << "R16 programado. Guardado en R16.txt" << endl;
+    std::cout << "R16 programado. Guardado en R16.txt" << std::endl;
 }
 
 void torneo::simularR8()
@@ -378,8 +377,8 @@ void torneo::simularR8()
     }
 
     ofstream archivo("/home/david/Documentos/Desafio2-udea/Desarrollo/CSV/R8.txt");
-    archivo << "=== OCTAVOS DE FINAL ===" << endl;
-    archivo << endl;
+    archivo << "=== OCTAVOS DE FINAL ===" << std::endl;
+    archivo << std::endl;
 
     int numPartidosR8 = numGanadores / 2;
 
@@ -389,11 +388,11 @@ void torneo::simularR8()
         equipo *equipo2 = ganadoresR16[i * 2 + 1];
         partidos[numPartidos] = new partido("", "", "", equipo1, equipo2);
         numPartidos = numPartidos + 1;
-        archivo << "  Partido R8-" << (i + 1) << ": " << equipo1->getNombre() << " vs " << equipo2->getNombre() << endl;
+        archivo << "  Partido R8-" << (i + 1) << ": " << equipo1->getNombre() << " vs " << equipo2->getNombre() << std::endl;
     }
 
     archivo.close();
-    cout << "Octavos programados. Guardado en R8.txt" << endl;
+    std::cout << "Octavos programados. Guardado en R8.txt" << std::endl;
 }
 
 void torneo::simularCuartos()
@@ -417,8 +416,8 @@ void torneo::simularCuartos()
     }
 
     ofstream archivo("/home/david/Documentos/Desafio2-udea/Desarrollo/CSV/cuartos.txt");
-    archivo << "=== CUARTOS DE FINAL ===" << endl;
-    archivo << endl;
+    archivo << "=== CUARTOS DE FINAL ===" << std::endl;
+    archivo << std::endl;
 
     int numPartidosCuartos = numClasificados / 2;
 
@@ -428,11 +427,11 @@ void torneo::simularCuartos()
         equipo *equipo2 = clasificados[i * 2 + 1];
         partidos[numPartidos] = new partido("", "", "", equipo1, equipo2);
         numPartidos = numPartidos + 1;
-        archivo << "  Cuartos-" << (i + 1) << ": " << equipo1->getNombre() << " vs " << equipo2->getNombre() << endl;
+        archivo << "  Cuartos-" << (i + 1) << ": " << equipo1->getNombre() << " vs " << equipo2->getNombre() << std::endl;
     }
 
     archivo.close();
-    cout << "Cuartos programados. Guardado en cuartos.txt" << endl;
+    std::cout << "Cuartos programados. Guardado en cuartos.txt" << std::endl;
 }
 
 void torneo::simularSemifinal()
@@ -456,8 +455,8 @@ void torneo::simularSemifinal()
     }
 
     ofstream archivo("/home/david/Documentos/Desafio2-udea/Desarrollo/CSV/semifinal.txt");
-    archivo << "=== SEMIFINALES ===" << endl;
-    archivo << endl;
+    archivo << "=== SEMIFINALES ===" << std::endl;
+    archivo << std::endl;
 
     int numPartidosSemi = numSemi / 2;
 
@@ -467,11 +466,11 @@ void torneo::simularSemifinal()
         equipo *equipo2 = semifinalistas[i * 2 + 1];
         partidos[numPartidos] = new partido("", "", "", equipo1, equipo2);
         numPartidos = numPartidos + 1;
-        archivo << "  Semifinal " << (i + 1) << ": " << equipo1->getNombre() << " vs " << equipo2->getNombre() << endl;
+        archivo << "  Semifinal " << (i + 1) << ": " << equipo1->getNombre() << " vs " << equipo2->getNombre() << std::endl;
     }
 
     archivo.close();
-    cout << "Semifinales programadas. Guardado en semifinal.txt" << endl;
+    std::cout << "Semifinales programadas. Guardado en semifinal.txt" << std::endl;
 }
 
 void torneo::simularFinal()
@@ -495,8 +494,8 @@ void torneo::simularFinal()
     }
 
     ofstream archivo("/home/david/Documentos/Desafio2-udea/Desarrollo/CSV/final.txt");
-    archivo << "=== GRAN FINAL ===" << endl;
-    archivo << endl;
+    archivo << "=== GRAN FINAL ===" << std::endl;
+    archivo << std::endl;
 
     if (numFinalistas == 2)
     {
@@ -506,15 +505,15 @@ void torneo::simularFinal()
         partidos[numPartidos] = new partido("", "", "", equipo1, equipo2);
         numPartidos = numPartidos + 1;
 
-        archivo << "  FINAL: " << equipo1->getNombre() << " vs " << equipo2->getNombre() << endl;
+        archivo << "  FINAL: " << equipo1->getNombre() << " vs " << equipo2->getNombre() << std::endl;
 
         archivo.close();
-        cout << "Final guardada en final.txt" << endl;
+        std::cout << "Final guardada en final.txt" << std::endl;
     }
     else
     {
         archivo.close();
-        cout << "Final guardada en final.txt" << endl;
+        std::cout << "Final guardada en final.txt" << std::endl;
     }
 }
 
@@ -565,40 +564,40 @@ void torneo::verificarAvanzeFase(int partidoActual)
     // Hitos para formato 2026: 72 grupos + 12 R16 + 6 R8 + 3 Cuartos + 2 Semifinal + 1 Final = 94 partidos
     if (partidoActual == 72)
     {
-        cout << "\n--- ETAPA DE GRUPOS FINALIZADA ---" << endl;
+        std::cout << "\n--- ETAPA DE GRUPOS FINALIZADA ---" << std::endl;
         ordenarGrupos();
         simularR16();
     }
     else if (partidoActual == 84)  // 72 + 12
     {
-        cout << "\n--- DIECISEISAVOS FINALIZADOS ---" << endl;
+        std::cout << "\n--- DIECISEISAVOS FINALIZADOS ---" << std::endl;
         simularR8();
     }
     else if (partidoActual == 90)  // 84 + 6
     {
-        cout << "\n--- OCTAVOS FINALIZADOS ---" << endl;
+        std::cout << "\n--- OCTAVOS FINALIZADOS ---" << std::endl;
         simularCuartos();
     }
     else if (partidoActual == 93)  // 90 + 3
     {
-        cout << "\n--- CUARTOS FINALIZADOS ---" << endl;
+        std::cout << "\n--- CUARTOS FINALIZADOS ---" << std::endl;
         simularSemifinal();
     }
     else if (partidoActual == 95)  // 93 + 2
     {
-        cout << "\n--- SEMIFINALES FINALIZADAS ---" << endl;
+        std::cout << "\n--- SEMIFINALES FINALIZADAS ---" << std::endl;
         simularFinal();
     }
     else if (partidoActual == 96)  // 95 + 1
     {
         determinarCampeon();
-        cout << "\n===================================" << endl;
-        cout << "EL TORNEO HA FINALIZADO POR COMPLETO" << endl;
+        std::cout << "\n===================================" << std::endl;
+        std::cout << "EL TORNEO HA FINALIZADO POR COMPLETO" << std::endl;
         if (campeon != nullptr)
         {
-            cout << "CAMPEON DEL MUNDO: " << campeon->getNombre() << " !!!" << endl;
+            std::cout << "CAMPEON DEL MUNDO: " << campeon->getNombre() << " !!!" << std::endl;
         }
-        cout << "===================================" << endl;
+        std::cout << "===================================" << std::endl;
     }
 }
 
@@ -606,17 +605,17 @@ void torneo::iniciarTorneo()
 {
     if (equipos[0] == nullptr)
     {
-        cout << "Cargando equipos automaticamente..." << endl;
+        std::cout << "Cargando equipos automaticamente..." << std::endl;
         cargarEquipos();
     }
     if (bombos[0][0] == nullptr)
     {
-        cout << "Conformando bombos automaticamente..." << endl;
+        std::cout << "Conformando bombos automaticamente..." << std::endl;
         conformarBombos();
     }
     if (grupos[0][0] == nullptr)
     {
-        cout << "Conformando grupos automaticamente..." << endl;
+        std::cout << "Conformando grupos automaticamente..." << std::endl;
         conformarGrupos();
     }
 
@@ -633,7 +632,7 @@ void torneo::iniciarTorneo()
         campeon = nullptr;
     }
 
-    cout << "Iniciando torneo y programando fase de grupos..." << endl;
+    std::cout << "Iniciando torneo y programando fase de grupos..." << std::endl;
     simularEtapaGrupos();
 
     int opcion;
@@ -641,12 +640,12 @@ void torneo::iniciarTorneo()
 
     do
     {
-        cout << "\n=== MENU DE SIMULACION ===" << endl;
-        cout << "Partidos jugados: " << partidoActual << " / " << numPartidos << endl;
-        cout << "1. Siguiente fecha (Simular 1 partido)" << endl;
-        cout << "2. Simular todos los partidos restantes" << endl;
-        cout << "3. Volver al menu principal" << endl;
-        cout << "Opcion: ";
+        std::cout << "\n=== MENU DE SIMULACION ===" << std::endl;
+        std::cout << "Partidos jugados: " << partidoActual << " / " << numPartidos << std::endl;
+        std::cout << "1. Siguiente fecha (Simular 1 partido)" << std::endl;
+        std::cout << "2. Simular todos los partidos restantes" << std::endl;
+        std::cout << "3. Volver al menu principal" << std::endl;
+        std::cout << "Opcion: ";
         cin >> opcion;
 
         if (opcion == 1)
@@ -665,12 +664,12 @@ void torneo::iniciarTorneo()
             }
             else
             {
-                cout << "El torneo ya ha finalizado!" << endl;
+                std::cout << "El torneo ya ha finalizado!" << std::endl;
             }
         }
         else if (opcion == 2)
         {
-            cout << "Simulando el resto del torneo en automatico..." << endl;
+            std::cout << "Simulando el resto del torneo en automatico..." << std::endl;
             while (partidoActual < numPartidos)
             {
                 partidos[partidoActual]->simular();
@@ -684,14 +683,14 @@ void torneo::iniciarTorneo()
             }
 
             // Mostrar reporte final automaticamente
-            cout << "" << endl;
-            cout << "=== TORNEO FINALIZADO ===" << endl;
+            std::cout << "" << std::endl;
+            std::cout << "=== TORNEO FINALIZADO ===" << std::endl;
             organizador::mostrarReporteFinal(equipos, numEquipos, partidos, numPartidos, campeon);
             organizador::medirRecursos(0, numEquipos, numPartidos, numEquipos * 26);
         }
         else if (opcion != 3)
         {
-            cout << "Opcion invalida." << endl;
+            std::cout << "Opcion invalida." << std::endl;
         }
     } while (opcion != 3);
 }

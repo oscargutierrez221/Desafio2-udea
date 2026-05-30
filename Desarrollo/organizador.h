@@ -4,9 +4,6 @@
 #include "equipo.h"
 #include "partido.h"
 
-
-using namespace std;
-
 class organizador {
 public:
   organizador();

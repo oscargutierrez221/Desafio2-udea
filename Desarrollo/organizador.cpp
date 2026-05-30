@@ -2,8 +2,6 @@
 #include "jugador.h"
 #include <iostream>
 
-using namespace std;
-
 organizador::organizador()
 {
 }
@@ -61,7 +59,7 @@ bool organizador::validarRestriccionesGrupos(equipo ***grupos, int numGrupos, in
 
 void organizador::asignarFechasYSedes(partido **partidos, int numPartidos)
 {
-    string sedes[] = {"Estadio Azteca", "AT&T Stadium", "SoFi Stadium",
+    std::string sedes[] = {"Estadio Azteca", "AT&T Stadium", "SoFi Stadium",
                       "Mercedes-Benz", "MetLife Stadium", "NRG Stadium",
                       "Lusail Stadium", "Al Bayt", "Al Janoub"};
     int numSedes = 9;
@@ -74,8 +72,8 @@ void organizador::asignarFechasYSedes(partido **partidos, int numPartidos)
     {
         if (partidos[i] != nullptr)
         {
-            string fecha = to_string(dia) + "/" + to_string(mes) + "/2026";
-            string hora;
+            std::string fecha = to_string(dia) + "/" + to_string(mes) + "/2026";
+            std::string hora;
 
             if (i % 2 == 0)
             {
@@ -155,11 +153,11 @@ equipo *organizador::obtenerGanadorReal(partido *p)
 
 void organizador::mostrarReporteFinal(equipo **equipos, int numEquipos, partido **partidos, int numPartidos, equipo *campeon)
 {
-    cout << "\n=== REPORTE FINAL DEL MUNDIAL ===" << endl;
+    std::cout << "\n=== REPORTE FINAL DEL MUNDIAL ===" << std::endl;
 
     if (campeon != nullptr)
     {
-        cout << "CAMPEON: " << campeon->getNombre() << endl;
+        std::cout << "CAMPEON: " << campeon->getNombre() << std::endl;
     }
 
     int maxGoles = -1;
@@ -183,13 +181,13 @@ void organizador::mostrarReporteFinal(equipo **equipos, int numEquipos, partido 
 
     if (maxEquipo != nullptr)
     {
-        cout << "Equipo mas goleador: " << maxEquipo->getNombre() << " con " << maxGoles << " goles" << endl;
+        std::cout << "Equipo mas goleador: " << maxEquipo->getNombre() << " con " << maxGoles << " goles" << std::endl;
     }
 
     // Buscar maximo goleador individual
     int maxGolesJugador = -1;
     jugador *maxGoleador = nullptr;
-    string nombreEquipoGoleador = "";
+    std::string nombreEquipoGoleador = "";
 
     for (i = 0; i < numEquipos; i = i + 1)
     {
@@ -214,21 +212,21 @@ void organizador::mostrarReporteFinal(equipo **equipos, int numEquipos, partido 
 
     if (maxGoleador != nullptr)
     {
-        cout << "Maximo goleador: " << maxGoleador->getNombre() << " " << maxGoleador->getApellido() << " (" << nombreEquipoGoleador << ") con " << maxGolesJugador << " goles" << endl;
+        std::cout << "Maximo goleador: " << maxGoleador->getNombre() << " " << maxGoleador->getApellido() << " (" << nombreEquipoGoleador << ") con " << maxGolesJugador << " goles" << std::endl;
     }
 
-    cout << "===================================" << endl;
+    std::cout << "===================================" << std::endl;
 }
 
 void organizador::medirRecursos(int iteracionesTotales, int numEquipos, int numPartidos, int numJugadores)
 {
-    cout << "\n=== MEDICION DE RECURSOS ===" << endl;
-    cout << "Iteraciones totales: " << iteracionesTotales << endl;
+    std::cout << "\n=== MEDICION DE RECURSOS ===" << std::endl;
+    std::cout << "Iteraciones totales: " << iteracionesTotales << std::endl;
 
     int memoriaEquipos = numEquipos * 200;
     int memoriaPartidos = numPartidos * 300;
     int memoriaJugadores = numJugadores * 150;
     int totalMemoria = memoriaEquipos + memoriaPartidos + memoriaJugadores;
 
-    cout << "Memoria estimada: " << totalMemoria << " bytes" << endl;
+    std::cout << "Memoria estimada: " << totalMemoria << " bytes" << std::endl;
 }

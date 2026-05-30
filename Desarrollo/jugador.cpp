@@ -1,9 +1,7 @@
 #include "jugador.h"
 #include <string>
 
-using namespace std;
-
-jugador::jugador(string nombre, string apellido, int numeroCamiseta)
+jugador::jugador(std::string nombre, std::string apellido, int numeroCamiseta)
 {
     this->nombre = nombre;
     this->apellido = apellido;
@@ -50,12 +48,12 @@ void jugador::cargarEstadisticas(int goles, int partidos, int minutos, int asist
     this->faltasCometidas = faltas;
 }
 
-string jugador::getNombre() const
+std::string jugador::getNombre() const
 {
     return nombre;
 }
 
-string jugador::getApellido() const
+std::string jugador::getApellido() const
 {
     return apellido;
 }
