@@ -56,7 +56,7 @@ El desarrollo del proyecto está sujeto a las siguientes limitaciones:
     
 4. **Sin Structs:** Está explícitamente prohibido el uso de `structs`.
     
-5. **Librerías Externas:** No se pueden usar librerías externas no autorizadas, a excepción de las autorizadas en clase, como `fstream` para manejo de archivos CSV, `string` para manejo de cadenas de texto.
+5. **Librerías Externas:** No se pueden usar librerías externas no autorizadas, a excepción de las autorizadas en clase, como `fstream` para manejo de archivos CSV, `std::string` para manejo de cadenas de texto.
     
 6. **Modularidad:** El código debe estar organizado de forma modular mediante el uso de múltiples archivos (archivos de cabecera `.h` y de implementación `.cpp`).
     

@@ -45,7 +45,7 @@ Desde el inicio tuvimos que trabajar bajo varias restricciones que nos dieron en
 
 4. **Sin structs:** Solo clases, porque estábamos aprendiendo POO. Las structs son más de C que de C++.
 
-5. **Librerías limitadas:** Solo podíamos usar `fstream` para archivos y `string` para texto. No querían que usáramos librerías externas que nos facilitaran el trabajo.
+5. **Librerías limitadas:** Solo podíamos usar `fstream` para archivos y `std::string` para texto. No querían que usáramos librerías externas que nos facilitaran el trabajo.
 
 6. **Código modular:** Separar todo en archivos `.h` y `.cpp` como se debe en proyectos profesionales.
 
@@ -112,17 +112,17 @@ Lo más importante de esta clase fue implementar la relación de **composición*
 
 #include "jugador.h"
 #include "resultados.h"
-#include <string>
+#include <std::string>
 
 using namespace std;
 
 class Equipo {
 private:
-    string nombre;
-    string pais;
-    string confederacion;
+    std::string nombre;
+    std::string pais;
+    std::string confederacion;
     int ranking;
-    string directorTecnico;
+    std::string directorTecnico;
     
     Jugador* jugadores[26];  // Máximo 26 jugadores por equipo
     int numJugadores;
@@ -131,18 +131,18 @@ private:
 public:
     // Constructores
     Equipo();
-    Equipo(string nombre, string pais, string confederacion, int ranking, string directorTecnico);
+    Equipo(std::string nombre, std::string pais, std::string confederacion, int ranking, std::string directorTecnico);
     Equipo(const Equipo &otro);  // Constructor por copia
     
     // Destructor
     ~Equipo();
     
     // Métodos principales
-    void agregarJugador(string nombre, string apellido, int camiseta, int goles, int amarillas, int rojas, int minutos, int partidos, int asistencias);
+    void agregarJugador(std::string nombre, std::string apellido, int camiseta, int goles, int amarillas, int rojas, int minutos, int partidos, int asistencias);
     
     // Getters
-    string getNombre() const;
-    string getConfederacion() const;
+    std::string getNombre() const;
+    std::string getConfederacion() const;
     int getRanking() const;
     Resultados& getResultados();
     Jugador* getJugador(int i) const;
@@ -152,7 +152,7 @@ public:
 #endif
 ```
 
-El constructor por defecto inicializa todo en valores por defecto (strings vacíos, ranking en 0, numJugadores en 0). Que lo pusimos siguiendo las indicaciones de clases donde dijeron que a pesar de que no fuese necesario era una buena practica:
+El constructor por defecto inicializa todo en valores por defecto (std::strings vacíos, ranking en 0, numJugadores en 0). Que lo pusimos siguiendo las indicaciones de clases donde dijeron que a pesar de que no fuese necesario era una buena practica:
 
 ```cpp
 Equipo::Equipo() {
@@ -179,7 +179,7 @@ Equipo::~Equipo() {
 El método `agregarJugador` crea un nuevo jugador con `new` y lo añade al arreglo:
 
 ```cpp
-void Equipo::agregarJugador(string nombre, string apellido, int camiseta, int goles, int amarillas, int rojas, int minutos, int partidos, int asistencias) {
+void Equipo::agregarJugador(std::string nombre, std::string apellido, int camiseta, int goles, int amarillas, int rojas, int minutos, int partidos, int asistencias) {
     if (numJugadores < 26) {
         // Creamos el jugador con new (memoria dinámica)
         jugadores[numJugadores] = new Jugador(nombre, apellido, camiseta);
@@ -202,14 +202,14 @@ La clase `Jugador` almacena la información de cada futbolista. Es una clase rel
 #ifndef JUGADOR_H
 #define JUGADOR_H
 
-#include <string>
+#include <std::string>
 using namespace std;
 
 class Jugador {
 private:
     // Datos básicos
-    string nombre;
-    string apellido;
+    std::string nombre;
+    std::string apellido;
     int numeroCamiseta;
     
     // Estadísticas
@@ -222,7 +222,7 @@ private:
     int minutosJugados;
 
 public:
-    Jugador(string nombre, string apellido, int numeroCamiseta);
+    Jugador(std::string nombre, std::string apellido, int numeroCamiseta);
     Jugador(const Jugador &otro);
     ~Jugador();
     
@@ -230,8 +230,8 @@ public:
     void cargarEstadisticas(int goles, int partidos, int minutos, int asistencias, int amarillas, int rojas, int faltas);
     
     // Getters
-    string getNombre() const;
-    string getApellido() const;
+    std::string getNombre() const;
+    std::string getApellido() const;
     int getGoles() const;
 };
 
@@ -267,7 +267,7 @@ void Jugador::cargarEstadisticas(int goles, int partidos, int minutos, int asist
 }
 ```
 
-El destructor de `Jugador` está vacío porque esta clase no crea objetos dinámicamente, solo almacena datos simples (`strings` e `int`).
+El destructor de `Jugador` está vacío porque esta clase no crea objetos dinámicamente, solo almacena datos simples (`std::strings` e `int`).
 
 #### **Resultados (resultados.h / resultados.cpp)**
 
@@ -354,13 +354,13 @@ Aquí está la magia de la simulación. La clase `Partido` representa un encuent
 
 #include "equipo.h"
 #include "resultados.h"
-#include <string>
+#include <std::string>
 
 class Partido {
 private:
-    string fecha;
-    string hora;
-    string sede;
+    std::string fecha;
+    std::string hora;
+    std::string sede;
     
     Equipo* equipo1;
     Equipo* equipo2;
@@ -373,7 +373,7 @@ private:
 
 public:
     Partido();
-    Partido(string fecha, string hora, string sede, Equipo* equipo1, Equipo* equipo2);
+    Partido(std::string fecha, std::string hora, std::string sede, Equipo* equipo1, Equipo* equipo2);
     ~Partido();
     
     void simular();
@@ -384,9 +384,9 @@ public:
     Equipo* getEquipo2() const;
     Equipo* getGanador() const;
     void setGanador(Equipo* g);
-    void setFecha(string f);
-    void setHora(string h);
-    void setSede(string s);
+    void setFecha(std::string f);
+    void setHora(std::string h);
+    void setSede(std::string s);
 };
 
 #endif
@@ -674,8 +674,8 @@ El método `cargarEquipos()` lee el archivo de texto con los datos de equipos y 
 void Torneo::cargarEquipos() {
     ifstream archivo("Desarrollo/CSV/equipos.txt");
     
-    string paisCsv[1000];
-    string nombreCsv[1000];
+    std::string paisCsv[1000];
+    std::string nombreCsv[1000];
     // ... Y los demas array... 
     
     int total = 0;
@@ -694,12 +694,12 @@ void Torneo::cargarEquipos() {
 }
 ```
 
-**Función auxiliar para convertir strings a enteros:**
+**Función auxiliar para convertir std::strings a enteros:**
 
 Como leemos todo como texto del CSV, necesitamos convertir los números:
 
 ```cpp
-int convertirAEntero(string texto) {
+int convertirAEntero(std::string texto) {
     int numero = 0;
     for (int i = 0; i < texto.length(); i++) {
         char digito = texto[i];
@@ -758,20 +758,20 @@ void torneo::conformarGrupos()
 
     // Guardamos en archivo
     ofstream archivo("/home/david/Documentos/Desafio2-udea/Desarrollo/CSV/conformarGrupos.txt");
-    archivo << "=== GRUPOS DEL TORNEO ===" << endl;
+    archivo << "=== GRUPOS DEL TORNEO ===" << std::endl;
 
     int g;
     int e;
 
     for (g = 0; g < numGrupos; g = g + 1)
     {
-        archivo << endl << "GRUPO " << (g + 1) << ":" << endl;
+        archivo << std::endl << "GRUPO " << (g + 1) << ":" << std::endl;
 
         for (e = 0; e < equiposPorGrupo; e = e + 1)
         {
             if (grupos[g][e] != nullptr)
             {
-                archivo << "  - " << grupos[g][e]->getNombre() << endl;
+                archivo << "  - " << grupos[g][e]->getNombre() << std::endl;
             }
         }
     }
@@ -782,10 +782,10 @@ void torneo::conformarGrupos()
     bool valido = organizador::validarRestriccionesGrupos(grupos, numGrupos, equiposPorGrupo);
     if (valido == false)
     {
-        cout << "ADVERTENCIA: Algunos grupos no cumplen restricciones de confederacion (max 2 UEFA)" << endl;
+        std::cout << "ADVERTENCIA: Algunos grupos no cumplen restricciones de confederacion (max 2 UEFA)" << std::endl;
     }
 
-    cout << "Grupos conformados. Guardado en conformarGrupos.txt" << endl;
+    std::cout << "Grupos conformados. Guardado en conformarGrupos.txt" << std::endl;
 }
 ```
 
@@ -795,7 +795,7 @@ Generamos todos los partidos de grupos (todos contra todos):
 
 ```cpp
 void Torneo::simularEtapaGrupos() {
-    string letras = "ABCDEFGHIJKL";  // 12 grupos
+    std::string letras = "ABCDEFGHIJKL";  // 12 grupos
     
     for (int g = 0; g < numGrupos; g++) {
         for (int e1 = 0; e1 < equiposPorGrupo; e1++) {
@@ -952,7 +952,7 @@ Nos costó muchísimo entender la sintaxis de `Equipo**` y `Equipo***`. Al princ
 En varias ocasiones el programa se colgaba porque liberábamos memoria en el orden incorrecto. Aprendimos que primero hay que hacer `delete` de los objetos individuales, luego `delete[]` de los arrays, y seguir ese orden estrictamente. También tuvimos cuidado con los punteros dobles: primero liberamos las filas de la matriz, luego la matriz misma.
 
 **Parsear el archivo CSV:**
-Leer el archivo de equipos con `getline()` fue más difícil de lo que pensábamos. Tuvimos que manejar correctamente las comas y crear nuestra propia función para convertir strings a enteros porque estábamos leyendo todo como texto. Al principio los números nos daban valores raros porque no convertíamos bien los caracteres a enteros.
+Leer el archivo de equipos con `getline()` fue más difícil de lo que pensábamos. Tuvimos que manejar correctamente las comas y crear nuestra propia función para convertir std::strings a enteros porque estábamos leyendo todo como texto. Al principio los números nos daban valores raros porque no convertíamos bien los caracteres a enteros.
 
 **Validar restricciones de grupos:**
 Implementar la regla de "máximo 2 equipos de UEFA por grupo" nos obligó a crear un algoritmo que recorriera todos los grupos, contara equipos por confederación, y rehiciera el sorteo si no se cumplía. Fue un buen ejercicio de lógica de programación. No implementamos el reshuffle completo por falta de tiempo, pero la validación sí está funcionando.
